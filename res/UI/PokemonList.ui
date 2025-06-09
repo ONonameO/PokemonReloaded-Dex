@@ -546,6 +546,19 @@ border: none;</string>
         <string>属性抗性</string>
        </property>
        <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="2">
+         <widget class="QPushButton" name="Button_Ability3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>特性3</string>
+          </property>
+         </widget>
+        </item>
         <item row="0" column="0">
          <widget class="QPushButton" name="Button_Ability1">
           <property name="sizePolicy">
@@ -559,7 +572,20 @@ border: none;</string>
           </property>
          </widget>
         </item>
-        <item row="1" column="0" colspan="3">
+        <item row="0" column="1">
+         <widget class="QPushButton" name="Button_Ability2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>特性2</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0" colspan="4">
          <widget class="QTableWidget" name="type_def">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
@@ -667,8 +693,8 @@ border: none;</string>
           </column>
          </widget>
         </item>
-        <item row="0" column="1">
-         <widget class="QPushButton" name="Button_Ability2">
+        <item row="0" column="3">
+         <widget class="QPushButton" name="Button_Ability4">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
             <horstretch>0</horstretch>
@@ -676,20 +702,7 @@ border: none;</string>
            </sizepolicy>
           </property>
           <property name="text">
-           <string>特性2</string>
-          </property>
-         </widget>
-        </item>
-        <item row="0" column="2">
-         <widget class="QPushButton" name="Button_Ability3">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="text">
-           <string>特性3</string>
+           <string>特性4</string>
           </property>
          </widget>
         </item>

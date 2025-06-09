@@ -319,6 +319,7 @@ class PokemonWidget(QWidget, PokemonList.Ui_Win_PokemonList):
         self.Button_Ability1.clicked.connect(lambda: self.handle_ability_click(0))
         self.Button_Ability2.clicked.connect(lambda: self.handle_ability_click(1))
         self.Button_Ability3.clicked.connect(lambda: self.handle_ability_click(2))
+        self.Button_Ability4.clicked.connect(lambda: self.handle_ability_click(3))
 
     def handle_ability_click(self, index):
         """处理特性按钮点击事件"""
@@ -654,7 +655,7 @@ class PokemonWidget(QWidget, PokemonList.Ui_Win_PokemonList):
     def update_abilities(self, pokemon):
         """更新特性按钮"""
         abilities = pokemon["Ability"]
-        for i in range(3):  # 遍历三个特性按钮
+        for i in range(4):  # 遍历4个特性按钮
             ability_id = abilities[i]
             button = getattr(self, f"Button_Ability{i + 1}")  # 获取对应的按钮对象
             if ability_id is None:
