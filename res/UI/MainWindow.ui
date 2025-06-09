@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1150</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1150</width>
+    <height>500</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>【宝可梦重装上阵】图鉴 —— by B站 我不是西药</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normalon>res/icon/icon.png</normalon>
+   </iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow { background-color: rgb(250,250,250); }</string>
+  </property>
+  <widget class="QWidget" name="widget">
+   <layout class="QGridLayout" name="gridLayout" rowstretch="2,2,1,2" columnstretch="1,1,1" rowminimumheight="2,2,1,2" columnminimumwidth="1,1,1">
+    <property name="leftMargin">
+     <number>50</number>
+    </property>
+    <property name="topMargin">
+     <number>50</number>
+    </property>
+    <property name="rightMargin">
+     <number>50</number>
+    </property>
+    <property name="bottomMargin">
+     <number>50</number>
+    </property>
+    <property name="spacing">
+     <number>20</number>
+    </property>
+    <item row="0" column="0">
+     <widget class="QPushButton" name="Button_Pokemon">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  精灵</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/pokemon.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>60</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QPushButton" name="Button_Map">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  地图</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/map.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>60</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QPushButton" name="Button_Move">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  招式</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/move.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>60</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="2">
+     <widget class="QPushButton" name="Button_Ability">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  特性</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/ability.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>60</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QPushButton" name="Button_Item">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  道具</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/item.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>55</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QPushButton" name="Button_Form">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  属性克制表</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/form.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>55</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QPushButton" name="Button_Hit">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Microsoft YaHei UI</family>
+        <pointsize>15</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>  打击面计算</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>res/icon/hit.png</normalon>
+       </iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>55</width>
+        <height>60</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1150</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_Strategy">
+    <property name="tearOffEnabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>游戏攻略</string>
+    </property>
+    <widget class="QMenu" name="menu_wiki">
+     <property name="title">
+      <string>游戏Wiki</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>res/icon/fandom.png</normalon>
+      </iconset>
+     </property>
+     <addaction name="action_52poke"/>
+     <addaction name="separator"/>
+     <addaction name="action_wiki"/>
+     <addaction name="action_starter"/>
+     <addaction name="action_unique"/>
+     <addaction name="action_legend"/>
+     <addaction name="action_ultra"/>
+    </widget>
+    <widget class="QMenu" name="menu_process">
+     <property name="title">
+      <string>流程攻略</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>res/icon/process.png</normalon>
+      </iconset>
+     </property>
+     <addaction name="action_process_video"/>
+     <addaction name="action_process_1"/>
+     <addaction name="action_process_2"/>
+     <addaction name="action_process_3"/>
+    </widget>
+    <widget class="QMenu" name="menu_egg">
+     <property name="title">
+      <string>孵蛋教程</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>res/icon/egg.png</normalon>
+      </iconset>
+     </property>
+     <addaction name="action_egg_1"/>
+     <addaction name="action_egg_2"/>
+    </widget>
+    <widget class="QMenu" name="menu_ZCrystal">
+     <property name="title">
+      <string>Z试炼攻略</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>res/icon/Z-Crystal.png</normalon>
+      </iconset>
+     </property>
+     <addaction name="action_ZCrystal_paper"/>
+     <addaction name="action_ZCrystal_video"/>
+    </widget>
+    <widget class="QMenu" name="menu_character">
+     <property name="title">
+      <string>角色更改教程</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>res/icon/character.png</normalon>
+      </iconset>
+     </property>
+     <addaction name="action_character_video"/>
+     <addaction name="action_IDform"/>
+    </widget>
+    <addaction name="menu_wiki"/>
+    <addaction name="menu_process"/>
+    <addaction name="menu_egg"/>
+    <addaction name="menu_character"/>
+    <addaction name="menu_ZCrystal"/>
+    <addaction name="action_money"/>
+    <addaction name="action_instruction"/>
+    <addaction name="action_keyboard"/>
+   </widget>
+   <widget class="QMenu" name="menu_help">
+    <property name="title">
+     <string>帮助</string>
+    </property>
+    <addaction name="action_introduction"/>
+    <addaction name="action_about"/>
+   </widget>
+   <addaction name="menu_Strategy"/>
+   <addaction name="menu_help"/>
+  </widget>
+  <action name="action_keyboard">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/keyboard.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>按键说明</string>
+   </property>
+  </action>
+  <action name="action_game">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/wiki.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>游戏作者 Fer 主页【要梯子】</string>
+   </property>
+  </action>
+  <action name="action_wiki">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/wiki.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>游戏官方Wiki【西班牙文】</string>
+   </property>
+  </action>
+  <action name="action_52poke">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/52poke.ico</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>神奇宝贝百科【中文】</string>
+   </property>
+  </action>
+  <action name="action_starter">
+   <property name="icon">
+    <iconset>
+     <normalon>res/pkmn_icon/4.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>定点御三家位置</string>
+   </property>
+  </action>
+  <action name="action_unique">
+   <property name="icon">
+    <iconset>
+     <normalon>res/pkmn_icon/12_P.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>独特宝可梦位置</string>
+   </property>
+  </action>
+  <action name="action_legend">
+   <property name="icon">
+    <iconset>
+     <normalon>res/pkmn_icon/251.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>神兽获取方式</string>
+   </property>
+  </action>
+  <action name="action_ultra">
+   <property name="icon">
+    <iconset>
+     <normalon>res/pkmn_icon/803.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>究极异兽获取方式</string>
+   </property>
+  </action>
+  <action name="action_B_Fun">
+   <property name="text">
+    <string>一周目流程攻略【B站 牛Fun丶视频】</string>
+   </property>
+  </action>
+  <action name="action_process_video">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>一周目流程攻略【B站 牛Fun丶视频】</string>
+   </property>
+  </action>
+  <action name="action_process_1">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/1.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>一周目流程攻略【官方Wiki】</string>
+   </property>
+  </action>
+  <action name="action_process_2">
+   <property name="icon">
+    <iconset>
+     <normaloff>res/icon/champion.png</normaloff>res/icon/champion.png</iconset>
+   </property>
+   <property name="text">
+    <string>联盟之后流程攻略【官方Wiki】</string>
+   </property>
+  </action>
+  <action name="action_process_3">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/battle.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>前线之后流程攻略【官方Wiki】</string>
+   </property>
+  </action>
+  <action name="action_introduction">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/introduction.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>图鉴说明</string>
+   </property>
+  </action>
+  <action name="action_about">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/about.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>关于</string>
+   </property>
+  </action>
+  <action name="action_money">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/money.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>快速赚钱攻略</string>
+   </property>
+  </action>
+  <action name="action_instruction">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/instruction.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>刷努力值攻略</string>
+   </property>
+  </action>
+  <action name="action_egg_1">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>孵蛋机制介绍</string>
+   </property>
+  </action>
+  <action name="action_egg_2">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>拒蛋法2.0 (可刷闪、刷梦幻)</string>
+   </property>
+  </action>
+  <action name="action_ZCrystal_paper">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Z试炼路线【图文】</string>
+   </property>
+  </action>
+  <action name="action_ZCrystal_video">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Z试炼路线【视频】</string>
+   </property>
+  </action>
+  <action name="action_character_video">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/bilibili.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>角色更改教程【视频】</string>
+   </property>
+  </action>
+  <action name="action_IDform">
+   <property name="icon">
+    <iconset>
+     <normalon>res/icon/id.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>角色代码大全</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
