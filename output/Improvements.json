@@ -1,0 +1,731 @@
+[
+    {
+        "id": 61,
+        "type": "强化道具",
+        "cName": "力量强化",
+        "eName": "X Attack",
+        "esName": "Ataque X",
+        "explain": "大幅提高战斗中宝可梦攻击的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 62,
+        "type": "强化道具",
+        "cName": "防御强化",
+        "eName": "X Defense",
+        "esName": "Defensa X",
+        "explain": "大幅提高战斗中宝可梦防御的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 63,
+        "type": "强化道具",
+        "cName": "速度强化",
+        "eName": "X Speed",
+        "esName": "Velocidad X",
+        "explain": "大幅提高战斗中宝可梦速度的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 64,
+        "type": "强化道具",
+        "cName": "命中强化",
+        "eName": "X Accuracy",
+        "esName": "Precisión X",
+        "explain": "大幅提高战斗中宝可梦命中的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 65,
+        "type": "强化道具",
+        "cName": "特攻强化",
+        "eName": "X Special",
+        "esName": "Especial X",
+        "explain": "大幅提高战斗中宝可梦特攻的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 66,
+        "type": "强化道具",
+        "cName": "特防强化",
+        "eName": "X Special Defend",
+        "esName": "Def. Espec. X",
+        "explain": "大幅提高战斗中宝可梦特防的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 67,
+        "type": "强化道具",
+        "cName": "要害攻击",
+        "eName": "Dire Hit",
+        "esName": "Directo",
+        "explain": "大幅提高战斗中宝可梦击中要害几率的道具.离场后，效果便会消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 68,
+        "type": "强化道具",
+        "cName": "能力防守",
+        "eName": "Guard Spec.",
+        "esName": "Prot. Especial",
+        "explain": "在战斗中，不让我方能力降低的道具.",
+        "ceffect": ""
+    },
+    {
+        "id": 69,
+        "type": "强化道具",
+        "cName": "PP多项全补剂",
+        "eName": "Max Elixir",
+        "esName": "Max. Elixir",
+        "explain": "在战斗回复宝可梦所有PP的道具.",
+        "ceffect": ""
+    },
+    {
+        "id": 70,
+        "type": "强化道具",
+        "cName": "HP增强剂",
+        "eName": "HP Up",
+        "esName": "Mas PS",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的HP努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 71,
+        "type": "强化道具",
+        "cName": "特攻增强剂",
+        "eName": "Calcium",
+        "esName": "Calcio",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的特攻努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 72,
+        "type": "强化道具",
+        "cName": "防御增强剂",
+        "eName": "Iron",
+        "esName": "Hierro",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的防御努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 73,
+        "type": "强化道具",
+        "cName": "速度增强剂",
+        "eName": "Carbos",
+        "esName": "Carburante",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的速度努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 74,
+        "type": "强化道具",
+        "cName": "攻击增强剂",
+        "eName": "Protein",
+        "esName": "Proteína",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的攻击努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 75,
+        "type": "强化道具",
+        "cName": "特防增强剂",
+        "eName": "Zinc",
+        "esName": "Zinc",
+        "explain": "宝可梦的营养饮料.能提高1只宝可梦的特防努力值.",
+        "ceffect": ""
+    },
+    {
+        "id": 76,
+        "type": "强化道具",
+        "cName": "神奇糖果",
+        "eName": "Rare Candy",
+        "esName": "Caramelo Raro",
+        "explain": "充满能量的糖果.",
+        "ceffect": "对精灵蛋使用，精灵蛋会立刻孵化.\n对宝可梦使用，宝可梦的等级会提升1级.\n(但努力值会随机降低1点)"
+    },
+    {
+        "id": 77,
+        "type": "强化道具",
+        "cName": "特性胶囊",
+        "eName": "Ability Capsule",
+        "esName": "Cápsula habilidad",
+        "explain": "可以让宝可梦在2种普通特性之间切换，\n也可以让宝可梦从隐藏特性变为普通特性.",
+        "ceffect": ""
+    },
+    {
+        "id": 78,
+        "type": "强化道具",
+        "cName": "密封胶囊",
+        "eName": "Lock Capsule",
+        "esName": "Cápsula candado",
+        "explain": "可以让宝可梦在2种隐藏特性之间切换，\n也可以让宝可梦从普通特性变为隐藏特性.",
+        "ceffect": ""
+    },
+    {
+        "id": 79,
+        "type": "强化道具",
+        "cName": "体力之羽",
+        "eName": "Health Wing",
+        "esName": "Pluma vigor",
+        "explain": "宝可梦携带该道具升级时，会提升1点HP个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 80,
+        "type": "强化道具",
+        "cName": "肌力之羽",
+        "eName": "Muscle Wing",
+        "esName": "Pluma músculo",
+        "explain": "宝可梦携带该道具升级时，会提升1点攻击个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 81,
+        "type": "强化道具",
+        "cName": "抵抗之羽",
+        "eName": "Resist Wing",
+        "esName": "Pluma aguante",
+        "explain": "宝可梦携带该道具升级时，会提升1点防御个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 82,
+        "type": "强化道具",
+        "cName": "智力之羽",
+        "eName": "Genius Wing",
+        "esName": "Pluma intelecto",
+        "explain": "宝可梦携带该道具升级时，会提升1点特攻个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 83,
+        "type": "强化道具",
+        "cName": "精神之羽",
+        "eName": "Clever Wing",
+        "esName": "Pluma mente",
+        "explain": "宝可梦携带该道具升级时，会提升1点特防个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 84,
+        "type": "强化道具",
+        "cName": "瞬发之羽",
+        "eName": "Swift Wing",
+        "esName": "Pluma ímpetu",
+        "explain": "宝可梦携带该道具升级时，会提升1点速度个体值.使用后消失.",
+        "ceffect": ""
+    },
+    {
+        "id": 85,
+        "type": "强化道具",
+        "cName": "美丽之羽",
+        "eName": "Pretty Wing",
+        "esName": "Pluma bella",
+        "explain": "仅仅只是漂亮，没有任何效果，极其普通的羽毛.",
+        "ceffect": "可以在Mercury Island找鸟类学者兑换提升个体值的羽毛.\n(体力之羽、肌力之羽、抵抗之羽、智力之羽、精神之羽、瞬发之羽)"
+    },
+    {
+        "id": 86,
+        "type": "强化道具",
+        "cName": "银色王冠",
+        "eName": "Bottle Cap",
+        "esName": "Chapa plateada",
+        "explain": "银色的美丽王冠.有些人收到它会很高兴.",
+        "ceffect": "宝可梦携带该道具升级后，可以使随机1项个体值提升至最大值.使用后消失."
+    },
+    {
+        "id": 87,
+        "type": "强化道具",
+        "cName": "金色王冠",
+        "eName": "Gold Bottle Cap",
+        "esName": "Chapa dorada",
+        "explain": "金色的美丽王冠.比银色王冠珍贵.有些人收到它会很高兴.",
+        "ceffect": "100级的宝可梦携带该道具后进行战斗，有概率消耗该道具并使所有个体值提升至最大值.\n(对手越强大，概率越高)"
+    },
+    {
+        "id": 88,
+        "type": "强化道具",
+        "cName": "力量负重",
+        "eName": "Power Weight",
+        "esName": "Pesa Recia",
+        "explain": "虽然携带后速度会降低，但宝可梦的HP努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 89,
+        "type": "强化道具",
+        "cName": "力量护腕",
+        "eName": "Power Bracer",
+        "esName": "Brazal Recio",
+        "explain": "虽然携带后速度会降低，但宝可梦的攻击努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 90,
+        "type": "强化道具",
+        "cName": "力量腰带",
+        "eName": "Power Belt",
+        "esName": "Cinto Recio",
+        "explain": "虽然携带后速度会降低，但宝可梦的防御努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 91,
+        "type": "强化道具",
+        "cName": "力量镜",
+        "eName": "Power Lens",
+        "esName": "Lente Recia",
+        "explain": "虽然携带后速度会降低，但宝可梦的特攻努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 92,
+        "type": "强化道具",
+        "cName": "力量束带",
+        "eName": "Power Band",
+        "esName": "Banda Recia",
+        "explain": "虽然携带后速度会降低，但宝可梦的特防努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 93,
+        "type": "强化道具",
+        "cName": "力量护踝",
+        "eName": "Power Anklet",
+        "esName": "Franja Recia",
+        "explain": "虽然携带后速度会降低，但宝可梦的速度努力值会比平时成长得更高.",
+        "ceffect": ""
+    },
+    {
+        "id": 94,
+        "type": "强化道具",
+        "cName": "导电护腕",
+        "eName": "Conductive Bracer",
+        "esName": "Braz. Conduct.",
+        "explain": "携带后，可以使电系招式攻击到地面系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 95,
+        "type": "强化道具",
+        "cName": "正义护腕",
+        "eName": "Justice Bracer",
+        "esName": "Braz. Justicia",
+        "explain": "携带后，可以使超能系招式攻击到恶系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 96,
+        "type": "强化道具",
+        "cName": "灵魂护腕",
+        "eName": "Spirit Bracer",
+        "esName": "Braz. Espíritu",
+        "explain": "携带后，可以使一般系和格斗系招式攻击到幽灵系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 97,
+        "type": "强化道具",
+        "cName": "大地护腕",
+        "eName": "Earthly Bracer",
+        "esName": "Braz. Terrenal",
+        "explain": "携带后，可以使幽灵系招式攻击到一般系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 98,
+        "type": "强化道具",
+        "cName": "天界护腕",
+        "eName": "Celestial Bracer",
+        "esName": "Braz. Celestial",
+        "explain": "携带后，可以使地面系招式攻击到飞行系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 99,
+        "type": "强化道具",
+        "cName": "腐蚀护腕",
+        "eName": "Corrosive Bracer",
+        "esName": "Braz. Corrosivo",
+        "explain": "携带后，可以使毒系招式攻击到钢系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 100,
+        "type": "强化道具",
+        "cName": "魔法护腕",
+        "eName": "Magic Bracer",
+        "esName": "Braz. Mágico",
+        "explain": "携带后，可以使龙系招式攻击到妖精系宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 101,
+        "type": "强化道具",
+        "cName": "一般宝石",
+        "eName": "Normal Gem",
+        "esName": "Gema Normal",
+        "explain": "一般属性的宝石.\n携带后，一般属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 102,
+        "type": "强化道具",
+        "cName": "火之宝石",
+        "eName": "Fire Gem",
+        "esName": "Gema Fuego",
+        "explain": "火属性的宝石.\n携带后，火属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 103,
+        "type": "强化道具",
+        "cName": "水之宝石",
+        "eName": "Water Gem",
+        "esName": "Gema Agua",
+        "explain": "水属性的宝石.\n携带后，水属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 104,
+        "type": "强化道具",
+        "cName": "草之宝石",
+        "eName": "Grass Gem",
+        "esName": "Gema Planta",
+        "explain": "草属性的宝石.\n携带后，草属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 105,
+        "type": "强化道具",
+        "cName": "电之宝石",
+        "eName": "Electric Gem",
+        "esName": "Gema Eléctrica",
+        "explain": "电属性的宝石.\n携带后，电属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 106,
+        "type": "强化道具",
+        "cName": "岩石宝石",
+        "eName": "Rock Gem",
+        "esName": "Gema Roca",
+        "explain": "岩石属性的宝石.\n携带后，岩石属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 107,
+        "type": "强化道具",
+        "cName": "格斗宝石",
+        "eName": "Fighting Gem",
+        "esName": "Gema Lucha",
+        "explain": "格斗属性的宝石.\n携带后，格斗属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 108,
+        "type": "强化道具",
+        "cName": "地面宝石",
+        "eName": "Ground Gem",
+        "esName": "Gema Tierra",
+        "explain": "地面属性的宝石.\n携带后，地面属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 109,
+        "type": "强化道具",
+        "cName": "超能力宝石",
+        "eName": "Psychic Gem",
+        "esName": "Gema Psíquica",
+        "explain": "超能力属性的宝石.\n携带后，超能力属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 110,
+        "type": "强化道具",
+        "cName": "毒之宝石",
+        "eName": "Poison Gem",
+        "esName": "Gema Veneno",
+        "explain": "毒属性的宝石.\n携带后，毒属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 111,
+        "type": "强化道具",
+        "cName": "虫之宝石",
+        "eName": "Bug Gem",
+        "esName": "Gema Bicho",
+        "explain": "虫属性的宝石.\n携带后，虫属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 112,
+        "type": "强化道具",
+        "cName": "冰之宝石",
+        "eName": "Ice Gem",
+        "esName": "Gema Hielo",
+        "explain": "冰属性的宝石.\n携带后，冰属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 113,
+        "type": "强化道具",
+        "cName": "恶之宝石",
+        "eName": "Dark Gem",
+        "esName": "Gema Siniestra",
+        "explain": "恶属性的宝石.\n携带后，恶属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 114,
+        "type": "强化道具",
+        "cName": "钢之宝石",
+        "eName": "Steel Gem",
+        "esName": "Gema Acero",
+        "explain": "钢属性的宝石.\n携带后，钢属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 115,
+        "type": "强化道具",
+        "cName": "飞行宝石",
+        "eName": "Flying Gem",
+        "esName": "Gema Voladora",
+        "explain": "飞行属性的宝石.\n携带后，飞行属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 116,
+        "type": "强化道具",
+        "cName": "幽灵宝石",
+        "eName": "Ghost Gem",
+        "esName": "Gema Fantasma",
+        "explain": "幽灵属性的宝石.\n携带后，幽灵属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 117,
+        "type": "强化道具",
+        "cName": "龙之宝石",
+        "eName": "Dragon Gem",
+        "esName": "Gema Dragón",
+        "explain": "龙属性的宝石.\n携带后，龙属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 118,
+        "type": "强化道具",
+        "cName": "妖精宝石",
+        "eName": "Fairy Gem",
+        "esName": "Gema Hada",
+        "explain": "妖精属性的宝石.\n携带后，妖精属性的招式威力仅会增强1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 119,
+        "type": "强化道具",
+        "cName": "一般石板",
+        "eName": "Common Plate",
+        "esName": "Tabla Común",
+        "explain": "一般属性的石板.\n携带后，一般属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 120,
+        "type": "强化道具",
+        "cName": "火球石板",
+        "eName": "Flame Plate",
+        "esName": "Tabla Fuego",
+        "explain": "火属性的石板.\n携带后，火属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 121,
+        "type": "强化道具",
+        "cName": "水滴石板",
+        "eName": "Splash Plate",
+        "esName": "Tabla Linfa",
+        "explain": "水属性的石板.\n携带后，水属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 122,
+        "type": "强化道具",
+        "cName": "碧绿石板",
+        "eName": "Meadow Plate",
+        "esName": "Tabla Pradal",
+        "explain": "草属性的石板.\n携带后，草属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 123,
+        "type": "强化道具",
+        "cName": "雷电石板",
+        "eName": "Zap Plate",
+        "esName": "Tabla Trueno",
+        "explain": "电属性的石板.\n携带后，电属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 124,
+        "type": "强化道具",
+        "cName": "岩石石板",
+        "eName": "Stone Plate",
+        "esName": "Tabla Pétrea",
+        "explain": "岩石属性的石板.\n携带后，岩石属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 125,
+        "type": "强化道具",
+        "cName": "拳头石板",
+        "eName": "Fist Plate",
+        "esName": "Tabla Fuerte",
+        "explain": "格斗属性的石板.\n携带后，格斗属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 126,
+        "type": "强化道具",
+        "cName": "大地石板",
+        "eName": "Earth Plate",
+        "esName": "Tabla Terrax",
+        "explain": "地面属性的石板.\n携带后，地面属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 127,
+        "type": "强化道具",
+        "cName": "神奇石板",
+        "eName": "Mind Plate",
+        "esName": "Tabla Mental",
+        "explain": "超能力属性的石板.\n携带后，超能力属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 128,
+        "type": "强化道具",
+        "cName": "剧毒石板",
+        "eName": "Toxic Plate",
+        "esName": "Tabla Tóxica",
+        "explain": "毒属性的石板.\n携带后，毒属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 129,
+        "type": "强化道具",
+        "cName": "玉虫石板",
+        "eName": "Insect Plate",
+        "esName": "Tabla Bicho",
+        "explain": "虫属性的石板.\n携带后，虫属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 130,
+        "type": "强化道具",
+        "cName": "冰柱石板",
+        "eName": "Icicle Plate",
+        "esName": "Tabla Helada",
+        "explain": "冰属性的石板.\n携带后，冰属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 131,
+        "type": "强化道具",
+        "cName": "恶颜石板",
+        "eName": "Dread Plate",
+        "esName": "Tabla Oscura",
+        "explain": "恶属性的石板.\n携带后，恶属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 132,
+        "type": "强化道具",
+        "cName": "钢铁石板",
+        "eName": "Iron Plate",
+        "esName": "Tabla Acero",
+        "explain": "钢属性的石板.\n携带后，钢属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 133,
+        "type": "强化道具",
+        "cName": "蓝天石板",
+        "eName": "Sky Plate",
+        "esName": "Tabla Cielo",
+        "explain": "飞行属性的石板.\n携带后，飞行属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 134,
+        "type": "强化道具",
+        "cName": "妖怪石板",
+        "eName": "Spooky Plate",
+        "esName": "Tabla Terror",
+        "explain": "幽灵属性的石板.\n携带后，幽灵属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 135,
+        "type": "强化道具",
+        "cName": "龙之石板",
+        "eName": "Draco Plate",
+        "esName": "Tabla Draco",
+        "explain": "龙属性的石板.\n携带后，龙属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 136,
+        "type": "强化道具",
+        "cName": "妖精石板",
+        "eName": "Pixie Plate",
+        "esName": "Tabla Duende",
+        "explain": "妖精属性的石板.\n携带后，妖精属性的招式威力就会增强20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 137,
+        "type": "强化道具",
+        "cName": "禁忌石板",
+        "eName": "Forbidden Plate",
+        "esName": "Tabla Prohibida",
+        "explain": "未知的石板.携带后，宝可梦的特性会消失.",
+        "ceffect": "阿尔宙斯 和 究梦 携带后，属性会变为 ???属性."
+    },
+    {
+        "id": 138,
+        "type": "强化道具",
+        "cName": "火焰卡带",
+        "eName": "Burn Drive",
+        "esName": "PiroROM",
+        "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为火属性.",
+        "ceffect": ""
+    },
+    {
+        "id": 139,
+        "type": "强化道具",
+        "cName": "水流卡带",
+        "eName": "Douse Drive",
+        "esName": "HidroROM",
+        "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为水属性.",
+        "ceffect": ""
+    },
+    {
+        "id": 140,
+        "type": "强化道具",
+        "cName": "闪电卡带",
+        "eName": "Shock Drive",
+        "esName": "FulgoROM",
+        "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为电属性.",
+        "ceffect": ""
+    },
+    {
+        "id": 141,
+        "type": "强化道具",
+        "cName": "冰冻卡带",
+        "eName": "Chill Drive",
+        "esName": "CrioROM",
+        "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为冰属性.",
+        "ceffect": ""
+    }
+]

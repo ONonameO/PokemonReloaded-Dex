@@ -1,0 +1,308 @@
+[
+    {
+        "id": 27,
+        "type": "回复道具",
+        "cName": "伤药",
+        "eName": "Potion",
+        "esName": "Poción",
+        "explain": "喷雾式伤药.能让1只宝可梦回复20HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 28,
+        "type": "回复道具",
+        "cName": "好伤药",
+        "eName": "Super Potion",
+        "esName": "SuperPoción",
+        "explain": "喷雾式伤药.能让1只宝可梦回复50HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 29,
+        "type": "回复道具",
+        "cName": "厉害伤药",
+        "eName": "Hyper Potion",
+        "esName": "HiperPoción",
+        "explain": "喷雾式伤药.能让1只宝可梦回复120HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 30,
+        "type": "回复道具",
+        "cName": "全满药",
+        "eName": "Max Potion",
+        "esName": "MaxPoción",
+        "explain": "喷雾式伤药.能让1只宝可梦回复所有HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 31,
+        "type": "回复道具",
+        "cName": "美味之水",
+        "eName": "Fresh Water",
+        "esName": "Agua Fresca",
+        "explain": "富含矿物质的水.能让1只宝可梦回复50HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 32,
+        "type": "回复道具",
+        "cName": "果汁牛奶",
+        "eName": "Berry Juice",
+        "esName": "Zumo de baya",
+        "explain": "非常香甜的牛奶.能让1只宝可梦回复40HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 33,
+        "type": "回复道具",
+        "cName": "劲爽汽水",
+        "eName": "Soda Pop",
+        "esName": "Refresco",
+        "explain": "翻腾着气泡的汽水.能让1只宝可梦回复60HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 34,
+        "type": "回复道具",
+        "cName": "果汁牛奶",
+        "eName": "Lemonade",
+        "esName": "Limonada",
+        "explain": "非常香甜的牛奶.能让1只宝可梦回复80HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 35,
+        "type": "回复道具",
+        "cName": "哞哞鲜奶",
+        "eName": "Moomoo Milk",
+        "esName": "Leche Mu-Mu",
+        "explain": "营养百分百的牛奶.能让1只宝可梦回复100HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 36,
+        "type": "回复道具",
+        "cName": "茶",
+        "eName": "Tea",
+        "esName": "Té",
+        "explain": "芬芳宜人的香茶.能让1只宝可梦回复1/5HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 37,
+        "type": "回复道具",
+        "cName": "全复药",
+        "eName": "Full Restore",
+        "esName": "Rest. Todo",
+        "explain": "能回复1只宝可梦的所有HP并治愈所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 38,
+        "type": "回复道具",
+        "cName": "万灵药",
+        "eName": "Full Heal",
+        "esName": "CuraTotal",
+        "explain": "喷雾式药水.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 39,
+        "type": "回复道具",
+        "cName": "活力碎片",
+        "eName": "Revive",
+        "esName": "Revivir",
+        "explain": "能让1只陷入濒死的宝可梦重获生机，并回复一半HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 40,
+        "type": "回复道具",
+        "cName": "活力块",
+        "eName": "Max Revive",
+        "esName": "MaxRevivir",
+        "explain": "能让1只陷入濒死的宝可梦重获生机，并回复所有HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 41,
+        "type": "回复道具",
+        "cName": "解毒药",
+        "eName": "Antidote",
+        "esName": "Antídoto",
+        "explain": "喷雾式药水.能治愈1只宝可梦的中毒状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 42,
+        "type": "回复道具",
+        "cName": "灼伤药",
+        "eName": "Burn Heal",
+        "esName": "Antiquemar",
+        "explain": "喷雾式药水.能治愈1只宝可梦的灼伤状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 43,
+        "type": "回复道具",
+        "cName": "解冻药",
+        "eName": "Ice Heal",
+        "esName": "Antihielo",
+        "explain": "喷雾式药水.能治愈1只宝可梦的冰冻状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 44,
+        "type": "回复道具",
+        "cName": "解眠药",
+        "eName": "Awakening",
+        "esName": "Despertar",
+        "explain": "喷雾式药水.能治愈1只宝可梦的睡眠状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 45,
+        "type": "回复道具",
+        "cName": "解麻药",
+        "eName": "Paralyze Heal",
+        "esName": "Antiparaliz.",
+        "explain": "喷雾式药水.能治愈1只宝可梦的麻痹状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 46,
+        "type": "回复道具",
+        "cName": "抗生素",
+        "eName": "Antibiotic",
+        "esName": "Antibiótico",
+        "explain": "喷雾式药水.能治愈1只宝可梦的寄生状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 47,
+        "type": "回复道具",
+        "cName": "解迷药",
+        "eName": "Love Heal",
+        "esName": "Antiamor",
+        "explain": "喷雾式药水.能治愈1只宝可梦的着迷状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 48,
+        "type": "回复道具",
+        "cName": "解咒药",
+        "eName": "Curse Heal",
+        "esName": "Antimaldic.",
+        "explain": "喷雾式药水.能治愈1只宝可梦的诅咒状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 49,
+        "type": "回复道具",
+        "cName": "森之羊羹",
+        "eName": "Old Gateau",
+        "esName": "Barrita plus",
+        "explain": "百代不为人知的特产.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 50,
+        "type": "回复道具",
+        "cName": "愤怒馒头",
+        "eName": "Rage Candy Bar",
+        "esName": "Caramelo furia",
+        "explain": "卡吉镇特产的馒头.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 51,
+        "type": "回复道具",
+        "cName": "釜炎仙贝",
+        "eName": "Lava Cookie",
+        "esName": "Galleta lava",
+        "explain": "釜炎特产的仙贝.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 52,
+        "type": "回复道具",
+        "cName": "飞云冰淇淋",
+        "eName": "Casteliacone",
+        "esName": "Porcehelado",
+        "explain": "飞云市特产的冰淇淋.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 53,
+        "type": "回复道具",
+        "cName": "密阿雷格雷派饼",
+        "eName": "Lumiose Galette",
+        "esName": "Crêpe Luminalia",
+        "explain": "在密阿雷市很受欢迎的点心.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 54,
+        "type": "回复道具",
+        "cName": "娑罗沙布蕾",
+        "eName": "Shalour Sable",
+        "esName": "Galleta Yantra",
+        "explain": "娑罗市特产的沙布蕾.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 55,
+        "type": "回复道具",
+        "cName": "大马拉萨达",
+        "eName": "Big Malasada",
+        "esName": "Malasada maxi",
+        "explain": "阿罗拉特产的油炸面包.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 56,
+        "type": "回复道具",
+        "cName": "万能粉",
+        "eName": "Heal Powder",
+        "esName": "Polvo curación",
+        "explain": "非常苦的药粉.能治愈1只宝可梦的所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 57,
+        "type": "回复道具",
+        "cName": "元气粉",
+        "eName": "Energy Powder",
+        "esName": "Polvo energía",
+        "explain": "非常苦的药粉.能让1只宝可梦回复50HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 58,
+        "type": "回复道具",
+        "cName": "元气根",
+        "eName": "Energy Root",
+        "esName": "Raíz energía",
+        "explain": "非常苦的根.能让1只宝可梦回复200HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 59,
+        "type": "回复道具",
+        "cName": "复活草",
+        "eName": "Revival Herb",
+        "esName": "Hierba revivir",
+        "explain": "非常苦的药草.能让1只濒死的宝可梦回复所有HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 60,
+        "type": "回复道具",
+        "cName": "圣灰",
+        "eName": "Sacred Ash",
+        "esName": "Ceniza Sagrada",
+        "explain": "能让陷入濒死的全部宝可梦回复所有HP.",
+        "ceffect": ""
+    }
+]

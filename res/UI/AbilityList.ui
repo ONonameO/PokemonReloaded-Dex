@@ -126,7 +126,7 @@ QTableView::item:focus {outline: none;}</string>
       <number>20</number>
      </property>
      <item>
-      <layout class="QHBoxLayout" name="horizontalLayout" stretch="40,675">
+      <layout class="QHBoxLayout" name="horizontalLayout" stretch="40,1035">
        <property name="spacing">
         <number>5</number>
        </property>

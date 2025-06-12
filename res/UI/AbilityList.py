@@ -108,7 +108,7 @@ class Ui_Win_AbilityList(object):
         self.searchAbility.setObjectName("searchAbility")
         self.horizontalLayout.addWidget(self.searchAbility)
         self.horizontalLayout.setStretch(0, 40)
-        self.horizontalLayout.setStretch(1, 675)
+        self.horizontalLayout.setStretch(1, 1035)
         self.verticalLayout_2.addLayout(self.horizontalLayout)
         self.horizontalLayout_2 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_2.setSpacing(10)

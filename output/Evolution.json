@@ -1,0 +1,614 @@
+[
+    {
+        "id": 157,
+        "type": "进化道具",
+        "cName": "日之石",
+        "eName": "Sun Stone",
+        "esName": "Piedra Solar",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像太阳一样赤红.",
+        "ceffect": "对臭臭花使用，使其进化为美丽花。\n对蛋蛋使用，使其进化为椰蛋树(阿罗拉)。\n对向日种子使用，使其进化为向日花怪。\n对伊布使用，使其进化为太阳伊布。\n对木棉球使用，使其进化为风妖精。\n对百合根娃娃使用，使其进化为裙儿小姐。\n对伞电蜥使用，使其进化为光电伞蜥。"
+    },
+    {
+        "id": 158,
+        "type": "进化道具",
+        "cName": "月之石",
+        "eName": "Moon Stone",
+        "esName": "Piedra Lunar",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像夜空一样乌黑.",
+        "ceffect": "对皮卡丘使用，使其进化为雷丘(阿罗拉)。\n对尼多娜使用，使其进化为尼多后。\n对尼多力诺使用，使其进化为尼多王。\n对皮皮使用，使其进化为皮可西。\n对胖丁使用，使其进化为胖可丁。\n对伊布使用，使其进化为月亮伊布。\n对向尾喵使用，使其进化为优雅猫。\n对食梦梦使用，使其进化为梦梦蚀。"
+    },
+    {
+        "id": 159,
+        "type": "进化道具",
+        "cName": "火之石",
+        "eName": "Fire Stone",
+        "esName": "Piedra Fuego",
+        "explain": "能让某些特定宝可梦进化的神奇石头.看上去是橙黄色的.",
+        "ceffect": "对六尾使用，使其进化为九尾。\n对卡蒂狗使用，使其进化为风速狗。\n对伊布使用，使其进化为火伊布。\n对爆香猴使用，使其进化为爆香猿。\n对辣椒娃使用，使其进化为狠辣椒。"
+    },
+    {
+        "id": 160,
+        "type": "进化道具",
+        "cName": "雷之石",
+        "eName": "Thunder Stone",
+        "esName": "Piedra Trueno",
+        "explain": "能让某些特定宝可梦进化的神奇石头.有着闪电般的花纹.",
+        "ceffect": "对皮卡丘使用，使其进化为雷丘。\n对伊布使用，使其进化为雷伊布。\n对麻麻鳗使用，使其进化为麻麻鳗鱼王。\n对光蚪仔使用，使其进化为电肚蛙。"
+    },
+    {
+        "id": 161,
+        "type": "进化道具",
+        "cName": "水之石",
+        "eName": "Water Stone",
+        "esName": "Piedra Agua",
+        "explain": "能让某些特定宝可梦进化的神奇石头.看上去是澄蓝色的.",
+        "ceffect": "对蚊香君使用，使其进化为蚊香泳士。\n对大舌贝使用，使其进化为刺甲贝。\n对海星星使用，使其进化为宝石海星。\n对伊布使用，使其进化为水伊布。\n对莲帽小童使用，使其进化为乐天河童。\n对冷水猴使用，使其进化为冷水猿。"
+    },
+    {
+        "id": 162,
+        "type": "进化道具",
+        "cName": "叶之石",
+        "eName": "Leaf Stone",
+        "esName": "Piedra Hoja",
+        "explain": "能让某些特定宝可梦进化的神奇石头.有着叶子般的花纹.",
+        "ceffect": "对臭臭花使用，使其进化为霸王花。\n对口呆花使用，使其进化为大食花。\n对霹雳电球(洗翠)使用，使其进化为顽皮雷弹(洗翠)。\n对蛋蛋使用，使其进化为椰蛋树。\n对伊布使用，使其进化为叶伊布。\n对长鼻叶使用，使其进化为狡猾天狗。\n对花椰猴使用，使其进化为花椰猿。"
+    },
+    {
+        "id": 163,
+        "type": "进化道具",
+        "cName": "光之石",
+        "eName": "Shiny Stone",
+        "esName": "Piedra Día",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像光芒一样耀眼.",
+        "ceffect": "对伊布使用，使其进化为一般伊布。\n对波克基古使用，使其进化为波克基斯。\n对毒蔷薇使用，使其进化为罗丝雷朵。\n对泡沫栗鼠使用，使其进化为奇诺栗鼠。\n对花叶蒂使用，使其进化为花洁夫人。"
+    },
+    {
+        "id": 164,
+        "type": "进化道具",
+        "cName": "暗之石",
+        "eName": "Dusk Stone",
+        "esName": "Piedra Noche",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像黑夜一般漆黑.",
+        "ceffect": "对皮卡丘使用，使其进化为皮卡蓝。\n对伊布使用，使其进化为幽灵伊布。\n对黑暗鸦使用，使其进化为乌鸦头头。\n对梦妖使用，使其进化为梦妖魔。\n对灯火幽灵使用，使其进化为水晶灯火灵。\n对双剑鞘使用，使其进化为坚盾剑怪。"
+    },
+    {
+        "id": 165,
+        "type": "进化道具",
+        "cName": "觉醒之石",
+        "eName": "Dawn Stone",
+        "esName": "Piedra Alba",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像眼眸一般光彩动人.",
+        "ceffect": "对伊布使用，使其进化为龙伊布。\n对奇鲁莉安♂使用，使其进化为艾路雷朵。\n对雪童子♀使用，使其进化为雪妖女。"
+    },
+    {
+        "id": 166,
+        "type": "进化道具",
+        "cName": "冰之石",
+        "eName": "Ice Rock",
+        "esName": "Piedra Hielo",
+        "explain": "能让某些特定宝可梦进化的神奇石头.有着雪花般的花纹.",
+        "ceffect": "对穿山鼠(阿罗拉)使用，使其进化为穿山王(阿罗拉)。\n对六尾(阿罗拉)使用，使其进化为九尾(阿罗拉)。\n对伊布使用，使其进化为冰伊布。\n对火红不倒翁(伽勒尔)使用，使其进化为达摩狒狒(伽勒尔)。\n对走鲸使用，使其进化为浩大鲸。"
+    },
+    {
+        "id": 167,
+        "type": "进化道具",
+        "cName": "浑圆之石",
+        "eName": "Oval Stone",
+        "esName": "Piedra Oval",
+        "explain": "能让某些特定宝可梦进化的神奇石头.像珠子一般圆润.",
+        "ceffect": "对小福蛋使用，使其进化为吉利蛋。"
+    },
+    {
+        "id": 168,
+        "type": "进化道具",
+        "cName": "矿物之石",
+        "eName": "Mineral Stone",
+        "esName": "Piedra Mineral",
+        "explain": "能让某些特定宝可梦进化的神奇石头.带有岩石图案.",
+        "ceffect": "对伊布使用，使其进化为岩石伊布。"
+    },
+    {
+        "id": 169,
+        "type": "进化道具",
+        "cName": "妖精之石",
+        "eName": "Nymph Stone",
+        "esName": "Piedra Ninfa",
+        "explain": "能让某些特定宝可梦进化的神奇石头.带有翅膀图案.",
+        "ceffect": "对伊布使用，使其进化为仙子伊布。"
+    },
+    {
+        "id": 170,
+        "type": "进化道具",
+        "cName": "沙之石",
+        "eName": "Desert Stone",
+        "esName": "Piedra Desierto",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Terra Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为大地伊布。"
+    },
+    {
+        "id": 171,
+        "type": "进化道具",
+        "cName": "虫之石",
+        "eName": "Bug Stone",
+        "esName": "Piedra Bicho",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Mercury Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为虫伊布。"
+    },
+    {
+        "id": 172,
+        "type": "进化道具",
+        "cName": "天空之石",
+        "eName": "Sky Stone",
+        "esName": "Piedra Celeste",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Uranus Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为飞行伊布。"
+    },
+    {
+        "id": 173,
+        "type": "进化道具",
+        "cName": "毒之石",
+        "eName": "Venus Stone",
+        "esName": "Piedra Venus",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Venus Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为毒伊布。"
+    },
+    {
+        "id": 174,
+        "type": "进化道具",
+        "cName": "格斗之石",
+        "eName": "Mars Stone",
+        "esName": "Piedra Marte",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Mars Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为格斗伊布。"
+    },
+    {
+        "id": 175,
+        "type": "进化道具",
+        "cName": "金属之石",
+        "eName": "Metal Stone",
+        "esName": "Piedra Metálica",
+        "explain": "能让某些特定宝可梦进化的神奇石头.Neptune Island上的典型石头.",
+        "ceffect": "对伊布使用，使其进化为钢铁伊布。"
+    },
+    {
+        "id": 176,
+        "type": "进化道具",
+        "cName": "不变之石",
+        "eName": "Everstone",
+        "esName": "Piedra Eterna",
+        "explain": "携带后，宝可梦在此期间不会进化的神奇石头.",
+        "ceffect": ""
+    },
+    {
+        "id": 177,
+        "type": "进化道具",
+        "cName": "王者之证",
+        "eName": "King's Rock",
+        "esName": "Roca Del Rey",
+        "explain": "能让某些特定宝可梦进化的神奇石头.形状像一个王冠.",
+        "ceffect": "对蚊香君使用，使其进化为蚊香蛙皇。\n对呆呆兽使用，使其进化为呆呆王。"
+    },
+    {
+        "id": 178,
+        "type": "进化道具",
+        "cName": "电力增幅器",
+        "eName": "Electirizer",
+        "esName": "Amp. Electrico",
+        "explain": "积蓄着庞大电气能量的箱子.某种宝可梦很喜欢它.",
+        "ceffect": "电击兽携带该道具50级进化为电击魔兽。"
+    },
+    {
+        "id": 179,
+        "type": "进化道具",
+        "cName": "熔岩增幅器",
+        "eName": "Magmarizer",
+        "esName": "Amp. Magma",
+        "explain": "积蓄着庞大熔岩能量的箱子.某种宝可梦很喜欢它.",
+        "ceffect": "鸭嘴火兽携带该道具50级进化为鸭嘴炎兽。"
+    },
+    {
+        "id": 180,
+        "type": "进化道具",
+        "cName": "护具",
+        "eName": "Protector",
+        "esName": "Protector",
+        "explain": "某种护具.非常坚硬而且沉重.某种宝可梦很喜欢它.",
+        "ceffect": "钻角犀兽携带该道具55级进化为超甲狂犀。"
+    },
+    {
+        "id": 181,
+        "type": "进化道具",
+        "cName": "升级数据",
+        "eName": "Up-Grade",
+        "esName": "Mejora",
+        "explain": "内部储存了各种信息的透明机器.西尔佛公司制造.",
+        "ceffect": "多边兽携带该道具20级进化为多边兽2型。"
+    },
+    {
+        "id": 182,
+        "type": "进化道具",
+        "cName": "可疑补丁",
+        "eName": "Dubious Disc",
+        "esName": "Discoextraño",
+        "explain": "内部储存了奇怪信息的透明机器.制造者不明.",
+        "ceffect": "多边兽2型携带该道具30级进化为多边兽乙型。"
+    },
+    {
+        "id": 183,
+        "type": "进化道具",
+        "cName": "深海之牙",
+        "eName": "Deepseatooth",
+        "esName": "Diente Marino",
+        "explain": "让珍珠贝携带后，特攻就会提高的牙齿.散发着闪亮的银光.",
+        "ceffect": "珍珠贝携带该道具26级进化为猎斑鱼。"
+    },
+    {
+        "id": 184,
+        "type": "进化道具",
+        "cName": "深海鳞片",
+        "eName": "Deepseascale",
+        "esName": "Escama Marina",
+        "explain": "让珍珠贝携带后，特防就会提高的鳞片.散发着淡淡的粉红色光芒.",
+        "ceffect": "珍珠贝携带该道具26级进化为樱花鱼。"
+    },
+    {
+        "id": 185,
+        "type": "进化道具",
+        "cName": "龙之鳞片",
+        "eName": "Dragon Scale",
+        "esName": "Escama Dragón",
+        "explain": "又硬又坚固的鳞片.龙属性宝可梦有时会携带它.",
+        "ceffect": "海刺龙携带该道具45级进化为刺龙王。"
+    },
+    {
+        "id": 186,
+        "type": "进化道具",
+        "cName": "灵界之布",
+        "eName": "Reaper Cloth",
+        "esName": "Tela Terrible",
+        "explain": "蕴含着惊人强大灵力的布.某种宝可梦很喜欢它.",
+        "ceffect": "彷徨夜灵携带该道具55级进化为黑夜魔灵。"
+    },
+    {
+        "id": 187,
+        "type": "进化道具",
+        "cName": "锐利之爪",
+        "eName": "Razor Claw",
+        "esName": "Garra Afilada",
+        "explain": "尖锐的爪子.携带后，招式会变得容易击中要害.",
+        "ceffect": "狃拉携带该道具36级(夜晚)进化为玛狃拉。\n狃拉(洗翠)携带该道具36级(白天)进化为大狃拉。"
+    },
+    {
+        "id": 188,
+        "type": "进化道具",
+        "cName": "锐利之牙",
+        "eName": "Razor Fang",
+        "esName": "Colmillo Afilado",
+        "explain": "尖锐的牙齿.携带后，在给予伤害时，有时会让对手畏缩.",
+        "ceffect": "天蝎携带该道具30级进化为天蝎王。"
+    },
+    {
+        "id": 189,
+        "type": "进化道具",
+        "cName": "美丽鳞片",
+        "eName": "Prism Scale",
+        "esName": "Escama Bella",
+        "explain": "能让某些特定宝可梦进化的神奇鳞片.散发着虹色光辉.",
+        "ceffect": "丑丑鱼携带该道具30级进化为美纳斯。"
+    },
+    {
+        "id": 190,
+        "type": "进化道具",
+        "cName": "魔法石",
+        "eName": "Magic Rock",
+        "esName": "Roca Mágica",
+        "explain": "能让某些特定宝可梦进化的神奇石头.",
+        "ceffect": "地幔岩携带该道具42级进化为庞岩怪。"
+    },
+    {
+        "id": 191,
+        "type": "进化道具",
+        "cName": "杠铃",
+        "eName": "Weights",
+        "esName": "Pesas",
+        "explain": "能让某些特定宝可梦进化的神奇道具.",
+        "ceffect": "搬运小匠携带该道具42级进化为修建老匠。"
+    },
+    {
+        "id": 192,
+        "type": "进化道具",
+        "cName": "忍者头带",
+        "eName": "Ninja Band",
+        "esName": "Cinta Ninja",
+        "explain": "能让某些特定宝可梦进化的神奇道具.",
+        "ceffect": "小嘴蜗携带该道具32级进化为敏捷虫。"
+    },
+    {
+        "id": 193,
+        "type": "进化道具",
+        "cName": "长矛",
+        "eName": "Spear",
+        "esName": "Lanza",
+        "explain": "能让某些特定宝可梦进化的神奇道具.",
+        "ceffect": "盖盖虫携带该道具32级进化为骑士蜗牛。"
+    },
+    {
+        "id": 194,
+        "type": "进化道具",
+        "cName": "香袋",
+        "eName": "Sachet",
+        "esName": "Saquito Fragante",
+        "explain": "装着散发微浓香气的香料的袋子.某种宝可梦很喜欢它.",
+        "ceffect": "粉香香携带该道具30级进化为芳香精。"
+    },
+    {
+        "id": 195,
+        "type": "进化道具",
+        "cName": "泡沫奶油",
+        "eName": "Whipped Dream",
+        "esName": "Dulce de Nata",
+        "explain": "松松软软起着泡的，稍微有点甜的奶油.某种宝可梦很喜欢它.",
+        "ceffect": "绵绵泡芙携带该道具30级进化为胖甜妮。"
+    },
+    {
+        "id": 196,
+        "type": "进化道具",
+        "cName": "催眠王冠",
+        "eName": "Hypnotic Crown",
+        "esName": "Corona Hipnótica",
+        "explain": "能让某些特定宝可梦进化的神奇道具.",
+        "ceffect": "好啦鱿携带该道具30级进化为乌贼王。"
+    },
+    {
+        "id": 197,
+        "type": "进化道具",
+        "cName": "金黄色花蜜",
+        "eName": "Yellow Nectar",
+        "esName": "Néctar amarillo",
+        "explain": "在美乐美乐花园里获得的花蜜.可以改变特定宝可梦的样子.",
+        "ceffect": "对花舞鸟使用，使其变为啪滋形态."
+    },
+    {
+        "id": 198,
+        "type": "进化道具",
+        "cName": "朱红色花蜜",
+        "eName": "Red Nectar",
+        "esName": "Néctar rojo",
+        "explain": "在乌拉乌拉花园里获得的花蜜.可以改变特定宝可梦的样子.",
+        "ceffect": "对花舞鸟使用，使其变为热辣形态."
+    },
+    {
+        "id": 199,
+        "type": "进化道具",
+        "cName": "桃粉色花蜜",
+        "eName": "Pink Nectar",
+        "esName": "Néctar rosa",
+        "explain": "在皇家大道的花园里获得的花蜜.可以改变特定宝可梦的样子.",
+        "ceffect": "对花舞鸟使用，使其变为呼拉形态."
+    },
+    {
+        "id": 200,
+        "type": "进化道具",
+        "cName": "兰紫色花蜜",
+        "eName": "Purple Nectar",
+        "esName": "Néctar violeta",
+        "explain": "在波尼花园里获得的花蜜.可以改变特定宝可梦的样子.",
+        "ceffect": "对花舞鸟使用，使其变为轻盈形态."
+    },
+    {
+        "id": 201,
+        "type": "进化道具",
+        "cName": "破旧斗篷",
+        "eName": "Old Cape",
+        "esName": "Capa Antigua",
+        "explain": "提升超梦的速度.",
+        "ceffect": "超梦携带该道具变为超梦(斗篷)."
+    },
+    {
+        "id": 202,
+        "type": "进化道具",
+        "cName": "特殊装甲",
+        "eName": "Special Armor",
+        "esName": "Armadura Esp.",
+        "explain": "提升超梦的防御和特防.",
+        "ceffect": "超梦携带该道具变为超梦(装甲)."
+    },
+    {
+        "id": 203,
+        "type": "进化道具",
+        "cName": "光明石",
+        "eName": "Light Stone",
+        "esName": "Orbe Claro",
+        "explain": "莱希拉姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+        "ceffect": "对酋雷姆使用，使其变为焰白形态."
+    },
+    {
+        "id": 204,
+        "type": "进化道具",
+        "cName": "黑暗石",
+        "eName": "Dark Stone",
+        "esName": "Orbe Oscuro",
+        "explain": "捷克罗姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+        "ceffect": "对酋雷姆使用，使其变为暗黑形态."
+    },
+    {
+        "id": 205,
+        "type": "进化道具",
+        "cName": "神石",
+        "eName": "God Stone",
+        "esName": "Piedra Dios",
+        "explain": "酋雷姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+        "ceffect": "对酋雷姆使用，使其变为普通形态."
+    },
+    {
+        "id": 206,
+        "type": "进化道具",
+        "cName": "朱红色宝珠",
+        "eName": "Red Prism",
+        "esName": "Prisma Rojo",
+        "explain": "散发着红色光辉的宝珠.据说和丰缘地区的传说渊源颇深.",
+        "ceffect": "固拉多携带该道具后会变为原始回归形态."
+    },
+    {
+        "id": 207,
+        "type": "进化道具",
+        "cName": "靛蓝色宝珠",
+        "eName": "Blue Prism",
+        "esName": "Prisma Azul",
+        "explain": "散发着蓝色光辉的宝珠.据说和丰缘地区的传说渊源颇深.",
+        "ceffect": "盖欧卡携带该道具后会变为原始回归形态."
+    },
+    {
+        "id": 208,
+        "type": "进化道具",
+        "cName": "黑暗棱镜",
+        "eName": "Dark Prism",
+        "esName": "Prisma Oscuro",
+        "explain": "唤醒洛奇亚隐藏力量的神奇石头.",
+        "ceffect": "对洛奇亚使用，使其变为黑暗形态."
+    },
+    {
+        "id": 209,
+        "type": "进化道具",
+        "cName": "原始棱镜",
+        "eName": "Primary Prism",
+        "esName": "Prisma Primario",
+        "explain": "唤醒帝牙卢卡隐藏力量的神奇石头.",
+        "ceffect": "对帝牙卢卡使用，使其变为原始形态."
+    },
+    {
+        "id": 210,
+        "type": "进化道具",
+        "cName": "酸酸苹果",
+        "eName": "Tart Apple",
+        "esName": "Manzana Ácida",
+        "explain": "这种神奇的苹果可以使特定的宝可梦进化。吃起来酸酸的。",
+        "ceffect": "对啃果虫使用，使其进化为苹裹龙。"
+    },
+    {
+        "id": 211,
+        "type": "进化道具",
+        "cName": "甜甜苹果",
+        "eName": "Sweet Apple",
+        "esName": "Manzana Dulce",
+        "explain": "这种神奇的苹果可以使特定的宝可梦进化。吃起来非常甜美。",
+        "ceffect": "对啃果虫使用，使其进化为丰蜜龙。"
+    },
+    {
+        "id": 212,
+        "type": "进化道具",
+        "cName": "缺损的茶壶",
+        "eName": "Chipped Pot",
+        "esName": "Tetera Rota",
+        "explain": "这个神奇的茶壶可以使特定的宝可梦进化。虽然有缺陷，但泡出来的茶依旧清香。",
+        "ceffect": "对来悲茶使用，使其进化为怖思壶。"
+    },
+    {
+        "id": 213,
+        "type": "进化道具",
+        "cName": "粗枝大葱",
+        "eName": "Large Leek",
+        "esName": "Puerro Grueso",
+        "explain": "在露营营地制作料理时会使用的一种食材。不知是不是宝可梦大葱鸭最爱的那种植物的茎。",
+        "ceffect": "大葱鸭(伽勒尔)携带该道具在对战中击中要害3次或以上升级进化为葱游兵。"
+    },
+    {
+        "id": 214,
+        "type": "进化道具",
+        "cName": "伽勒豆蔻手环",
+        "eName": "Galarica Cuff",
+        "esName": "Brazal Galanuez",
+        "explain": "用伽勒豆蔻枝编织的手环。给伽勒尔地区的呆呆兽戴上，它就会很开心。",
+        "ceffect": "对呆呆兽(伽勒尔)使用，使其进化为呆壳兽(伽勒尔)。"
+    },
+    {
+        "id": 215,
+        "type": "进化道具",
+        "cName": "伽勒豆蔻花圈",
+        "eName": "Galarica Wreath",
+        "esName": "Corona Galanuez",
+        "explain": "用伽勒豆蔻枝编织的花冠。给伽勒尔地区的呆呆兽戴上，它就会很开心。",
+        "ceffect": "对呆呆兽(伽勒尔)使用，使其进化为呆呆王(伽勒尔)。"
+    },
+    {
+        "id": 216,
+        "type": "进化道具",
+        "cName": "草莓糖饰",
+        "eName": "Strawberry Sweet",
+        "esName": "Confite Fresa",
+        "explain": "草莓形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 217,
+        "type": "进化道具",
+        "cName": "爱心糖饰",
+        "eName": "Love Sweet",
+        "esName": "Confite Corazón",
+        "explain": "爱心形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 218,
+        "type": "进化道具",
+        "cName": "花朵糖饰",
+        "eName": "Flower Sweet",
+        "esName": "Confite Flor",
+        "explain": "花朵形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 219,
+        "type": "进化道具",
+        "cName": "星星糖饰",
+        "eName": "Star Sweet",
+        "esName": "Confite Estrella",
+        "explain": "星星形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 220,
+        "type": "进化道具",
+        "cName": "幸运草糖饰",
+        "eName": "Clover Sweet",
+        "esName": "Confite Trébol",
+        "explain": "四叶草形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 221,
+        "type": "进化道具",
+        "cName": "野莓糖饰",
+        "eName": "Berry Sweet",
+        "esName": "Confite Fruto",
+        "explain": "浆果形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 222,
+        "type": "进化道具",
+        "cName": "蝴蝶结糖饰",
+        "eName": "Ribbon Sweet",
+        "esName": "Confite Lazo",
+        "explain": "蝴蝶结形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+        "ceffect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+    },
+    {
+        "id": 223,
+        "type": "进化道具",
+        "cName": "泥炭块",
+        "eName": "Peat Block",
+        "esName": "Bloque Turba",
+        "explain": "质地像是泥土的煤炭块。干燥后也能当成燃料使用。某种宝可梦很喜欢它。",
+        "ceffect": "圈圈熊携带该道具42级(夜晚)进化为月月熊。"
+    },
+    {
+        "id": 224,
+        "type": "进化道具",
+        "cName": "黑奇石",
+        "eName": "Black Augurite",
+        "esName": "Mineral Negro",
+        "explain": "破碎后会变得十分锋利，性质类似玻璃的黑石。某种宝可梦很喜欢它。",
+        "ceffect": "飞天螳螂携带该道具40级进化为劈斧螳螂。"
+    }
+]

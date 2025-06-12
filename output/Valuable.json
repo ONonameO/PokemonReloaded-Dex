@@ -1,0 +1,344 @@
+[
+    {
+        "id": 309,
+        "type": "贵重物品",
+        "cName": "秘密琥珀",
+        "eName": "Old Amber",
+        "esName": "Ámbar Viejo",
+        "explain": "封存着古代宝可梦遗传基因的琥珀，透着点红色.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 310,
+        "type": "贵重物品",
+        "cName": "贝壳化石",
+        "eName": "Helix Fossil",
+        "esName": "Fósil Helix",
+        "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是贝壳的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 311,
+        "type": "贵重物品",
+        "cName": "甲壳化石",
+        "eName": "Dome Fossil",
+        "esName": "Fósil Domo",
+        "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是甲壳的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 312,
+        "type": "贵重物品",
+        "cName": "根状化石",
+        "eName": "Root Fossil",
+        "esName": "Fósil Raíz",
+        "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是根的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 313,
+        "type": "贵重物品",
+        "cName": "爪子化石",
+        "eName": "Claw Fossil",
+        "esName": "Fósil Garra",
+        "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是爪子的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 314,
+        "type": "贵重物品",
+        "cName": "盾甲化石",
+        "eName": "Armor Fossil",
+        "esName": "Fósil Coraza",
+        "explain": "很久以前生活在地上的古代宝可梦的化石.好像是领饰的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 315,
+        "type": "贵重物品",
+        "cName": "头盖化石",
+        "eName": "Skull Fossil",
+        "esName": "Fósil Cráneo",
+        "explain": "很久以前生活在地上的古代宝可梦的化石.好像是头部的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 316,
+        "type": "贵重物品",
+        "cName": "羽毛化石",
+        "eName": "Plume Fossil",
+        "esName": "Fósil Pluma",
+        "explain": "据说是鸟宝可梦的祖先，古代宝可梦的化石.好像是翅膀的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 317,
+        "type": "贵重物品",
+        "cName": "背盖化石",
+        "eName": "Cover Fossil",
+        "esName": "Fósil Tapa",
+        "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是后背的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 318,
+        "type": "贵重物品",
+        "cName": "鳍之化石",
+        "eName": "Sail Fossil",
+        "esName": "Fósil Aleta",
+        "explain": "很久以前生活在地上的古代宝可梦的化石.好像是头鳍的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 319,
+        "type": "贵重物品",
+        "cName": "颚之化石",
+        "eName": "Jaw Fossil",
+        "esName": "Fósil Mandíbula",
+        "explain": "很久以前生活在地上的古代宝可梦的化石.好像是很大的颚的一部分.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 320,
+        "type": "贵重物品",
+        "cName": "化石鱼",
+        "eName": "Fossilized Fish",
+        "esName": "Ictiofósil",
+        "explain": "远古时代的宝可梦化石残片.它曾栖息于大海，本来面目至今仍是未解之谜.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 321,
+        "type": "贵重物品",
+        "cName": "化石龙",
+        "eName": "Fossilized Drake",
+        "esName": "Dracofósil",
+        "explain": "远古时代的宝可梦化石残片.它曾栖息于陆地，本来面目至今仍是未解之谜.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 322,
+        "type": "贵重物品",
+        "cName": "化石鸟",
+        "eName": "Fossilized Bird",
+        "esName": "Ornitofósil",
+        "explain": "远古时代的宝可梦化石残片.它曾翱翔于天空，本来面目至今仍是未解之谜.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 323,
+        "type": "贵重物品",
+        "cName": "化石海兽",
+        "eName": "Fossilized Dino",
+        "esName": "Plesiofósil",
+        "explain": "远古时代的宝可梦化石残片.它曾栖息于大海，本来面目至今仍是未解之谜.",
+        "ceffect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+    },
+    {
+        "id": 324,
+        "type": "贵重物品",
+        "cName": "小蘑菇",
+        "eName": "Tiny Mushroom",
+        "esName": "MiniSeta",
+        "explain": "珍稀的小蘑菇.在一些爱好者中有着相当高的人气.",
+        "ceffect": "可以在Rigel City回忆招式者旁边的NPC使用10个小蘑菇兑换1个大蘑菇."
+    },
+    {
+        "id": 325,
+        "type": "贵重物品",
+        "cName": "大蘑菇",
+        "eName": "Big Mushroom",
+        "esName": "Seta Grande",
+        "explain": "珍稀的大蘑菇.在一些爱好者中有着非常高的人气.",
+        "ceffect": "可以在Rigel City找NPC使用1个大蘑菇回忆招式."
+    },
+    {
+        "id": 326,
+        "type": "贵重物品",
+        "cName": "芳香蘑菇",
+        "eName": "Balm Mushroom",
+        "esName": "Seta Aromática",
+        "explain": "能让附近一带芳香四溢的珍稀蘑菇.可以在商店高价出售.",
+        "ceffect": "可以在Rigel City的沙龙里找厨师使用1个芳香蘑菇兑换10个大蘑菇."
+    },
+    {
+        "id": 327,
+        "type": "贵重物品",
+        "cName": "贵重骨头",
+        "eName": "Rare Bone",
+        "esName": "Hueso Raro",
+        "explain": "在宝可梦考古学上非常贵重的骨头.",
+        "ceffect": "可以在商店以25,00€出售."
+    },
+    {
+        "id": 328,
+        "type": "贵重物品",
+        "cName": "神秘摆设",
+        "eName": "Strange Souvenir",
+        "esName": "Estatuilla Rara",
+        "explain": "在阿罗拉地区，据说是模仿古时候被称为守护神的神奇宝可梦而制作的摆设.",
+        "ceffect": ""
+    },
+    {
+        "id": 329,
+        "type": "贵重物品",
+        "cName": "星星碎片",
+        "eName": "Star Piece",
+        "esName": "Trozo Estrella",
+        "explain": "闪着红光且十分美丽的宝石碎片.",
+        "ceffect": "可以在商店以50,00€出售."
+    },
+    {
+        "id": 330,
+        "type": "贵重物品",
+        "cName": "星星沙子",
+        "eName": "Stardust",
+        "esName": "Polvo Estelar",
+        "explain": "手感细腻且十分美丽的红色沙子.",
+        "ceffect": "可以在商店以25,00€出售."
+    },
+    {
+        "id": 331,
+        "type": "贵重物品",
+        "cName": "彗星碎片",
+        "eName": "Comet Shard",
+        "esName": "Frag. Cometa",
+        "explain": "彗星临近时，掉落到地表上的碎片.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以150,00€出售."
+    },
+    {
+        "id": 332,
+        "type": "贵重物品",
+        "cName": "珍珠",
+        "eName": "Pearl",
+        "esName": "Perla Pequeña",
+        "explain": "散发着美丽银辉且有点小的珍珠.",
+        "ceffect": "可以在商店以20,00€出售."
+    },
+    {
+        "id": 333,
+        "type": "贵重物品",
+        "cName": "大珍珠",
+        "eName": "Big Pearl",
+        "esName": "Perla Grande",
+        "explain": "散发着美丽银辉且相当大颗的珍珠.",
+        "ceffect": "可以在商店以40,00€出售."
+    },
+    {
+        "id": 334,
+        "type": "贵重物品",
+        "cName": "丸子珍珠",
+        "eName": "Pearl String",
+        "esName": "Sarta perlas",
+        "explain": "散发着美丽银辉且非常大颗的珍珠.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以250,00€出售."
+    },
+    {
+        "id": 335,
+        "type": "贵重物品",
+        "cName": "金珠",
+        "eName": "Nugget",
+        "esName": "Pepita",
+        "explain": "闪着金光，以纯金制成的珠子.",
+        "ceffect": "可以在商店以50,00€出售."
+    },
+    {
+        "id": 336,
+        "type": "贵重物品",
+        "cName": "巨大金珠",
+        "eName": "Big Nugget",
+        "esName": "Maxipepita",
+        "explain": "以纯金制成，闪着金光的大珠子.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以300,00€出售."
+    },
+    {
+        "id": 337,
+        "type": "贵重物品",
+        "cName": "蓝宝石",
+        "eName": "Sapphire",
+        "esName": "Zafiro",
+        "explain": "一块可以卖到高价的宝石.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+    },
+    {
+        "id": 338,
+        "type": "贵重物品",
+        "cName": "红宝石",
+        "eName": "Ruby",
+        "esName": "Rubí",
+        "explain": "一块可以卖到高价的宝石.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+    },
+    {
+        "id": 339,
+        "type": "贵重物品",
+        "cName": "绿宝石",
+        "eName": "Emerald",
+        "esName": "Esmeralda",
+        "explain": "一块可以卖到高价的宝石.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+    },
+    {
+        "id": 340,
+        "type": "贵重物品",
+        "cName": "古代铜币",
+        "eName": "Relic Copper",
+        "esName": "Real cobre",
+        "explain": "约3000年前的文明使用的铜币.",
+        "ceffect": "可以在商店以10,00€出售."
+    },
+    {
+        "id": 341,
+        "type": "贵重物品",
+        "cName": "古代银币",
+        "eName": "Relic Silver",
+        "esName": "Real plata",
+        "explain": "约3000年前的文明使用的银币.",
+        "ceffect": "可以在商店以50,00€出售."
+    },
+    {
+        "id": 342,
+        "type": "贵重物品",
+        "cName": "古代金币",
+        "eName": "Relic Gold",
+        "esName": "Real oro",
+        "explain": "约3000年前的文明使用的金币.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+    },
+    {
+        "id": 343,
+        "type": "贵重物品",
+        "cName": "古代之壶",
+        "eName": "Relic Vase",
+        "esName": "Ánfora",
+        "explain": "约3000年前的文明制造的壶.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+    },
+    {
+        "id": 344,
+        "type": "贵重物品",
+        "cName": "古代手镯",
+        "eName": "Relic Band",
+        "esName": "Brazal Plata",
+        "explain": "约3000年前的文明制造的手镯.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+    },
+    {
+        "id": 345,
+        "type": "贵重物品",
+        "cName": "古代石像",
+        "eName": "Relic Statue",
+        "esName": "Efigie antigua",
+        "explain": "约3000年前的文明制造的石像.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+    },
+    {
+        "id": 346,
+        "type": "贵重物品",
+        "cName": "古代王冠",
+        "eName": "Relic Crown",
+        "esName": "Corona antigua",
+        "explain": "约3000年前的文明制造的王冠.",
+        "ceffect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+    }
+]

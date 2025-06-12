@@ -1,0 +1,317 @@
+[
+    {
+        "id": 397,
+        "type": "Z纯晶",
+        "cName": "一般Z",
+        "eName": "Normalium Z",
+        "esName": "Normastal Z",
+        "explain": "能将一般属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 398,
+        "type": "Z纯晶",
+        "cName": "火Z",
+        "eName": "Firium Z",
+        "esName": "Pirostal Z",
+        "explain": "能将火属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 399,
+        "type": "Z纯晶",
+        "cName": "水Z",
+        "eName": "Waterium Z",
+        "esName": "Hidrostal Z",
+        "explain": "能将水属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 400,
+        "type": "Z纯晶",
+        "cName": "草Z",
+        "eName": "Grassium Z",
+        "esName": "Fitostal Z",
+        "explain": "能将草属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 401,
+        "type": "Z纯晶",
+        "cName": "电Z",
+        "eName": "Electrium Z",
+        "esName": "Electrostal Z",
+        "explain": "能将电属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 402,
+        "type": "Z纯晶",
+        "cName": "岩石Z",
+        "eName": "Rockium Z",
+        "esName": "Geostal Z",
+        "explain": "能将岩石属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 403,
+        "type": "Z纯晶",
+        "cName": "格斗Z",
+        "eName": "Fightinium Z",
+        "esName": "Lizastal Z",
+        "explain": "能将格斗属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 404,
+        "type": "Z纯晶",
+        "cName": "地面Z",
+        "eName": "Groundium Z",
+        "esName": "Litostal Z",
+        "explain": "能将地面属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 405,
+        "type": "Z纯晶",
+        "cName": "超能力Z",
+        "eName": "Psychium Z",
+        "esName": "Psicostal Z",
+        "explain": "能将超能力属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 406,
+        "type": "Z纯晶",
+        "cName": "毒Z",
+        "eName": "Poisonium Z",
+        "esName": "Toxistal Z",
+        "explain": "能将毒属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 407,
+        "type": "Z纯晶",
+        "cName": "虫Z",
+        "eName": "Buginium Z",
+        "esName": "Insectostal Z",
+        "explain": "能将虫属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 408,
+        "type": "Z纯晶",
+        "cName": "冰Z",
+        "eName": "Icium Z",
+        "esName": "Criostal Z",
+        "explain": "能将冰属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 409,
+        "type": "Z纯晶",
+        "cName": "恶Z",
+        "eName": "Darkinium Z",
+        "esName": "Nictostal Z",
+        "explain": "能将恶属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 410,
+        "type": "Z纯晶",
+        "cName": "钢Z",
+        "eName": "Steelium Z",
+        "esName": "Metalostal Z",
+        "explain": "能将钢属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 411,
+        "type": "Z纯晶",
+        "cName": "飞行Z",
+        "eName": "Flyinium Z",
+        "esName": "Aerostal Z",
+        "explain": "能将飞行属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 412,
+        "type": "Z纯晶",
+        "cName": "幽灵Z",
+        "eName": "Ghostium Z",
+        "esName": "Espectrostal Z",
+        "explain": "能将幽灵属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 413,
+        "type": "Z纯晶",
+        "cName": "龙Z",
+        "eName": "Dragonium Z",
+        "esName": "Dracostal Z",
+        "explain": "能将龙属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 414,
+        "type": "Z纯晶",
+        "cName": "妖精Z",
+        "eName": "Fairium Z",
+        "esName": "Feeristal Z",
+        "explain": "能将妖精属性招式升级成Z招式的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 415,
+        "type": "Z纯晶",
+        "cName": "皮卡丘Z",
+        "eName": "Pikanium Z",
+        "esName": "Pikastal Z",
+        "explain": "能将皮卡丘的“伏特攻击”升级成特殊Z招式“皮卡皮卡必杀击”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 416,
+        "type": "Z纯晶",
+        "cName": "小智皮卡丘Z",
+        "eName": "Pikashunium Z",
+        "esName": "Ash-Pikastal Z",
+        "explain": "能将皮卡丘的“十万伏特”升级成特殊Z招式“千万伏特”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 417,
+        "type": "Z纯晶",
+        "cName": "阿罗拉雷丘Z",
+        "eName": "Aloraichium Z",
+        "esName": "Alo-Raistal Z",
+        "explain": "能将阿罗拉雷丘的“十万伏特”升级成特殊Z招式“驾雷驭电戏冲浪”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 418,
+        "type": "Z纯晶",
+        "cName": "伊布Z",
+        "eName": "Eevium Z",
+        "esName": "Eeveestal Z",
+        "explain": "能将伊布的“珍藏”升级成特殊Z招式“九彩升华齐聚顶”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 419,
+        "type": "Z纯晶",
+        "cName": "卡比兽Z",
+        "eName": "Snorlium Z",
+        "esName": "Snorlastal Z",
+        "explain": "能将卡比兽的“终极冲击”升级成特殊Z招式“认真起来大爆击”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 420,
+        "type": "Z纯晶",
+        "cName": "梦幻Z",
+        "eName": "Mewnium Z",
+        "esName": "Mewstal Z",
+        "explain": "能将梦幻的“精神强念”升级成特殊Z招式“起源超新星大爆炸”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 421,
+        "type": "Z纯晶",
+        "cName": "狙射树枭Z",
+        "eName": "Decidium Z",
+        "esName": "Dueyestal Z",
+        "explain": "能将狙射树枭的“缝影”升级成特殊Z招式“遮天蔽日暗影箭”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 422,
+        "type": "Z纯晶",
+        "cName": "炽焰咆哮虎Z",
+        "eName": "Incinium Z",
+        "esName": "Incinostal Z",
+        "explain": "能将炽焰咆哮虎的“DD金勾臂”升级成特殊Z招式“极恶飞跃粉碎击”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 423,
+        "type": "Z纯晶",
+        "cName": "西狮海壬Z",
+        "eName": "Primarium Z",
+        "esName": "Primastal Z",
+        "explain": "能将西狮海壬的“泡影的咏叹调”升级成特殊Z招式“海神庄严交响乐”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 424,
+        "type": "Z纯晶",
+        "cName": "卡璞Z",
+        "eName": "Tapunium Z",
+        "esName": "Tapistal Z",
+        "explain": "能将卡璞们的“自然之怒”升级成特殊Z招式“巨人卫士・阿罗拉”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 425,
+        "type": "Z纯晶",
+        "cName": "玛夏多Z",
+        "eName": "Marshadium Z",
+        "esName": "Marshastal Z",
+        "explain": "能将玛夏多的“暗影偷盗”升级成特殊Z招式“七星夺魂腿”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 426,
+        "type": "Z纯晶",
+        "cName": "杖尾鳞甲龙Z",
+        "eName": "Kommonium Z",
+        "esName": "Kommostal Z",
+        "explain": "能将杖尾鳞甲龙的“鳞片噪音”升级成特殊Z招式“炽魂热舞烈音爆”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 427,
+        "type": "Z纯晶",
+        "cName": "鬃岩狼人Z",
+        "eName": "Lycanium Z",
+        "esName": "Lycanrostal Z",
+        "explain": "能将鬃岩狼人的“尖石攻击”升级成特殊Z招式“狼啸石牙飓风暴”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 428,
+        "type": "Z纯晶",
+        "cName": "索尔迦雷欧Z",
+        "eName": "Solganium Z",
+        "esName": "Solgaleostal Z",
+        "explain": "能将索尔迦雷欧和奈克洛兹玛(黄昏之鬃)的“流星闪冲”升级成特殊Z招式“日光回旋下苍穹”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 429,
+        "type": "Z纯晶",
+        "cName": "露奈雅拉Z",
+        "eName": "Lunalium Z",
+        "esName": "Lunalastal Z",
+        "explain": "能将露奈雅拉和奈克洛兹玛(拂晓之翼)的“暗影之光”升级成特殊Z招式“月华飞溅落灵霄”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 430,
+        "type": "Z纯晶",
+        "cName": "谜拟丘Z",
+        "eName": "Mimikium Z",
+        "esName": "Mimikyustal Z",
+        "explain": "能将谜拟丘的“嬉闹”升级成特殊Z招式“亲密无间大乱揍”的Z力量结晶.",
+        "ceffect": ""
+    },
+    {
+        "id": 431,
+        "type": "Z纯晶",
+        "cName": "究极奈克洛兹玛Z",
+        "eName": "Ultranecrozium Z",
+        "esName": "Ultranecrostal Z",
+        "explain": "能将究极奈克洛兹玛的“光子喷涌”升级成特殊Z招式“焚天灭世炽光爆”的Z力量结晶.",
+        "ceffect": "奈克洛兹玛(黄昏之鬃)或奈克洛兹玛(拂晓之翼)携带后，可以究极爆发成为究极奈克洛兹玛."
+    }
+]

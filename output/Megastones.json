@@ -1,0 +1,452 @@
+[
+    {
+        "id": 347,
+        "type": "超级石",
+        "cName": "妙蛙花进化石",
+        "eName": "Venusaurite",
+        "esName": "Venusaurita",
+        "explain": "让妙蛙花携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 348,
+        "type": "超级石",
+        "cName": "喷火龙进化石X",
+        "eName": "Charizardite X",
+        "esName": "Charizardita X",
+        "explain": "让喷火龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 349,
+        "type": "超级石",
+        "cName": "喷火龙进化石Y",
+        "eName": "Charizardite Y",
+        "esName": "Charizardita Y",
+        "explain": "让喷火龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 350,
+        "type": "超级石",
+        "cName": "水箭龟进化石",
+        "eName": "Blastoisinite",
+        "esName": "Blastoisita",
+        "explain": "让水箭龟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 351,
+        "type": "超级石",
+        "cName": "大针蜂进化石",
+        "eName": "Beedrillite",
+        "esName": "Beedrillita",
+        "explain": "大针蜂携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 352,
+        "type": "超级石",
+        "cName": "大比鸟进化石",
+        "eName": "Pidgeotite",
+        "esName": "Pidgeotita",
+        "explain": "让大比鸟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 353,
+        "type": "超级石",
+        "cName": "皮卡蓝进化石",
+        "eName": "Pikablutite",
+        "esName": "Pikabluita",
+        "explain": "让皮卡蓝携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 354,
+        "type": "超级石",
+        "cName": "胡地进化石",
+        "eName": "Alakazite",
+        "esName": "Alakazamita",
+        "explain": "让胡地携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 355,
+        "type": "超级石",
+        "cName": "呆壳兽进化石",
+        "eName": "Slowbronite",
+        "esName": "Slowbronita",
+        "explain": "让呆壳兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 356,
+        "type": "超级石",
+        "cName": "耿鬼进化石",
+        "eName": "Gengarite",
+        "esName": "Gengarita",
+        "explain": "让耿鬼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 357,
+        "type": "超级石",
+        "cName": "袋兽进化石",
+        "eName": "Kangaskhanite",
+        "esName": "Kangaskhanita",
+        "explain": "让袋兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 358,
+        "type": "超级石",
+        "cName": "凯罗斯进化石",
+        "eName": "Pinsirite",
+        "esName": "Pinsirita",
+        "explain": "让凯罗斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 359,
+        "type": "超级石",
+        "cName": "暴鲤龙进化石",
+        "eName": "Gyaradosite",
+        "esName": "Gyaradosita",
+        "explain": "让暴鲤龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 360,
+        "type": "超级石",
+        "cName": "化石翼龙进化石",
+        "eName": "Aerodactylite",
+        "esName": "Aerodactylita",
+        "explain": "让化石翼龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 361,
+        "type": "超级石",
+        "cName": "超梦进化石X",
+        "eName": "Mewtwonite X",
+        "esName": "Mewtwoita X",
+        "explain": "让超梦携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 362,
+        "type": "超级石",
+        "cName": "超梦进化石Y",
+        "eName": "Mewtwonite Y",
+        "esName": "Mewtwoita Y",
+        "explain": "让超梦携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 363,
+        "type": "超级石",
+        "cName": "电龙进化石",
+        "eName": "Ampharosite",
+        "esName": "Ampharosita",
+        "explain": "让电龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 364,
+        "type": "超级石",
+        "cName": "大钢蛇进化石",
+        "eName": "Steelixite",
+        "esName": "Steelixita",
+        "explain": "让大钢蛇携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 365,
+        "type": "超级石",
+        "cName": "巨钳螳螂进化石",
+        "eName": "Scizorite",
+        "esName": "Scizorita",
+        "explain": "让巨钳螳螂携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 366,
+        "type": "超级石",
+        "cName": "赫拉克罗斯进化石",
+        "eName": "Heracronite",
+        "esName": "Heracrossita",
+        "explain": "让赫拉克罗斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 367,
+        "type": "超级石",
+        "cName": "黑鲁加进化石",
+        "eName": "Houndoominite",
+        "esName": "Houndoomita",
+        "explain": "让黑鲁加携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 368,
+        "type": "超级石",
+        "cName": "班基拉斯进化石",
+        "eName": "Tyranitarite",
+        "esName": "Tyranitarita",
+        "explain": "让班基拉斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 369,
+        "type": "超级石",
+        "cName": "蜥蜴王进化石",
+        "eName": "Sceptilite",
+        "esName": "Sceptilita",
+        "explain": "让蜥蜴王携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 370,
+        "type": "超级石",
+        "cName": "火焰鸡进化石",
+        "eName": "Blazikenite",
+        "esName": "Blazikenita",
+        "explain": "让火焰鸡携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 371,
+        "type": "超级石",
+        "cName": "巨沼怪进化石",
+        "eName": "Swampertite",
+        "esName": "Swampertita",
+        "explain": "让巨沼怪携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 372,
+        "type": "超级石",
+        "cName": "沙奈朵进化石",
+        "eName": "Gardevoirite",
+        "esName": "Gardevoirita",
+        "explain": "让沙奈朵携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 373,
+        "type": "超级石",
+        "cName": "勾魂眼进化石",
+        "eName": "Sablenite",
+        "esName": "Sableynita",
+        "explain": "让勾魂眼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 374,
+        "type": "超级石",
+        "cName": "大嘴娃进化石",
+        "eName": "Mawilite",
+        "esName": "Mawilita",
+        "explain": "让大嘴娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 375,
+        "type": "超级石",
+        "cName": "波士可多拉进化石",
+        "eName": "Aggronite",
+        "esName": "Aggronita",
+        "explain": "让波士可多拉携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 376,
+        "type": "超级石",
+        "cName": "雷电兽进化石",
+        "eName": "Manectite",
+        "esName": "Manectricita",
+        "explain": "让雷电兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 377,
+        "type": "超级石",
+        "cName": "恰雷姆进化石",
+        "eName": "Medichamite",
+        "esName": "Medichamita",
+        "explain": "让恰雷姆携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 378,
+        "type": "超级石",
+        "cName": "诅咒娃娃进化石",
+        "eName": "Banettite",
+        "esName": "Banettita",
+        "explain": "让诅咒娃娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 379,
+        "type": "超级石",
+        "cName": "巨牙鲨进化石",
+        "eName": "Sharpedonite",
+        "esName": "Sharpedonita",
+        "explain": "让巨牙鲨携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 380,
+        "type": "超级石",
+        "cName": "喷火驼进化石",
+        "eName": "Cameruptite",
+        "esName": "Cameruptita",
+        "explain": "喷火驼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 381,
+        "type": "超级石",
+        "cName": "七夕青鸟进化石",
+        "eName": "Altarianite",
+        "esName": "Altarianita",
+        "explain": "让七夕青鸟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 382,
+        "type": "超级石",
+        "cName": "阿勃梭鲁进化石",
+        "eName": "Absolite",
+        "esName": "Absolita",
+        "explain": "让阿勃梭鲁携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 383,
+        "type": "超级石",
+        "cName": "冰鬼护进化石",
+        "eName": "Glalitite",
+        "esName": "Glalita",
+        "explain": "让冰鬼护携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 384,
+        "type": "超级石",
+        "cName": "巨金怪进化石",
+        "eName": "Metagrossite",
+        "esName": "Metagrossita",
+        "explain": "让巨金怪携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 385,
+        "type": "超级石",
+        "cName": "暴飞龙进化石",
+        "eName": "Salamencite",
+        "esName": "Salamencita",
+        "explain": "暴飞龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 386,
+        "type": "超级石",
+        "cName": "拉帝亚斯进化石",
+        "eName": "Latiasite",
+        "esName": "Latiasita",
+        "explain": "让拉帝亚斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 387,
+        "type": "超级石",
+        "cName": "拉帝欧斯进化石",
+        "eName": "Latiosite",
+        "esName": "Latiosita",
+        "explain": "让拉帝欧斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 388,
+        "type": "超级石",
+        "cName": "长耳兔进化石",
+        "eName": "Lopunnite",
+        "esName": "Lopunnita",
+        "explain": "长耳兔携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 389,
+        "type": "超级石",
+        "cName": "路卡利欧进化石",
+        "eName": "Lucarionite",
+        "esName": "Lucarita",
+        "explain": "让路卡利欧携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 390,
+        "type": "超级石",
+        "cName": "烈咬陆鲨进化石",
+        "eName": "Garchompite",
+        "esName": "Garchompita",
+        "explain": "让烈咬陆鲨携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 391,
+        "type": "超级石",
+        "cName": "暴雪王进化石",
+        "eName": "Abomasite",
+        "esName": "Abomasnowita",
+        "explain": "让暴雪王携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 392,
+        "type": "超级石",
+        "cName": "艾路雷朵进化石",
+        "eName": "Galladite",
+        "esName": "Galladita",
+        "explain": "让艾路雷朵携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 393,
+        "type": "超级石",
+        "cName": "差不多娃娃进化石",
+        "eName": "Audinite",
+        "esName": "Audinita",
+        "explain": "让差不多娃娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 394,
+        "type": "超级石",
+        "cName": "蒂安希进化石",
+        "eName": "Diancite",
+        "esName": "Diancita",
+        "explain": "让蒂安希携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 395,
+        "type": "超级石",
+        "cName": "雷丘进化石",
+        "eName": "Raichite",
+        "esName": "Raichita",
+        "explain": "让雷丘携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": ""
+    },
+    {
+        "id": 396,
+        "type": "超级石",
+        "cName": "伊布进化石",
+        "eName": "Eeveeite",
+        "esName": "Eeveeita",
+        "explain": "让伊布携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+        "ceffect": "根据第一个招式的属性，进化成对应属性的伊布."
+    }
+]

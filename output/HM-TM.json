@@ -1,0 +1,938 @@
+[
+  {
+    "id": 475,
+    "type": "技能机器",
+    "cName": "HM1 居合斩",
+    "eName": "HM1 Cut",
+    "explain": "用镰刀或爪子等切斩对手进行攻击。",
+    "ceffect": "威力：50\nＰＰ：50"
+  },
+  {
+    "id": 476,
+    "type": "技能机器",
+    "cName": "HM2 飞翔",
+    "eName": "HM2 Fly",
+    "explain": "首次使用会飞上天空，再次使用会下落攻击对手。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 477,
+    "type": "技能机器",
+    "cName": "HM3 冲浪",
+    "eName": "HM3 Surf",
+    "explain": "利用大浪攻击自己周围所有的宝可梦。可以追踪并攻击到潜水的敌人。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 478,
+    "type": "技能机器",
+    "cName": "HM4 怪力",
+    "eName": "HM4 Strength",
+    "explain": "使出浑身力气殴打对手进行攻击。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 479,
+    "type": "技能机器",
+    "cName": "HM5 闪光",
+    "eName": "HM5 Flash",
+    "explain": "使出耀眼光芒，从而降低对手的命中率。",
+    "ceffect": "威力：—\nＰＰ：50"
+  },
+  {
+    "id": 480,
+    "type": "技能机器",
+    "cName": "HM6 碎岩",
+    "eName": "HM6 Rock Smash",
+    "explain": "用拳头进行攻击。有时会降低对手的防御。",
+    "ceffect": "威力：40\nＰＰ：40"
+  },
+  {
+    "id": 481,
+    "type": "技能机器",
+    "cName": "HM7 潜水",
+    "eName": "HM7 Dive",
+    "explain": "首次使用会潜入水中，再次使用会浮上来进行攻击。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 482,
+    "type": "技能机器",
+    "cName": "TM1 瞬间移动",
+    "eName": "TM1 Teleport",
+    "explain": "瞬间传送到所选方向。",
+    "ceffect": "威力：—\nＰＰ：40"
+  },
+  {
+    "id": 483,
+    "type": "技能机器",
+    "cName": "TM2 爆裂拳",
+    "eName": "TM2 Dynamic Punch",
+    "explain": "使出浑身力气出拳进行攻击。必定会使对手混乱。",
+    "ceffect": "威力：100\nＰＰ：100"
+  },
+  {
+    "id": 484,
+    "type": "技能机器",
+    "cName": "TM3 龙爪",
+    "eName": "TM3 Dragon Claw",
+    "explain": "用尖锐的巨爪劈开对手进行攻击。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 485,
+    "type": "技能机器",
+    "cName": "TM4 神秘守护",
+    "eName": "TM4 Safeguard",
+    "explain": "在一定时间内被神奇的力量守护，从而不会陷入异常状态。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 486,
+    "type": "技能机器",
+    "cName": "TM5 替身",
+    "eName": "TM5 Substitute",
+    "explain": "使用自己最大HP的1/4，制造出替身。",
+    "ceffect": "威力：—\nＰＰ：120"
+  },
+  {
+    "id": 487,
+    "type": "技能机器",
+    "cName": "TM6 剧毒",
+    "eName": "TM6 Toxic",
+    "explain": "扔出一个毒球，让对手陷入剧毒状态。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 488,
+    "type": "技能机器",
+    "cName": "TM7 污泥炸弹",
+    "eName": "TM7 Sludge Bomb",
+    "explain": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 489,
+    "type": "技能机器",
+    "cName": "TM8 铁尾",
+    "eName": "TM8 Iron Tail",
+    "explain": "使用坚硬的尾巴摔打对手进行攻击。有时会降低对手的防御。",
+    "ceffect": "威力：100\nＰＰ：100"
+  },
+  {
+    "id": 490,
+    "type": "技能机器",
+    "cName": "TM9 沙暴",
+    "eName": "TM9 Sandstorm",
+    "explain": "扬起持续一段时间的沙暴，除岩石、地面和钢属性以外的宝可梦，都会受到伤害。岩石属性的特防还会提高。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 491,
+    "type": "技能机器",
+    "cName": "TM10 大晴天",
+    "eName": "TM10 Sunny Day",
+    "explain": "在一定时间内阳光变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 492,
+    "type": "技能机器",
+    "cName": "TM11 求雨",
+    "eName": "TM11 Rain Dance",
+    "explain": "在一定时间内一直降雨，从而提高水属性的招式威力，火属性的招式威力则降低。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 493,
+    "type": "技能机器",
+    "cName": "TM12 冰雹",
+    "eName": "TM12 Hail",
+    "explain": "在一定时间内一直降冰雹，除冰属性的宝可梦以外，给予全体宝可梦伤害。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 494,
+    "type": "技能机器",
+    "cName": "TM13 觉醒力量",
+    "eName": "TM13 Hidden Power",
+    "explain": "招式的属性会随着使用此招式的宝可梦而改变。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 495,
+    "type": "技能机器",
+    "cName": "TM14 影子分身",
+    "eName": "TM14 Double Team",
+    "explain": "制造一个分身来迷惑对手。",
+    "ceffect": "威力：—\nＰＰ：70"
+  },
+  {
+    "id": 496,
+    "type": "技能机器",
+    "cName": "TM15 破坏光线",
+    "eName": "TM15 Hyper Beam",
+    "explain": "向对手发射强烈的光线进行攻击。",
+    "ceffect": "威力：150\nＰＰ：150"
+  },
+  {
+    "id": 497,
+    "type": "技能机器",
+    "cName": "TM16 挖洞",
+    "eName": "TM16 Dig",
+    "explain": "首次使用钻入地下，再次使用钻出地面攻击对手。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 498,
+    "type": "技能机器",
+    "cName": "TM17 地震",
+    "eName": "TM17 Earthquake",
+    "explain": "发射一道地震冲击波，可以追踪并攻击到挖洞的敌人。",
+    "ceffect": "威力：100\nＰＰ：100"
+  },
+  {
+    "id": 499,
+    "type": "技能机器",
+    "cName": "TM18 守住",
+    "eName": "TM18 Protect",
+    "explain": "完全抵挡对手的攻击。连续使出则容易失败。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 500,
+    "type": "技能机器",
+    "cName": "TM19 电击波",
+    "eName": "TM19 Shock Wave",
+    "explain": "向对手快速发出电击。攻击必定会命中。",
+    "ceffect": "威力：60\nＰＰ：80"
+  },
+  {
+    "id": 501,
+    "type": "技能机器",
+    "cName": "TM20 真气弹",
+    "eName": "TM20 Focus Blast",
+    "explain": "提高气势，释放出全部力量。有时会降低对手的特防。",
+    "ceffect": "威力：120\nＰＰ：120"
+  },
+  {
+    "id": 502,
+    "type": "技能机器",
+    "cName": "TM21 燕返",
+    "eName": "TM21 Aerial Ace",
+    "explain": "以敏捷的动作戏弄对手后进行切斩。攻击必定会命中。",
+    "ceffect": "威力：60\nＰＰ：90"
+  },
+  {
+    "id": 503,
+    "type": "技能机器",
+    "cName": "TM22 银色旋风",
+    "eName": "TM22 Silver Wind",
+    "explain": "在风中掺入鳞粉攻击对手。有时会提高自己的全部能力。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 504,
+    "type": "技能机器",
+    "cName": "TM23 龙之波动",
+    "eName": "TM23 Dragon Pulse",
+    "explain": "从大大的口中掀起冲击波攻击对手。",
+    "ceffect": "威力：85\nＰＰ：85"
+  },
+  {
+    "id": 505,
+    "type": "技能机器",
+    "cName": "TM24 电磁波",
+    "eName": "TM24 Thunder Wave",
+    "explain": "向对手发出微弱的电击，从而让对手陷入麻痹状态。",
+    "ceffect": "威力：—\nＰＰ：80"
+  },
+  {
+    "id": 506,
+    "type": "技能机器",
+    "cName": "TM25 十万伏特",
+    "eName": "TM25 Thunderbolt",
+    "explain": "向对手发出强力电击进行攻击。有时会让对手陷入麻痹状态。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 507,
+    "type": "技能机器",
+    "cName": "TM26 打雷",
+    "eName": "TM26 Thunder",
+    "explain": "向对手劈下暴雷进行攻击。有时会让对手陷入麻痹状态。可以追踪并攻击到飞翔的敌人。",
+    "ceffect": "威力：110\nＰＰ：110"
+  },
+  {
+    "id": 508,
+    "type": "技能机器",
+    "cName": "TM27 冰冻光束",
+    "eName": "TM27 Ice Beam",
+    "explain": "向对手发射冰冻光束进行攻击。有时会让对手陷入冰冻状态。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 509,
+    "type": "技能机器",
+    "cName": "TM28 暴风雪",
+    "eName": "TM28 Blizzard",
+    "explain": "将猛烈的暴风雪刮向对手进行攻击。有时会让对手陷入冰冻状态。",
+    "ceffect": "威力：110\nＰＰ：110"
+  },
+  {
+    "id": 510,
+    "type": "技能机器",
+    "cName": "TM29 精神强念",
+    "eName": "TM29 Psychic",
+    "explain": "向对手发送强大的念力进行攻击。有时会降低对手的特防。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 511,
+    "type": "技能机器",
+    "cName": "TM30 暗影球",
+    "eName": "TM30 Shadow Ball",
+    "explain": "投掷一团黑影进行攻击。有时会降低对手的特防。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 512,
+    "type": "技能机器",
+    "cName": "TM31 喷射火焰",
+    "eName": "TM31 Flamethrower",
+    "explain": "向对手发射烈焰进行攻击。有时会让对手陷入灼伤状态。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 513,
+    "type": "技能机器",
+    "cName": "TM32 大字爆炎",
+    "eName": "TM32 Fire Blast",
+    "explain": "用大字形状的火焰烧尽对手。有时会让对手陷入灼伤状态。",
+    "ceffect": "威力：110\nＰＰ：110"
+  },
+  {
+    "id": 514,
+    "type": "技能机器",
+    "cName": "TM33 终极吸取",
+    "eName": "TM33 Giga Drain",
+    "explain": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半HP。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 515,
+    "type": "技能机器",
+    "cName": "TM34 日光束",
+    "eName": "TM34 Solar Beam",
+    "explain": "第1回合收集满满的日光，第2回合发射光束进行攻击。",
+    "ceffect": "威力：120\nＰＰ：120"
+  },
+  {
+    "id": 516,
+    "type": "技能机器",
+    "cName": "TM35 岩石封锁",
+    "eName": "TM35 Rock Tomb",
+    "explain": "投掷岩石进行攻击。封住对手的行动，从而降低速度。",
+    "ceffect": "威力：60\nＰＰ：70"
+  },
+  {
+    "id": 517,
+    "type": "技能机器",
+    "cName": "TM36 岩崩",
+    "eName": "TM36 Rock Slide",
+    "explain": "将大岩石猛烈地撞向对手进行攻击。有时会使对手畏缩。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 518,
+    "type": "技能机器",
+    "cName": "TM37 恶之波动",
+    "eName": "TM37 Dark Pulse",
+    "explain": "从体内发出充满恶意的恐怖气场。有时会使对手畏缩。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 519,
+    "type": "技能机器",
+    "cName": "TM38 毒击",
+    "eName": "TM38 Poison Jab",
+    "explain": "用带毒的触手或手臂刺入对手。有时会让对手陷入中毒状态。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 520,
+    "type": "技能机器",
+    "cName": "TM39 终极冲击",
+    "eName": "TM39 Giga Impact",
+    "explain": "使出自己浑身力量突击对手。下一回合自己将无法动弹。",
+    "ceffect": "威力：150\nＰＰ：150"
+  },
+  {
+    "id": 521,
+    "type": "技能机器",
+    "cName": "TM40 水之波动",
+    "eName": "TM40 Water Pulse",
+    "explain": "用水的震动攻击对手。有时会使对手混乱。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 522,
+    "type": "技能机器",
+    "cName": "TM41 大爆炸",
+    "eName": "TM41 Explosion",
+    "explain": "引发大爆炸，攻击自己周围所有的宝可梦。使用后自己会陷入濒死。",
+    "ceffect": "威力：250\nＰＰ：300"
+  },
+  {
+    "id": 523,
+    "type": "技能机器",
+    "cName": "TM42 十字剪",
+    "eName": "TM42 X-Scissor",
+    "explain": "将镰刀或爪子像剪刀般地交叉，顺势劈开对手。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 524,
+    "type": "技能机器",
+    "cName": "TM43 睡觉",
+    "eName": "TM43 Rest",
+    "explain": "陷入睡眠状态，回复自己的全部HP以及治愈所有异常状态。",
+    "ceffect": "威力：—\nＰＰ：120"
+  },
+  {
+    "id": 525,
+    "type": "技能机器",
+    "cName": "TM44 点到为止",
+    "eName": "TM44 False Swipe",
+    "explain": "对手的HP至少会留下1HP，如此般手下留情地攻击。",
+    "ceffect": "威力：40\nＰＰ：40"
+  },
+  {
+    "id": 526,
+    "type": "技能机器",
+    "cName": "TM45 秘密之力",
+    "eName": "TM45 Secret Power",
+    "explain": "根据使用场所不同，该招式的追加效果也会有所变化。",
+    "ceffect": "威力：70\nＰＰ：90"
+  },
+  {
+    "id": 527,
+    "type": "技能机器",
+    "cName": "TM46 神速",
+    "eName": "TM46 Extreme Speed",
+    "explain": "以迅雷不及掩耳之势猛撞向对手进行攻击。必定能够先制攻击。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 528,
+    "type": "技能机器",
+    "cName": "TM47 潮旋",
+    "eName": "TM47 Whirlpool",
+    "explain": "将对手困在激烈的水流旋涡中进行攻击。",
+    "ceffect": "威力：35\nＰＰ：70"
+  },
+  {
+    "id": 529,
+    "type": "技能机器",
+    "cName": "TM48 攀瀑",
+    "eName": "TM48 Waterfall",
+    "explain": "以惊人的气势扑向对手。有时会使对手畏缩。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 530,
+    "type": "技能机器",
+    "cName": "TM49 岩浆波",
+    "eName": "TM49 Fire Wave",
+    "explain": "朝敌人发射一个巨大岩浆波。",
+    "ceffect": "威力：95\nＰＰ：95"
+  },
+  {
+    "id": 531,
+    "type": "技能机器",
+    "cName": "TM50 攀岩",
+    "eName": "TM50 Rock Climb",
+    "explain": "用尽全力扑向对手进行攻击。有时会使对手混乱。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 532,
+    "type": "技能机器",
+    "cName": "TM51 挥指",
+    "eName": "TM51 Metronome",
+    "explain": "挥动手指刺激自己的大脑，从所有的招式中任意使出1个。",
+    "ceffect": "威力：—\nＰＰ：80"
+  },
+  {
+    "id": 533,
+    "type": "技能机器",
+    "cName": "TM52 模仿",
+    "eName": "TM52 Mimic",
+    "explain": "可以将对手最后使用的招式，在战斗内变成自己的招式。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 534,
+    "type": "技能机器",
+    "cName": "TM53 甜甜香气",
+    "eName": "TM53 Sweet Scent",
+    "explain": "向对手扔出一团香气，大幅降低其速度。",
+    "ceffect": "威力：—\nＰＰ：50"
+  },
+  {
+    "id": 535,
+    "type": "技能机器",
+    "cName": "TM54 龙息",
+    "eName": "TM54 Dragon Breath",
+    "explain": "将强烈的气息吹向对手进行攻击。有时会让对手陷入麻痹状态。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 536,
+    "type": "技能机器",
+    "cName": "TM55 雷电拳",
+    "eName": "TM55 Thunder Punch",
+    "explain": "用充满电流的拳头攻击对手。有时会让对手陷入麻痹状态。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 537,
+    "type": "技能机器",
+    "cName": "TM56 火焰拳",
+    "eName": "TM56 Fire Punch",
+    "explain": "用充满火焰的拳头攻击对手。有时会让对手陷入灼伤状态。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 538,
+    "type": "技能机器",
+    "cName": "TM57 冰冻拳",
+    "eName": "TM57 Ice Punch",
+    "explain": "用充满寒气的拳头攻击对手。有时会让对手陷入冰冻状态。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 539,
+    "type": "技能机器",
+    "cName": "TM58 吸取拳",
+    "eName": "TM58 Drain Punch",
+    "explain": "用拳头吸取对手的力量。可以回复给予对手伤害的一半HP。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 540,
+    "type": "技能机器",
+    "cName": "TM59 羽栖",
+    "eName": "TM59 Roost",
+    "explain": "降到地面，使身体休息。回复自己最大HP的一半。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 541,
+    "type": "技能机器",
+    "cName": "TM60 盐水",
+    "eName": "TM60 Brine",
+    "explain": "当对手的HP负伤到一半左右时，招式威力会变成2倍。",
+    "ceffect": "威力：65\nＰＰ：65"
+  },
+  {
+    "id": 542,
+    "type": "技能机器",
+    "cName": "TM61 硬撑",
+    "eName": "TM61 Facade",
+    "explain": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成2倍。",
+    "ceffect": "威力：70\nＰＰ：70"
+  },
+  {
+    "id": 543,
+    "type": "技能机器",
+    "cName": "TM62 尖石攻击",
+    "eName": "TM62 Stone Edge",
+    "explain": "用尖尖的岩石刺入对手进行攻击。容易击中要害。",
+    "ceffect": "威力：100\nＰＰ：100"
+  },
+  {
+    "id": 544,
+    "type": "技能机器",
+    "cName": "TM63 能量球",
+    "eName": "TM63 Energy Ball",
+    "explain": "发射从自然收集的生命力量。有时会降低对手的特防。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 545,
+    "type": "技能机器",
+    "cName": "TM64 诱惑",
+    "eName": "TM64 Captivate",
+    "explain": "【♂诱惑♀】或【♀诱惑♂】，从而大幅降低对手的特攻，有时会使对手陷入魅惑状态。",
+    "ceffect": "威力：—\nＰＰ：75"
+  },
+  {
+    "id": 546,
+    "type": "技能机器",
+    "cName": "TM65 加农光炮",
+    "eName": "TM65 Flash Cannon",
+    "explain": "将身体的光芒聚集在一点释放出去。有时会降低对手的特防。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 547,
+    "type": "技能机器",
+    "cName": "TM66 特性互换",
+    "eName": "TM66 Skill Swap",
+    "explain": "利用超能力互换自己和对手的特性。",
+    "ceffect": "威力：—\nＰＰ：80"
+  },
+  {
+    "id": 548,
+    "type": "技能机器",
+    "cName": "TM67 劈瓦",
+    "eName": "TM67 Brick Break",
+    "explain": "将手刀猛烈地挥下攻击对手。还可以破坏光墙和反射壁等。",
+    "ceffect": "威力：75\nＰＰ：75"
+  },
+  {
+    "id": 549,
+    "type": "技能机器",
+    "cName": "TM68 虚张声势",
+    "eName": "TM68 Swagger",
+    "explain": "激怒对手，使其混乱。因为愤怒，对手的攻击会大幅提高。",
+    "ceffect": "威力：—\nＰＰ：60"
+  },
+  {
+    "id": 550,
+    "type": "技能机器",
+    "cName": "TM69 小偷",
+    "eName": "TM69 Thief",
+    "explain": "攻击的同时盗取道具。当自己携带道具时，不会去盗取。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 551,
+    "type": "技能机器",
+    "cName": "TM70 奇迹之眼",
+    "eName": "TM70 Miracle Eye",
+    "explain": "对恶属性宝可梦没有效果的招式以及闪避率高的对手，使用后变得能够打中。",
+    "ceffect": "威力：—\nＰＰ：90"
+  },
+  {
+    "id": 552,
+    "type": "技能机器",
+    "cName": "TM71 电磁炮",
+    "eName": "TM71 Zap Cannon",
+    "explain": "发射大炮一样的电流进行攻击。让对手陷入麻痹状态。",
+    "ceffect": "威力：120\nＰＰ：120"
+  },
+  {
+    "id": 553,
+    "type": "技能机器",
+    "cName": "TM72 光墙",
+    "eName": "TM72 Light Screen",
+    "explain": "生成一面持续一段时间的神奇的墙，减弱从对手那受到的特殊攻击的伤害。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 554,
+    "type": "技能机器",
+    "cName": "TM73 反射壁",
+    "eName": "TM73 Reflect",
+    "explain": "升起一面持续一段时间的神奇的墙，减弱从对手那受到的物理攻击的伤害。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 555,
+    "type": "技能机器",
+    "cName": "TM74 电磁飘浮",
+    "eName": "TM74 Magnet Rise",
+    "explain": "利用电气产生的磁力浮在空中。在一定时间内可以飘浮，免疫地面攻击。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 556,
+    "type": "技能机器",
+    "cName": "TM75 戏法空间",
+    "eName": "TM75 Trick Room",
+    "explain": "制造出离奇的空间。在一定时间内速度慢的宝可梦可以先行动。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 557,
+    "type": "技能机器",
+    "cName": "TM76 精神冲击",
+    "eName": "TM76 Psyshock",
+    "explain": "将神奇的念波实体化攻击对手。给予物理伤害。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 558,
+    "type": "技能机器",
+    "cName": "TM77 毒液冲击",
+    "eName": "TM77 Venoshock",
+    "explain": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成2倍。",
+    "ceffect": "威力：65\nＰＰ：65"
+  },
+  {
+    "id": 559,
+    "type": "技能机器",
+    "cName": "TM78 击落",
+    "eName": "TM78 Smack Down",
+    "explain": "扔石头或炮弹，攻击飞行的对手。对手会被击落，掉到地面。",
+    "ceffect": "威力：50\nＰＰ：50"
+  },
+  {
+    "id": 560,
+    "type": "技能机器",
+    "cName": "TM79 重踏",
+    "eName": "TM79 Bulldoze",
+    "explain": "用力踩踏地面并攻击自己周围所有的宝可梦。降低对方的速度。",
+    "ceffect": "威力：60\nＰＰ：80"
+  },
+  {
+    "id": 561,
+    "type": "技能机器",
+    "cName": "TM80 热水",
+    "eName": "TM80 Scald",
+    "explain": "向对手喷射煮得翻滚的开水进行攻击。有时会让对手陷入灼伤状态。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 562,
+    "type": "技能机器",
+    "cName": "TM81 急速折返",
+    "eName": "TM81 U-turn",
+    "explain": "在攻击之后急速返回，和后备宝可梦进行替换。",
+    "ceffect": "威力：70\nＰＰ：70"
+  },
+  {
+    "id": 563,
+    "type": "技能机器",
+    "cName": "TM82 杂技",
+    "eName": "TM82 Acrobatics",
+    "explain": "轻巧地攻击对手。自己没有携带道具时，会给予较大的伤害。",
+    "ceffect": "威力：55\nＰＰ：55"
+  },
+  {
+    "id": 564,
+    "type": "技能机器",
+    "cName": "TM83 报仇",
+    "eName": "TM83 Retaliate",
+    "explain": "为倒下的同伴报仇。如果上一回合有同伴倒下，威力就会提高。",
+    "ceffect": "威力：70\nＰＰ：70"
+  },
+  {
+    "id": 565,
+    "type": "技能机器",
+    "cName": "TM84 虫之抵抗",
+    "eName": "TM84 Struggle Bug",
+    "explain": "抵抗并攻击对手。降低对手的特攻。",
+    "ceffect": "威力：50\nＰＰ：70"
+  },
+  {
+    "id": 566,
+    "type": "技能机器",
+    "cName": "TM85 自我激励",
+    "eName": "TM85 Work Up",
+    "explain": "激励自己，从而提高攻击和特攻。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 567,
+    "type": "技能机器",
+    "cName": "TM86 龙尾",
+    "eName": "TM86 Dragon Tail",
+    "explain": "弹飞对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 568,
+    "type": "技能机器",
+    "cName": "TM87 大声咆哮",
+    "eName": "TM87 Snarl",
+    "explain": "没完没了地大声斥责，从而降低对手的特攻。",
+    "ceffect": "威力：55\nＰＰ：75"
+  },
+  {
+    "id": 569,
+    "type": "技能机器",
+    "cName": "TM88 冥想",
+    "eName": "TM88 Calm Mind",
+    "explain": "静心凝神，从而提高自己的特攻和特防。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 570,
+    "type": "技能机器",
+    "cName": "TM89 冰息",
+    "eName": "TM89 Frost Breath",
+    "explain": "将冰冷的气息吹向对手进行攻击。必定会击中要害。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 571,
+    "type": "技能机器",
+    "cName": "TM90 疯狂伏特",
+    "eName": "TM90 Wild Charge",
+    "explain": "让电流覆盖全身撞向对手进行攻击。自己也会受到少许伤害。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 572,
+    "type": "技能机器",
+    "cName": "TM91 钢翼",
+    "eName": "TM91 Steel Wing",
+    "explain": "用坚硬的翅膀敲打对手进行攻击。有时会提高自己的防御。",
+    "ceffect": "威力：70\nＰＰ：70"
+  },
+  {
+    "id": 573,
+    "type": "技能机器",
+    "cName": "TM92 魔法闪耀",
+    "eName": "TM92 Dazzling Gleam",
+    "explain": "向对手发射强光，并给予伤害。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 574,
+    "type": "技能机器",
+    "cName": "TM93 打草结",
+    "eName": "TM93 Grass Knot",
+    "explain": "用草缠住并绊倒对手。对手越重，威力越大。",
+    "ceffect": "威力：变化\nＰＰ：70"
+  },
+  {
+    "id": 575,
+    "type": "技能机器",
+    "cName": "TM94 剑舞",
+    "eName": "TM94 Swords Dance",
+    "explain": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+    "ceffect": "威力：—\nＰＰ：100"
+  },
+  {
+    "id": 576,
+    "type": "技能机器",
+    "cName": "TM95 狂舞挥打",
+    "eName": "TM95 Brutal Swing",
+    "explain": "用自己的身体狂舞挥打，给予对手伤害。",
+    "ceffect": "威力：60\nＰＰ：60"
+  },
+  {
+    "id": 577,
+    "type": "技能机器",
+    "cName": "TM96 嬉闹",
+    "eName": "TM96 Play Rough",
+    "explain": "与对手嬉闹并攻击。有时会降低对手的攻击。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 578,
+    "type": "技能机器",
+    "cName": "TM97 拍落",
+    "eName": "TM97 Knock Off",
+    "explain": "拍落对手的持有物，直到战斗结束都不能使用。对手携带道具时会增加伤害。",
+    "ceffect": "威力：65\nＰＰ：65"
+  },
+  {
+    "id": 579,
+    "type": "技能机器",
+    "cName": "TM98 以牙还牙",
+    "eName": "TM98 Payback",
+    "explain": "蓄力攻击。如果能在对手之后攻击，招式的威力会变成2倍。",
+    "ceffect": "威力：50\nＰＰ：50"
+  },
+  {
+    "id": 580,
+    "type": "技能机器",
+    "cName": "TM99 跺脚",
+    "eName": "TM99 Stomping Tantrum",
+    "explain": "化悔恨为力量进行攻击。如果上一回合招式没有打中，威力就会翻倍。",
+    "ceffect": "威力：75\nＰＰ：100"
+  },
+  {
+    "id": 581,
+    "type": "技能机器",
+    "cName": "TM100 月亮之力",
+    "eName": "TM100 Moonblast",
+    "explain": "借用月亮的力量攻击对手。有时会降低对手的特攻。",
+    "ceffect": "威力：95\nＰＰ：95"
+  },
+  {
+    "id": 582,
+    "type": "技能机器",
+    "cName": "TM101 暗影拳",
+    "eName": "TM101 Shadow Punch",
+    "explain": "使出混影之拳。攻击必定会命中。",
+    "ceffect": "威力：60\nＰＰ：90"
+  },
+  {
+    "id": 583,
+    "type": "技能机器",
+    "cName": "TM102 水炮",
+    "eName": "TM102 Hydro Pump",
+    "explain": "向对手猛烈地喷射大量水流进行攻击。",
+    "ceffect": "威力：110\nＰＰ：110"
+  },
+  {
+    "id": 584,
+    "type": "技能机器",
+    "cName": "TM103 吸取之吻",
+    "eName": "TM103 Draining Kiss",
+    "explain": "用一个吻吸取对手的HP。回复给予对手伤害的一半以上的HP。",
+    "ceffect": "威力：50\nＰＰ：50"
+  },
+  {
+    "id": 585,
+    "type": "技能机器",
+    "cName": "TM104 力量宝石",
+    "eName": "TM104 Power Gem",
+    "explain": "发射如宝石般闪耀的光芒攻击对手。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 586,
+    "type": "技能机器",
+    "cName": "TM105 暴风",
+    "eName": "TM105 Hurricane",
+    "explain": "用强烈的风席卷对手进行攻击，可以追踪并攻击到飞翔的对手。有时会使对手混乱。",
+    "ceffect": "威力：110\nＰＰ：110"
+  },
+  {
+    "id": 587,
+    "type": "技能机器",
+    "cName": "TM106 勇鸟猛攻",
+    "eName": "TM106 Brave Bird",
+    "explain": "收拢翅膀，通过低空飞行突击对手。自己也会受到不小的伤害。",
+    "ceffect": "威力：120\nＰＰ：120"
+  },
+  {
+    "id": 588,
+    "type": "技能机器",
+    "cName": "TM107 戏法",
+    "eName": "TM107 Trick",
+    "explain": "抓住对手的空隙，交换自己和对手的持有物。",
+    "ceffect": "威力：—\nＰＰ：65"
+  },
+  {
+    "id": 589,
+    "type": "技能机器",
+    "cName": "TM108 咬碎",
+    "eName": "TM108 Crunch",
+    "explain": "用利牙咬碎对手进行攻击。有时会降低对手的防御。",
+    "ceffect": "威力：80\nＰＰ：80"
+  },
+  {
+    "id": 590,
+    "type": "技能机器",
+    "cName": "TM109 虫鸣",
+    "eName": "TM109 Bug Buzz",
+    "explain": "利用振动发出音波进行攻击。有时会降低对手的特防。",
+    "ceffect": "威力：90\nＰＰ：90"
+  },
+  {
+    "id": 591,
+    "type": "技能机器",
+    "cName": "TM110 超级角击",
+    "eName": "TM110 Megahorn",
+    "explain": "用坚硬且华丽的角狠狠地刺入对手进行攻击。",
+    "ceffect": "威力：120\nＰＰ：120"
+  }
+]

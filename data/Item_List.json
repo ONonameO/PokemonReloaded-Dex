@@ -1,0 +1,5404 @@
+{
+    "item": [
+        {
+            "id": 1,
+            "type": "重要物品",
+            "cName": "经验抑制装置",
+            "eName": "Exp. Inhibitor",
+            "explain": "该物品在背包时，全队宝可梦都无法获得经验.",
+            "effect": ""
+        },
+        {
+            "id": 2,
+            "type": "重要物品",
+            "cName": "智能手机",
+            "eName": "SmartPhone",
+            "explain": "一部手机，可以按F8给其他人打电话.",
+            "effect": ""
+        },
+        {
+            "id": 3,
+            "type": "重要物品",
+            "cName": "地图",
+            "eName": "Map",
+            "explain": "一份地图，可以按M查看.",
+            "effect": ""
+        },
+        {
+            "id": 4,
+            "type": "重要物品",
+            "cName": "GPS",
+            "eName": "GPS",
+            "explain": "可以让你在不同地图之间飞行.",
+            "effect": ""
+        },
+        {
+            "id": 5,
+            "type": "重要物品",
+            "cName": "音乐播放器",
+            "eName": "xPod Star",
+            "explain": "可以让你聆听星之地区的音乐.",
+            "effect": ""
+        },
+        {
+            "id": 6,
+            "type": "重要物品",
+            "cName": "自行车",
+            "eName": "Bicycle",
+            "explain": "能比跑步鞋跑得还快的折叠式自行车.\n可以按V使用.",
+            "effect": ""
+        },
+        {
+            "id": 7,
+            "type": "重要物品",
+            "cName": "破旧钓竿",
+            "eName": "Old Rod",
+            "explain": "又破又旧的钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+            "effect": ""
+        },
+        {
+            "id": 8,
+            "type": "重要物品",
+            "cName": "好钓竿",
+            "eName": "Good Rod",
+            "explain": "不错的新钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+            "effect": ""
+        },
+        {
+            "id": 9,
+            "type": "重要物品",
+            "cName": "厉害钓竿",
+            "eName": "Super Rod",
+            "explain": "最新的厉害钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+            "effect": ""
+        },
+        {
+            "id": 10,
+            "type": "重要物品",
+            "cName": "宝可梦之笛",
+            "eName": "Poké Flute",
+            "explain": "能吹出让睡着的宝可梦都会情不自禁醒来的美妙音色的笛子.\n在战斗中可以按F使用.",
+            "effect": ""
+        },
+        {
+            "id": 11,
+            "type": "重要物品",
+            "cName": "Mega手环",
+            "eName": "Mega Ring",
+            "explain": "蕴藏着未知力量的圆环.能让携带着超级石战斗的宝可梦进行超级进化.",
+            "effect": ""
+        },
+        {
+            "id": 12,
+            "type": "重要物品",
+            "cName": "Z手环",
+            "eName": "Z-Powwer Ring",
+            "explain": "通过使用训练家的气力和体力来让宝可梦释放出Z力量的神奇手环.",
+            "effect": ""
+        },
+        {
+            "id": 13,
+            "type": "重要物品",
+            "cName": "喷壶",
+            "eName": "SquirtBottle",
+            "explain": "浇水的道具.能让埋在松软土壤里的树果快快长大.",
+            "effect": ""
+        },
+        {
+            "id": 14,
+            "type": "重要物品",
+            "cName": "代币盒",
+            "eName": "Coin Case",
+            "explain": "可以存放在游戏城获得的代币的盒子.",
+            "effect": ""
+        },
+        {
+            "id": 15,
+            "type": "重要物品",
+            "cName": "护符金币",
+            "eName": "Amulet Coin",
+            "explain": "只要携带它的宝可梦在战斗时出场，就能获得2倍金钱.",
+            "effect": ""
+        },
+        {
+            "id": 16,
+            "type": "重要物品",
+            "cName": "学习装置",
+            "eName": "Exp. Share",
+            "explain": "打开开关后，能让同行的所有宝可梦获得经验值的装置.",
+            "effect": "参加战斗的宝可梦获得100%经验值，其余同行的宝可梦获得50%经验值."
+        },
+        {
+            "id": 17,
+            "type": "重要物品",
+            "cName": "笔记本",
+            "eName": "Notebook",
+            "explain": "一本记录任务的笔记本.",
+            "effect": ""
+        },
+        {
+            "id": 18,
+            "type": "重要物品",
+            "cName": "闪耀护符",
+            "eName": "Shiny Charm",
+            "explain": "拥有它之后，据说会更容易遇见闪光宝可梦的神奇闪光护符.",
+            "effect": ""
+        },
+        {
+            "id": 19,
+            "type": "重要物品",
+            "cName": "圆形护符",
+            "eName": "Oval Charm",
+            "explain": "拥有它之后，在寄放屋里会更容易找到蛋的神奇浑圆护符.",
+            "effect": ""
+        },
+        {
+            "id": 20,
+            "type": "重要物品",
+            "cName": "隐藏包裹",
+            "eName": "Hidden Package",
+            "explain": "一个将被送到冰系道馆的包裹.",
+            "effect": ""
+        },
+        {
+            "id": 21,
+            "type": "重要物品",
+            "cName": "特殊药草",
+            "eName": "Special Herb",
+            "explain": "一种疗伤的药草，可以治疗挡路的咕妞妞.",
+            "effect": ""
+        },
+        {
+            "id": 22,
+            "type": "重要物品",
+            "cName": "刀",
+            "eName": "Knife",
+            "explain": "一把属于龙系道馆馆主的旧刀.",
+            "effect": ""
+        },
+        {
+            "id": 23,
+            "type": "重要物品",
+            "cName": "斧",
+            "eName": "Axe",
+            "explain": "一把属于龙系道馆馆主的旧斧头.",
+            "effect": ""
+        },
+        {
+            "id": 24,
+            "type": "重要物品",
+            "cName": "弓",
+            "eName": "Bow",
+            "explain": "一把属于龙系道馆馆主的旧弓.",
+            "effect": ""
+        },
+        {
+            "id": 25,
+            "type": "重要物品",
+            "cName": "中央钥匙",
+            "eName": "Central Key",
+            "explain": "星之地区Energy Island上发电厂的钥匙.",
+            "effect": ""
+        },
+        {
+            "id": 26,
+            "type": "重要物品",
+            "cName": "火箭队钥匙",
+            "eName": "Rocket Key",
+            "explain": "火箭队基地的钥匙，基地位于Pole City的下水道.",
+            "effect": ""
+        },
+        {
+            "id": 27,
+            "type": "重要物品",
+            "cName": "遗迹钥匙",
+            "eName": "Rekiem Key",
+            "explain": "Rekiem Palace的钥匙.",
+            "effect": "打败该楼层所有Team Rekiem成员后出现在地面上."
+        },
+        {
+            "id": 28,
+            "type": "重要物品",
+            "cName": "未知钥匙",
+            "eName": "Matarile Key",
+            "explain": "一把未知用途的钥匙.",
+            "effect": ""
+        },
+        {
+            "id": 29,
+            "type": "重要物品",
+            "cName": "神秘通行证",
+            "eName": "Mystery Pass",
+            "explain": "允许你乘船前往Halley Island.",
+            "effect": ""
+        },
+        {
+            "id": 30,
+            "type": "重要物品",
+            "cName": "太阳通行证",
+            "eName": "Solar Pass",
+            "explain": "允许你乘船前往太阳群岛(第三张大地图).",
+            "effect": ""
+        },
+        {
+            "id": 31,
+            "type": "重要物品",
+            "cName": "黑暗通行证",
+            "eName": "Dark Pass",
+            "explain": "允许你乘船前往Pluto Island.",
+            "effect": ""
+        },
+        {
+            "id": 32,
+            "type": "重要物品",
+            "cName": "丛林通行证",
+            "eName": "Jungle Pass",
+            "explain": "允许你乘船前往丛林(第二张大地图).",
+            "effect": ""
+        },
+        {
+            "id": 33,
+            "type": "重要物品",
+            "cName": "前线通行证",
+            "eName": "Front Pass",
+            "explain": "允许你乘船前往前线(对战开拓区).",
+            "effect": ""
+        },
+        {
+            "id": 34,
+            "type": "重要物品",
+            "cName": "等离子卡",
+            "eName": "Plasma Card",
+            "explain": "这张卡可让你进入某些限制区域.",
+            "effect": ""
+        },
+        {
+            "id": 35,
+            "type": "重要物品",
+            "cName": "衣物箱",
+            "eName": "Travel Trunk",
+            "explain": "能塞入任意时尚物品，收纳能力极佳的轻箱子.",
+            "effect": ""
+        },
+        {
+            "id": 36,
+            "type": "重要物品",
+            "cName": "古代护符",
+            "eName": "Old Charm",
+            "explain": "这个物品看起来拥有一种神秘的力量.",
+            "effect": ""
+        },
+        {
+            "id": 37,
+            "type": "重要物品",
+            "cName": "银色之羽",
+            "eName": "Silver Wing",
+            "explain": "散发着银色光辉的神奇羽毛.\n与传说宝可梦洛奇亚有关.",
+            "effect": ""
+        },
+        {
+            "id": 38,
+            "type": "重要物品",
+            "cName": "虹色之羽",
+            "eName": "Rainbow Wing",
+            "explain": "散发着虹色光辉的神奇羽毛.\n与传说宝可梦风王有关.",
+            "effect": ""
+        },
+        {
+            "id": 39,
+            "type": "重要物品",
+            "cName": "GS球",
+            "eName": "GS Ball",
+            "explain": "一个由金和银制成的精灵球.\n据说是用来捕捉时拉比.",
+            "effect": ""
+        },
+        {
+            "id": 40,
+            "type": "重要物品",
+            "cName": "蓝色宝珠",
+            "eName": "Blue Orb",
+            "explain": "散发着蓝色光辉的宝珠.\n与传说宝可梦盖欧卡有关.",
+            "effect": ""
+        },
+        {
+            "id": 41,
+            "type": "重要物品",
+            "cName": "红色宝珠",
+            "eName": "Red Orb",
+            "explain": "散发着红色光辉的宝珠.\n与传说宝可梦固拉多有关.",
+            "effect": ""
+        },
+        {
+            "id": 42,
+            "type": "重要物品",
+            "cName": "绿色宝珠",
+            "eName": "Jade Orb",
+            "explain": "散发着绿色光辉的宝珠.\n与传说宝可梦烈空坐有关.",
+            "effect": ""
+        },
+        {
+            "id": 43,
+            "type": "重要物品",
+            "cName": "电磁环",
+            "eName": "Elec. Ring",
+            "explain": "一个能制造反转世界入口的电磁环.",
+            "effect": ""
+        },
+        {
+            "id": 44,
+            "type": "重要物品",
+            "cName": "白玉宝珠",
+            "eName": "Lustrous Orb",
+            "explain": "帕路奇亚使用后形态转换为帕路奇亚(起源).\n帕路奇亚(起源)使用后形态转换为帕路奇亚.",
+            "effect": ""
+        },
+        {
+            "id": 45,
+            "type": "重要物品",
+            "cName": "金刚宝珠",
+            "eName": "Adamant Orb",
+            "explain": "帝牙卢卡使用后形态转换为帝牙卢卡(起源).\n帝牙卢卡(起源)使用后形态转换为帝牙卢卡.",
+            "effect": ""
+        },
+        {
+            "id": 46,
+            "type": "重要物品",
+            "cName": "白金宝珠",
+            "eName": "Griseous Orb",
+            "explain": "骑拉帝纳(别种)使用后形态转换为骑拉帝纳(起源).\n骑拉帝纳(起源)使用后形态转换为骑拉帝纳(别种).",
+            "effect": ""
+        },
+        {
+            "id": 47,
+            "type": "重要物品",
+            "cName": "新月之羽",
+            "eName": "Lunar Wing",
+            "explain": "散发着月辉般光芒的羽毛，据说隐藏着可以驱散恶梦的力量.\n与传说宝可梦克雷色利亚有关.",
+            "effect": ""
+        },
+        {
+            "id": 48,
+            "type": "重要物品",
+            "cName": "火山镇石",
+            "eName": "Magma Stone",
+            "explain": "被灼热熔岩熔化的岩石凝固后形成的产物，里面还留有熔岩.\n与传说宝可梦席多蓝恩有关.",
+            "effect": ""
+        },
+        {
+            "id": 49,
+            "type": "重要物品",
+            "cName": "葛拉西蒂亚花",
+            "eName": "Gracidea",
+            "explain": "在生日或纪念日等日子里，为了表达感激之情，有时会将其扎成花束送出.\n与传说宝可梦谢米有关.",
+            "effect": ""
+        },
+        {
+            "id": 50,
+            "type": "重要物品",
+            "cName": "天界之笛",
+            "eName": "Azure Flute",
+            "explain": "能发出响彻云霄的天籁之音的笛子.不知道是谁在什么时候制造的它.",
+            "effect": ""
+        },
+        {
+            "id": 51,
+            "type": "重要物品",
+            "cName": "现形镜",
+            "eName": "Reveal Glass",
+            "explain": "能够通过照出真实，让宝可梦变回原来样子的神奇镜子.\n与传说宝可梦龙卷云、雷电云和土地云有关.",
+            "effect": "可以让龙卷云、雷电云、土地云和眷恋云在2种形态之间切换."
+        },
+        {
+            "id": 52,
+            "type": "重要物品",
+            "cName": "惩戒之壶",
+            "eName": "Prison Bottle",
+            "explain": "据说在很久以前封印着某只宝可梦力量的壶.\n与传说宝可梦胡帕有关.",
+            "effect": "可以让胡帕在2种形态之间切换."
+        },
+        {
+            "id": 53,
+            "type": "重要物品",
+            "cName": "太阳之笛",
+            "eName": "Sun Flute",
+            "explain": "为了对太阳的传说的宝可梦表达感激之情，据说会用它来献上美乐.\n与传说宝可梦索尔迦雷欧有关.",
+            "effect": ""
+        },
+        {
+            "id": 54,
+            "type": "重要物品",
+            "cName": "月亮之笛",
+            "eName": "Moon Flute",
+            "explain": "为了对月亮的传说的宝可梦表达感激之情，据说会用它来献上美乐.\n与传说宝可梦露奈雅拉有关.",
+            "effect": ""
+        },
+        {
+            "id": 55,
+            "type": "重要物品",
+            "cName": "奈克洛索尔合体器",
+            "eName": "N-Solarizer",
+            "explain": "可以让奈克洛兹玛与索尔迦雷欧合体，使之变成奈克洛兹玛(黄昏之鬃).\n也可以让奈克洛兹玛(黄昏之鬃)分离为奈克洛兹玛与索尔迦雷欧.",
+            "effect": ""
+        },
+        {
+            "id": 56,
+            "type": "重要物品",
+            "cName": "奈克洛露奈合体器",
+            "eName": "N-Lunarizer",
+            "explain": "可以让奈克洛兹玛与露奈雅拉合体，使之变成奈克洛兹玛(拂晓之翼).\n也可以让奈克洛兹玛(拂晓之翼)分离为奈克洛兹玛与露奈雅拉.",
+            "effect": ""
+        },
+        {
+            "id": 57,
+            "type": "重要物品",
+            "cName": "基格尔德多面体",
+            "eName": "Zygarde Cube",
+            "explain": "用于收集宝可梦基格尔德的核心和细胞的道具.",
+            "effect": ""
+        },
+        {
+            "id": 58,
+            "type": "重要物品",
+            "cName": "绿色电线",
+            "eName": "Green Cable",
+            "explain": "绿色铜电线.",
+            "effect": ""
+        },
+        {
+            "id": 59,
+            "type": "重要物品",
+            "cName": "蓝色电线",
+            "eName": "Blue Cable",
+            "explain": "蓝色铜电线.",
+            "effect": ""
+        },
+        {
+            "id": 60,
+            "type": "重要物品",
+            "cName": "紫色电线",
+            "eName": "Purple Cable",
+            "explain": "紫色铜电线.",
+            "effect": ""
+        },
+        {
+            "id": 61,
+            "type": "重要物品",
+            "cName": "红色电线",
+            "eName": "Red Cable",
+            "explain": "红色铜电线.",
+            "effect": ""
+        },
+        {
+            "id": 62,
+            "type": "重要物品",
+            "cName": "黄色电线",
+            "eName": "Yellow Cable",
+            "explain": "黄色铜电线.",
+            "effect": ""
+        },
+        {
+            "id": 63,
+            "type": "重要物品",
+            "cName": "翡翠权杖",
+            "eName": "Ruby Scepter",
+            "explain": "价值不菲的翡翠权杖.",
+            "effect": ""
+        },
+        {
+            "id": 64,
+            "type": "重要物品",
+            "cName": "红宝石权杖",
+            "eName": "Sapphire Scepter",
+            "explain": "价值不菲的红宝石权杖.",
+            "effect": ""
+        },
+        {
+            "id": 65,
+            "type": "重要物品",
+            "cName": "蓝宝石权杖",
+            "eName": "Emerald Scepter",
+            "explain": "价值不菲的蓝宝石权杖.",
+            "effect": ""
+        },
+        {
+            "id": 66,
+            "type": "重要物品",
+            "cName": "青铜权杖",
+            "eName": "Bronze Scepter",
+            "explain": "价值不菲的青铜权杖.",
+            "effect": ""
+        },
+        {
+            "id": 67,
+            "type": "重要物品",
+            "cName": "白银权杖",
+            "eName": "Silver Scepter",
+            "explain": "价值不菲的白银权杖.",
+            "effect": ""
+        },
+        {
+            "id": 68,
+            "type": "重要物品",
+            "cName": "黄金权杖",
+            "eName": "Golden Scepter",
+            "explain": "价值不菲的黄金权杖.",
+            "effect": ""
+        },
+        {
+            "id": 69,
+            "type": "重要物品",
+            "cName": "星星耳环",
+            "eName": "Star Earring",
+            "explain": "在Llanos Island找到的特殊物品.",
+            "effect": ""
+        },
+        {
+            "id": 70,
+            "type": "重要物品",
+            "cName": "古代容器",
+            "eName": "Ancient Vessel",
+            "explain": "在Nebula Island找到的特殊物品.",
+            "effect": ""
+        },
+        {
+            "id": 71,
+            "type": "重要物品",
+            "cName": "秘密卷轴",
+            "eName": "Secret Scroll",
+            "explain": "在Supernova Island找到的特殊物品.",
+            "effect": ""
+        },
+        {
+            "id": 72,
+            "type": "重要物品",
+            "cName": "诅咒之戒",
+            "eName": "Cursed Ring",
+            "explain": "在Spirit Island找到的特殊物品.",
+            "effect": ""
+        },
+        {
+            "id": 73,
+            "type": "重要物品",
+            "cName": "腐朽的盾",
+            "eName": "Rusted Shield",
+            "explain": "据说很久以前，英雄就是拿着这面盾驱走了灾厄。而现在早已变得锈迹斑斑。",
+            "effect": "藏玛然特（百战勇者）携带后，在对战中会以藏玛然特（盾之王）登场。"
+        },
+        {
+            "id": 74,
+            "type": "重要物品",
+            "cName": "腐朽的剑",
+            "eName": "Rusted Sword",
+            "explain": "据说很久以前，英雄就是拿着这把剑驱走了灾厄。而现在早已变得锈迹斑斑。",
+            "effect": "苍响（百战勇者）携带后，在对战中会以苍响（剑之王）登场。"
+        },
+        {
+            "id": 75,
+            "type": "重要物品",
+            "cName": "极巨腕带",
+            "eName": "Dynamax Band",
+            "explain": "可以对宝可梦进行极巨化和超级巨化，每场对战中只限一次。",
+            "effect": ""
+        },
+        {
+            "id": 76,
+            "type": "重要物品",
+            "cName": "极巨结晶",
+            "eName": "Dynamax Crystal",
+            "explain": "宝可梦携带后，可以进行极巨化.",
+            "effect": ""
+        },
+        {
+            "id": 77,
+            "type": "重要物品",
+            "cName": "超极巨结晶",
+            "eName": "Gigamax Crystal",
+            "explain": "宝可梦携带后，可以进行超极巨化.",
+            "effect": ""
+        },
+        {
+            "id": 78,
+            "type": "重要物品",
+            "cName": "白色鬃毛",
+            "eName": "White Mane Hair",
+            "explain": "丰饶之王的爱马雪暴马的鬃毛，既结实又柔韧.\n与传说宝可梦雪暴马有关.",
+            "effect": "把白色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+        },
+        {
+            "id": 79,
+            "type": "重要物品",
+            "cName": "黑色鬃毛",
+            "eName": "Black Mane Hair",
+            "explain": "丰饶之王的爱马灵幽马的鬃毛，摸起来非常柔顺.\n与传说宝可梦灵幽马有关.",
+            "effect": "把黑色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+        },
+        {
+            "id": 80,
+            "type": "重要物品",
+            "cName": "光辉花瓣",
+            "eName": "Radiant Petal",
+            "explain": "从丰饶之王那里得到的一片花瓣，散发着朦胧的光辉。\n与传说宝可梦蕾冠王有关.",
+            "effect": "把白色鬃毛或黑色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+        },
+        {
+            "id": 81,
+            "type": "重要物品",
+            "cName": "牵绊缰绳",
+            "eName": "Reins of Unity",
+            "explain": "拿到光下即可生辉的布。人们曾经将其进献给丰饶之王以表感谢之意.\n与传说宝可梦无极汰那有关.",
+            "effect": "让蕾冠王与雪暴马合体，使之变成蕾冠王（骑白马的样子）。\n让蕾冠王与灵幽马合体，使之变成蕾冠王（骑黑马的样子）。\n让蕾冠王（骑白马的样子）分离为蕾冠王和雪暴马。\n让蕾冠王（骑黑马的样子）分离为蕾冠王和灵幽马。"
+        },
+        {
+            "id": 82,
+            "type": "重要物品",
+            "cName": "许愿星",
+            "eName": "Wishing Star",
+            "explain": "这是一块在伽勒尔地区发现的蕴含着神奇力量的石头，听说捡到它的人能实现自己的愿望.\n与传说宝可梦无极汰那有关.",
+            "effect": ""
+        },
+        {
+            "id": 83,
+            "type": "重要物品",
+            "cName": "无人机",
+            "eName": "Drone Star",
+            "explain": "可以在野外空旷地区飞行，探索该区域.",
+            "effect": ""
+        },
+        {
+            "id": 84,
+            "type": "招式学习器",
+            "cName": "HM1 居合斩",
+            "eName": "HM1 Cut",
+            "explain": "用镰刀或爪子等切斩对手进行攻击。",
+            "effect": "威力：50\nＰＰ：50"
+        },
+        {
+            "id": 85,
+            "type": "招式学习器",
+            "cName": "HM2 飞翔",
+            "eName": "HM2 Fly",
+            "explain": "首次使用会飞上天空，再次使用会下落攻击对手。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 86,
+            "type": "招式学习器",
+            "cName": "HM3 冲浪",
+            "eName": "HM3 Surf",
+            "explain": "利用大浪攻击自己周围所有的宝可梦。可以追踪并攻击到潜水的敌人。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 87,
+            "type": "招式学习器",
+            "cName": "HM4 怪力",
+            "eName": "HM4 Strength",
+            "explain": "使出浑身力气殴打对手进行攻击。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 88,
+            "type": "招式学习器",
+            "cName": "HM5 闪光",
+            "eName": "HM5 Flash",
+            "explain": "使出耀眼光芒，从而降低对手的命中率。",
+            "effect": "威力：—\nＰＰ：50"
+        },
+        {
+            "id": 89,
+            "type": "招式学习器",
+            "cName": "HM6 碎岩",
+            "eName": "HM6 Rock Smash",
+            "explain": "用拳头进行攻击。有时会降低对手的防御。",
+            "effect": "威力：40\nＰＰ：40"
+        },
+        {
+            "id": 90,
+            "type": "招式学习器",
+            "cName": "HM7 潜水",
+            "eName": "HM7 Dive",
+            "explain": "首次使用会潜入水中，再次使用会浮上来进行攻击。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 91,
+            "type": "招式学习器",
+            "cName": "TM1 瞬间移动",
+            "eName": "TM1 Teleport",
+            "explain": "瞬间传送到所选方向。",
+            "effect": "威力：—\nＰＰ：40"
+        },
+        {
+            "id": 92,
+            "type": "招式学习器",
+            "cName": "TM2 爆裂拳",
+            "eName": "TM2 Dynamic Punch",
+            "explain": "使出浑身力气出拳进行攻击。必定会使对手混乱。",
+            "effect": "威力：100\nＰＰ：100"
+        },
+        {
+            "id": 93,
+            "type": "招式学习器",
+            "cName": "TM3 龙爪",
+            "eName": "TM3 Dragon Claw",
+            "explain": "用尖锐的巨爪劈开对手进行攻击。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 94,
+            "type": "招式学习器",
+            "cName": "TM4 神秘守护",
+            "eName": "TM4 Safeguard",
+            "explain": "在一定时间内被神奇的力量守护，从而不会陷入异常状态。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 95,
+            "type": "招式学习器",
+            "cName": "TM5 替身",
+            "eName": "TM5 Substitute",
+            "explain": "使用自己最大HP的1/4，制造出替身。",
+            "effect": "威力：—\nＰＰ：120"
+        },
+        {
+            "id": 96,
+            "type": "招式学习器",
+            "cName": "TM6 剧毒",
+            "eName": "TM6 Toxic",
+            "explain": "扔出一个毒球，让对手陷入剧毒状态。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 97,
+            "type": "招式学习器",
+            "cName": "TM7 污泥炸弹",
+            "eName": "TM7 Sludge Bomb",
+            "explain": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 98,
+            "type": "招式学习器",
+            "cName": "TM8 铁尾",
+            "eName": "TM8 Iron Tail",
+            "explain": "使用坚硬的尾巴摔打对手进行攻击。有时会降低对手的防御。",
+            "effect": "威力：100\nＰＰ：100"
+        },
+        {
+            "id": 99,
+            "type": "招式学习器",
+            "cName": "TM9 沙暴",
+            "eName": "TM9 Sandstorm",
+            "explain": "扬起持续一段时间的沙暴，除岩石、地面和钢属性以外的宝可梦，都会受到伤害。岩石属性的特防还会提高。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 100,
+            "type": "招式学习器",
+            "cName": "TM10 大晴天",
+            "eName": "TM10 Sunny Day",
+            "explain": "在一定时间内阳光变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 101,
+            "type": "招式学习器",
+            "cName": "TM11 求雨",
+            "eName": "TM11 Rain Dance",
+            "explain": "在一定时间内一直降雨，从而提高水属性的招式威力，火属性的招式威力则降低。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 102,
+            "type": "招式学习器",
+            "cName": "TM12 冰雹",
+            "eName": "TM12 Hail",
+            "explain": "在一定时间内一直降冰雹，除冰属性的宝可梦以外，给予全体宝可梦伤害。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 103,
+            "type": "招式学习器",
+            "cName": "TM13 觉醒力量",
+            "eName": "TM13 Hidden Power",
+            "explain": "招式的属性会随着使用此招式的宝可梦而改变。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 104,
+            "type": "招式学习器",
+            "cName": "TM14 影子分身",
+            "eName": "TM14 Double Team",
+            "explain": "制造一个分身来迷惑对手。",
+            "effect": "威力：—\nＰＰ：70"
+        },
+        {
+            "id": 105,
+            "type": "招式学习器",
+            "cName": "TM15 破坏光线",
+            "eName": "TM15 Hyper Beam",
+            "explain": "向对手发射强烈的光线进行攻击。",
+            "effect": "威力：150\nＰＰ：150"
+        },
+        {
+            "id": 106,
+            "type": "招式学习器",
+            "cName": "TM16 挖洞",
+            "eName": "TM16 Dig",
+            "explain": "首次使用钻入地下，再次使用钻出地面攻击对手。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 107,
+            "type": "招式学习器",
+            "cName": "TM17 地震",
+            "eName": "TM17 Earthquake",
+            "explain": "发射一道地震冲击波，可以追踪并攻击到挖洞的敌人。",
+            "effect": "威力：100\nＰＰ：100"
+        },
+        {
+            "id": 108,
+            "type": "招式学习器",
+            "cName": "TM18 守住",
+            "eName": "TM18 Protect",
+            "explain": "完全抵挡对手的攻击。连续使出则容易失败。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 109,
+            "type": "招式学习器",
+            "cName": "TM19 电击波",
+            "eName": "TM19 Shock Wave",
+            "explain": "向对手快速发出电击。攻击必定会命中。",
+            "effect": "威力：60\nＰＰ：80"
+        },
+        {
+            "id": 110,
+            "type": "招式学习器",
+            "cName": "TM20 真气弹",
+            "eName": "TM20 Focus Blast",
+            "explain": "提高气势，释放出全部力量。有时会降低对手的特防。",
+            "effect": "威力：120\nＰＰ：120"
+        },
+        {
+            "id": 111,
+            "type": "招式学习器",
+            "cName": "TM21 燕返",
+            "eName": "TM21 Aerial Ace",
+            "explain": "以敏捷的动作戏弄对手后进行切斩。攻击必定会命中。",
+            "effect": "威力：60\nＰＰ：90"
+        },
+        {
+            "id": 112,
+            "type": "招式学习器",
+            "cName": "TM22 银色旋风",
+            "eName": "TM22 Silver Wind",
+            "explain": "在风中掺入鳞粉攻击对手。有时会提高自己的全部能力。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 113,
+            "type": "招式学习器",
+            "cName": "TM23 龙之波动",
+            "eName": "TM23 Dragon Pulse",
+            "explain": "从大大的口中掀起冲击波攻击对手。",
+            "effect": "威力：85\nＰＰ：85"
+        },
+        {
+            "id": 114,
+            "type": "招式学习器",
+            "cName": "TM24 电磁波",
+            "eName": "TM24 Thunder Wave",
+            "explain": "向对手发出微弱的电击，从而让对手陷入麻痹状态。",
+            "effect": "威力：—\nＰＰ：80"
+        },
+        {
+            "id": 115,
+            "type": "招式学习器",
+            "cName": "TM25 十万伏特",
+            "eName": "TM25 Thunderbolt",
+            "explain": "向对手发出强力电击进行攻击。有时会让对手陷入麻痹状态。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 116,
+            "type": "招式学习器",
+            "cName": "TM26 打雷",
+            "eName": "TM26 Thunder",
+            "explain": "向对手劈下暴雷进行攻击。有时会让对手陷入麻痹状态。可以追踪并攻击到飞翔的敌人。",
+            "effect": "威力：110\nＰＰ：110"
+        },
+        {
+            "id": 117,
+            "type": "招式学习器",
+            "cName": "TM27 冰冻光束",
+            "eName": "TM27 Ice Beam",
+            "explain": "向对手发射冰冻光束进行攻击。有时会让对手陷入冰冻状态。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 118,
+            "type": "招式学习器",
+            "cName": "TM28 暴风雪",
+            "eName": "TM28 Blizzard",
+            "explain": "将猛烈的暴风雪刮向对手进行攻击。有时会让对手陷入冰冻状态。",
+            "effect": "威力：110\nＰＰ：110"
+        },
+        {
+            "id": 119,
+            "type": "招式学习器",
+            "cName": "TM29 精神强念",
+            "eName": "TM29 Psychic",
+            "explain": "向对手发送强大的念力进行攻击。有时会降低对手的特防。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 120,
+            "type": "招式学习器",
+            "cName": "TM30 暗影球",
+            "eName": "TM30 Shadow Ball",
+            "explain": "投掷一团黑影进行攻击。有时会降低对手的特防。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 121,
+            "type": "招式学习器",
+            "cName": "TM31 喷射火焰",
+            "eName": "TM31 Flamethrower",
+            "explain": "向对手发射烈焰进行攻击。有时会让对手陷入灼伤状态。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 122,
+            "type": "招式学习器",
+            "cName": "TM32 大字爆炎",
+            "eName": "TM32 Fire Blast",
+            "explain": "用大字形状的火焰烧尽对手。有时会让对手陷入灼伤状态。",
+            "effect": "威力：110\nＰＰ：110"
+        },
+        {
+            "id": 123,
+            "type": "招式学习器",
+            "cName": "TM33 终极吸取",
+            "eName": "TM33 Giga Drain",
+            "explain": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半HP。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 124,
+            "type": "招式学习器",
+            "cName": "TM34 日光束",
+            "eName": "TM34 Solar Beam",
+            "explain": "第1回合收集满满的日光，第2回合发射光束进行攻击。",
+            "effect": "威力：120\nＰＰ：120"
+        },
+        {
+            "id": 125,
+            "type": "招式学习器",
+            "cName": "TM35 岩石封锁",
+            "eName": "TM35 Rock Tomb",
+            "explain": "投掷岩石进行攻击。封住对手的行动，从而降低速度。",
+            "effect": "威力：60\nＰＰ：70"
+        },
+        {
+            "id": 126,
+            "type": "招式学习器",
+            "cName": "TM36 岩崩",
+            "eName": "TM36 Rock Slide",
+            "explain": "将大岩石猛烈地撞向对手进行攻击。有时会使对手畏缩。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 127,
+            "type": "招式学习器",
+            "cName": "TM37 恶之波动",
+            "eName": "TM37 Dark Pulse",
+            "explain": "从体内发出充满恶意的恐怖气场。有时会使对手畏缩。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 128,
+            "type": "招式学习器",
+            "cName": "TM38 毒击",
+            "eName": "TM38 Poison Jab",
+            "explain": "用带毒的触手或手臂刺入对手。有时会让对手陷入中毒状态。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 129,
+            "type": "招式学习器",
+            "cName": "TM39 终极冲击",
+            "eName": "TM39 Giga Impact",
+            "explain": "使出自己浑身力量突击对手。下一回合自己将无法动弹。",
+            "effect": "威力：150\nＰＰ：150"
+        },
+        {
+            "id": 130,
+            "type": "招式学习器",
+            "cName": "TM40 水之波动",
+            "eName": "TM40 Water Pulse",
+            "explain": "用水的震动攻击对手。有时会使对手混乱。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 131,
+            "type": "招式学习器",
+            "cName": "TM41 大爆炸",
+            "eName": "TM41 Explosion",
+            "explain": "引发大爆炸，攻击自己周围所有的宝可梦。使用后自己会陷入濒死。",
+            "effect": "威力：250\nＰＰ：300"
+        },
+        {
+            "id": 132,
+            "type": "招式学习器",
+            "cName": "TM42 十字剪",
+            "eName": "TM42 X-Scissor",
+            "explain": "将镰刀或爪子像剪刀般地交叉，顺势劈开对手。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 133,
+            "type": "招式学习器",
+            "cName": "TM43 睡觉",
+            "eName": "TM43 Rest",
+            "explain": "陷入睡眠状态，回复自己的全部HP以及治愈所有异常状态。",
+            "effect": "威力：—\nＰＰ：120"
+        },
+        {
+            "id": 134,
+            "type": "招式学习器",
+            "cName": "TM44 点到为止",
+            "eName": "TM44 False Swipe",
+            "explain": "对手的HP至少会留下1HP，如此般手下留情地攻击。",
+            "effect": "威力：40\nＰＰ：40"
+        },
+        {
+            "id": 135,
+            "type": "招式学习器",
+            "cName": "TM45 秘密之力",
+            "eName": "TM45 Secret Power",
+            "explain": "根据使用场所不同，该招式的追加效果也会有所变化。",
+            "effect": "威力：70\nＰＰ：90"
+        },
+        {
+            "id": 136,
+            "type": "招式学习器",
+            "cName": "TM46 神速",
+            "eName": "TM46 Extreme Speed",
+            "explain": "以迅雷不及掩耳之势猛撞向对手进行攻击。必定能够先制攻击。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 137,
+            "type": "招式学习器",
+            "cName": "TM47 潮旋",
+            "eName": "TM47 Whirlpool",
+            "explain": "将对手困在激烈的水流旋涡中进行攻击。",
+            "effect": "威力：35\nＰＰ：70"
+        },
+        {
+            "id": 138,
+            "type": "招式学习器",
+            "cName": "TM48 攀瀑",
+            "eName": "TM48 Waterfall",
+            "explain": "以惊人的气势扑向对手。有时会使对手畏缩。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 139,
+            "type": "招式学习器",
+            "cName": "TM49 岩浆波",
+            "eName": "TM49 Fire Wave",
+            "explain": "朝敌人发射一个巨大岩浆波。",
+            "effect": "威力：95\nＰＰ：95"
+        },
+        {
+            "id": 140,
+            "type": "招式学习器",
+            "cName": "TM50 攀岩",
+            "eName": "TM50 Rock Climb",
+            "explain": "用尽全力扑向对手进行攻击。有时会使对手混乱。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 141,
+            "type": "招式学习器",
+            "cName": "TM51 挥指",
+            "eName": "TM51 Metronome",
+            "explain": "挥动手指刺激自己的大脑，从所有的招式中任意使出1个。",
+            "effect": "威力：—\nＰＰ：80"
+        },
+        {
+            "id": 142,
+            "type": "招式学习器",
+            "cName": "TM52 模仿",
+            "eName": "TM52 Mimic",
+            "explain": "可以将对手最后使用的招式，在战斗内变成自己的招式。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 143,
+            "type": "招式学习器",
+            "cName": "TM53 甜甜香气",
+            "eName": "TM53 Sweet Scent",
+            "explain": "向对手扔出一团香气，大幅降低其速度。",
+            "effect": "威力：—\nＰＰ：50"
+        },
+        {
+            "id": 144,
+            "type": "招式学习器",
+            "cName": "TM54 龙息",
+            "eName": "TM54 Dragon Breath",
+            "explain": "将强烈的气息吹向对手进行攻击。有时会让对手陷入麻痹状态。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 145,
+            "type": "招式学习器",
+            "cName": "TM55 雷电拳",
+            "eName": "TM55 Thunder Punch",
+            "explain": "用充满电流的拳头攻击对手。有时会让对手陷入麻痹状态。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 146,
+            "type": "招式学习器",
+            "cName": "TM56 火焰拳",
+            "eName": "TM56 Fire Punch",
+            "explain": "用充满火焰的拳头攻击对手。有时会让对手陷入灼伤状态。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 147,
+            "type": "招式学习器",
+            "cName": "TM57 冰冻拳",
+            "eName": "TM57 Ice Punch",
+            "explain": "用充满寒气的拳头攻击对手。有时会让对手陷入冰冻状态。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 148,
+            "type": "招式学习器",
+            "cName": "TM58 吸取拳",
+            "eName": "TM58 Drain Punch",
+            "explain": "用拳头吸取对手的力量。可以回复给予对手伤害的一半HP。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 149,
+            "type": "招式学习器",
+            "cName": "TM59 羽栖",
+            "eName": "TM59 Roost",
+            "explain": "降到地面，使身体休息。回复自己最大HP的一半。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 150,
+            "type": "招式学习器",
+            "cName": "TM60 盐水",
+            "eName": "TM60 Brine",
+            "explain": "当对手的HP负伤到一半左右时，招式威力会变成2倍。",
+            "effect": "威力：65\nＰＰ：65"
+        },
+        {
+            "id": 151,
+            "type": "招式学习器",
+            "cName": "TM61 硬撑",
+            "eName": "TM61 Facade",
+            "explain": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成2倍。",
+            "effect": "威力：70\nＰＰ：70"
+        },
+        {
+            "id": 152,
+            "type": "招式学习器",
+            "cName": "TM62 尖石攻击",
+            "eName": "TM62 Stone Edge",
+            "explain": "用尖尖的岩石刺入对手进行攻击。容易击中要害。",
+            "effect": "威力：100\nＰＰ：100"
+        },
+        {
+            "id": 153,
+            "type": "招式学习器",
+            "cName": "TM63 能量球",
+            "eName": "TM63 Energy Ball",
+            "explain": "发射从自然收集的生命力量。有时会降低对手的特防。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 154,
+            "type": "招式学习器",
+            "cName": "TM64 诱惑",
+            "eName": "TM64 Captivate",
+            "explain": "【♂诱惑♀】或【♀诱惑♂】，从而大幅降低对手的特攻，有时会使对手陷入魅惑状态。",
+            "effect": "威力：—\nＰＰ：75"
+        },
+        {
+            "id": 155,
+            "type": "招式学习器",
+            "cName": "TM65 加农光炮",
+            "eName": "TM65 Flash Cannon",
+            "explain": "将身体的光芒聚集在一点释放出去。有时会降低对手的特防。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 156,
+            "type": "招式学习器",
+            "cName": "TM66 特性互换",
+            "eName": "TM66 Skill Swap",
+            "explain": "利用超能力互换自己和对手的特性。",
+            "effect": "威力：—\nＰＰ：80"
+        },
+        {
+            "id": 157,
+            "type": "招式学习器",
+            "cName": "TM67 劈瓦",
+            "eName": "TM67 Brick Break",
+            "explain": "将手刀猛烈地挥下攻击对手。还可以破坏光墙和反射壁等。",
+            "effect": "威力：75\nＰＰ：75"
+        },
+        {
+            "id": 158,
+            "type": "招式学习器",
+            "cName": "TM68 虚张声势",
+            "eName": "TM68 Swagger",
+            "explain": "激怒对手，使其混乱。因为愤怒，对手的攻击会大幅提高。",
+            "effect": "威力：—\nＰＰ：60"
+        },
+        {
+            "id": 159,
+            "type": "招式学习器",
+            "cName": "TM69 小偷",
+            "eName": "TM69 Thief",
+            "explain": "攻击的同时盗取道具。当自己携带道具时，不会去盗取。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 160,
+            "type": "招式学习器",
+            "cName": "TM70 奇迹之眼",
+            "eName": "TM70 Miracle Eye",
+            "explain": "对恶属性宝可梦没有效果的招式以及闪避率高的对手，使用后变得能够打中。",
+            "effect": "威力：—\nＰＰ：90"
+        },
+        {
+            "id": 161,
+            "type": "招式学习器",
+            "cName": "TM71 电磁炮",
+            "eName": "TM71 Zap Cannon",
+            "explain": "发射大炮一样的电流进行攻击。让对手陷入麻痹状态。",
+            "effect": "威力：120\nＰＰ：120"
+        },
+        {
+            "id": 162,
+            "type": "招式学习器",
+            "cName": "TM72 光墙",
+            "eName": "TM72 Light Screen",
+            "explain": "生成一面持续一段时间的神奇的墙，减弱从对手那受到的特殊攻击的伤害。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 163,
+            "type": "招式学习器",
+            "cName": "TM73 反射壁",
+            "eName": "TM73 Reflect",
+            "explain": "升起一面持续一段时间的神奇的墙，减弱从对手那受到的物理攻击的伤害。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 164,
+            "type": "招式学习器",
+            "cName": "TM74 电磁飘浮",
+            "eName": "TM74 Magnet Rise",
+            "explain": "利用电气产生的磁力浮在空中。在一定时间内可以飘浮，免疫地面攻击。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 165,
+            "type": "招式学习器",
+            "cName": "TM75 戏法空间",
+            "eName": "TM75 Trick Room",
+            "explain": "制造出离奇的空间。在一定时间内速度慢的宝可梦可以先行动。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 166,
+            "type": "招式学习器",
+            "cName": "TM76 精神冲击",
+            "eName": "TM76 Psyshock",
+            "explain": "将神奇的念波实体化攻击对手。给予物理伤害。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 167,
+            "type": "招式学习器",
+            "cName": "TM77 毒液冲击",
+            "eName": "TM77 Venoshock",
+            "explain": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成2倍。",
+            "effect": "威力：65\nＰＰ：65"
+        },
+        {
+            "id": 168,
+            "type": "招式学习器",
+            "cName": "TM78 击落",
+            "eName": "TM78 Smack Down",
+            "explain": "扔石头或炮弹，攻击飞行的对手。对手会被击落，掉到地面。",
+            "effect": "威力：50\nＰＰ：50"
+        },
+        {
+            "id": 169,
+            "type": "招式学习器",
+            "cName": "TM79 重踏",
+            "eName": "TM79 Bulldoze",
+            "explain": "用力踩踏地面并攻击自己周围所有的宝可梦。降低对方的速度。",
+            "effect": "威力：60\nＰＰ：80"
+        },
+        {
+            "id": 170,
+            "type": "招式学习器",
+            "cName": "TM80 热水",
+            "eName": "TM80 Scald",
+            "explain": "向对手喷射煮得翻滚的开水进行攻击。有时会让对手陷入灼伤状态。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 171,
+            "type": "招式学习器",
+            "cName": "TM81 急速折返",
+            "eName": "TM81 U-turn",
+            "explain": "在攻击之后急速返回，和后备宝可梦进行替换。",
+            "effect": "威力：70\nＰＰ：70"
+        },
+        {
+            "id": 172,
+            "type": "招式学习器",
+            "cName": "TM82 杂技",
+            "eName": "TM82 Acrobatics",
+            "explain": "轻巧地攻击对手。自己没有携带道具时，会给予较大的伤害。",
+            "effect": "威力：55\nＰＰ：55"
+        },
+        {
+            "id": 173,
+            "type": "招式学习器",
+            "cName": "TM83 报仇",
+            "eName": "TM83 Retaliate",
+            "explain": "为倒下的同伴报仇。如果上一回合有同伴倒下，威力就会提高。",
+            "effect": "威力：70\nＰＰ：70"
+        },
+        {
+            "id": 174,
+            "type": "招式学习器",
+            "cName": "TM84 虫之抵抗",
+            "eName": "TM84 Struggle Bug",
+            "explain": "抵抗并攻击对手。降低对手的特攻。",
+            "effect": "威力：50\nＰＰ：70"
+        },
+        {
+            "id": 175,
+            "type": "招式学习器",
+            "cName": "TM85 自我激励",
+            "eName": "TM85 Work Up",
+            "explain": "激励自己，从而提高攻击和特攻。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 176,
+            "type": "招式学习器",
+            "cName": "TM86 龙尾",
+            "eName": "TM86 Dragon Tail",
+            "explain": "弹飞对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 177,
+            "type": "招式学习器",
+            "cName": "TM87 大声咆哮",
+            "eName": "TM87 Snarl",
+            "explain": "没完没了地大声斥责，从而降低对手的特攻。",
+            "effect": "威力：55\nＰＰ：75"
+        },
+        {
+            "id": 178,
+            "type": "招式学习器",
+            "cName": "TM88 冥想",
+            "eName": "TM88 Calm Mind",
+            "explain": "静心凝神，从而提高自己的特攻和特防。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 179,
+            "type": "招式学习器",
+            "cName": "TM89 冰息",
+            "eName": "TM89 Frost Breath",
+            "explain": "将冰冷的气息吹向对手进行攻击。必定会击中要害。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 180,
+            "type": "招式学习器",
+            "cName": "TM90 疯狂伏特",
+            "eName": "TM90 Wild Charge",
+            "explain": "让电流覆盖全身撞向对手进行攻击。自己也会受到少许伤害。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 181,
+            "type": "招式学习器",
+            "cName": "TM91 钢翼",
+            "eName": "TM91 Steel Wing",
+            "explain": "用坚硬的翅膀敲打对手进行攻击。有时会提高自己的防御。",
+            "effect": "威力：70\nＰＰ：70"
+        },
+        {
+            "id": 182,
+            "type": "招式学习器",
+            "cName": "TM92 魔法闪耀",
+            "eName": "TM92 Dazzling Gleam",
+            "explain": "向对手发射强光，并给予伤害。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 183,
+            "type": "招式学习器",
+            "cName": "TM93 打草结",
+            "eName": "TM93 Grass Knot",
+            "explain": "用草缠住并绊倒对手。对手越重，威力越大。",
+            "effect": "威力：变化\nＰＰ：70"
+        },
+        {
+            "id": 184,
+            "type": "招式学习器",
+            "cName": "TM94 剑舞",
+            "eName": "TM94 Swords Dance",
+            "explain": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+            "effect": "威力：—\nＰＰ：100"
+        },
+        {
+            "id": 185,
+            "type": "招式学习器",
+            "cName": "TM95 狂舞挥打",
+            "eName": "TM95 Brutal Swing",
+            "explain": "用自己的身体狂舞挥打，给予对手伤害。",
+            "effect": "威力：60\nＰＰ：60"
+        },
+        {
+            "id": 186,
+            "type": "招式学习器",
+            "cName": "TM96 嬉闹",
+            "eName": "TM96 Play Rough",
+            "explain": "与对手嬉闹并攻击。有时会降低对手的攻击。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 187,
+            "type": "招式学习器",
+            "cName": "TM97 拍落",
+            "eName": "TM97 Knock Off",
+            "explain": "拍落对手的持有物，直到战斗结束都不能使用。对手携带道具时会增加伤害。",
+            "effect": "威力：65\nＰＰ：65"
+        },
+        {
+            "id": 188,
+            "type": "招式学习器",
+            "cName": "TM98 以牙还牙",
+            "eName": "TM98 Payback",
+            "explain": "蓄力攻击。如果能在对手之后攻击，招式的威力会变成2倍。",
+            "effect": "威力：50\nＰＰ：50"
+        },
+        {
+            "id": 189,
+            "type": "招式学习器",
+            "cName": "TM99 跺脚",
+            "eName": "TM99 Stomping Tantrum",
+            "explain": "化悔恨为力量进行攻击。如果上一回合招式没有打中，威力就会翻倍。",
+            "effect": "威力：75\nＰＰ：100"
+        },
+        {
+            "id": 190,
+            "type": "招式学习器",
+            "cName": "TM100 月亮之力",
+            "eName": "TM100 Moonblast",
+            "explain": "借用月亮的力量攻击对手。有时会降低对手的特攻。",
+            "effect": "威力：95\nＰＰ：95"
+        },
+        {
+            "id": 191,
+            "type": "招式学习器",
+            "cName": "TM101 暗影拳",
+            "eName": "TM101 Shadow Punch",
+            "explain": "使出混影之拳。攻击必定会命中。",
+            "effect": "威力：60\nＰＰ：90"
+        },
+        {
+            "id": 192,
+            "type": "招式学习器",
+            "cName": "TM102 水炮",
+            "eName": "TM102 Hydro Pump",
+            "explain": "向对手猛烈地喷射大量水流进行攻击。",
+            "effect": "威力：110\nＰＰ：110"
+        },
+        {
+            "id": 193,
+            "type": "招式学习器",
+            "cName": "TM103 吸取之吻",
+            "eName": "TM103 Draining Kiss",
+            "explain": "用一个吻吸取对手的HP。回复给予对手伤害的一半以上的HP。",
+            "effect": "威力：50\nＰＰ：50"
+        },
+        {
+            "id": 194,
+            "type": "招式学习器",
+            "cName": "TM104 力量宝石",
+            "eName": "TM104 Power Gem",
+            "explain": "发射如宝石般闪耀的光芒攻击对手。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 195,
+            "type": "招式学习器",
+            "cName": "TM105 暴风",
+            "eName": "TM105 Hurricane",
+            "explain": "用强烈的风席卷对手进行攻击，可以追踪并攻击到飞翔的对手。有时会使对手混乱。",
+            "effect": "威力：110\nＰＰ：110"
+        },
+        {
+            "id": 196,
+            "type": "招式学习器",
+            "cName": "TM106 勇鸟猛攻",
+            "eName": "TM106 Brave Bird",
+            "explain": "收拢翅膀，通过低空飞行突击对手。自己也会受到不小的伤害。",
+            "effect": "威力：120\nＰＰ：120"
+        },
+        {
+            "id": 197,
+            "type": "招式学习器",
+            "cName": "TM107 戏法",
+            "eName": "TM107 Trick",
+            "explain": "抓住对手的空隙，交换自己和对手的持有物。",
+            "effect": "威力：—\nＰＰ：65"
+        },
+        {
+            "id": 198,
+            "type": "招式学习器",
+            "cName": "TM108 咬碎",
+            "eName": "TM108 Crunch",
+            "explain": "用利牙咬碎对手进行攻击。有时会降低对手的防御。",
+            "effect": "威力：80\nＰＰ：80"
+        },
+        {
+            "id": 199,
+            "type": "招式学习器",
+            "cName": "TM109 虫鸣",
+            "eName": "TM109 Bug Buzz",
+            "explain": "利用振动发出音波进行攻击。有时会降低对手的特防。",
+            "effect": "威力：90\nＰＰ：90"
+        },
+        {
+            "id": 200,
+            "type": "招式学习器",
+            "cName": "TM110 超级角击",
+            "eName": "TM110 Megahorn",
+            "explain": "用坚硬且华丽的角狠狠地刺入对手进行攻击。",
+            "effect": "威力：120\nＰＰ：120"
+        },
+        {
+            "id": 201,
+            "type": "招式学习器",
+            "cName": "空碟",
+            "eName": "Blank Disc",
+            "explain": "宝可梦携带后，有几率刻录下当前使用的招式，将其变为对应的DT招式学习器。",
+            "effect": ""
+        },
+        {
+            "id": 202,
+            "type": "精灵球",
+            "cName": "精灵球",
+            "eName": "Poké Ball",
+            "explain": "用于投向野生宝可梦并将其捕捉的球.",
+            "effect": "捕获率×1"
+        },
+        {
+            "id": 203,
+            "type": "精灵球",
+            "cName": "超级球",
+            "eName": "Great Ball",
+            "explain": "比起精灵球来更容易捉到宝可梦的，性能还算不错的球.",
+            "effect": "捕获率×1.5"
+        },
+        {
+            "id": 204,
+            "type": "精灵球",
+            "cName": "高级球",
+            "eName": "Ultra Ball",
+            "explain": "比起超级球来更容易捉到宝可梦的，性能非常不错的球.",
+            "effect": "捕获率×2"
+        },
+        {
+            "id": 205,
+            "type": "精灵球",
+            "cName": "纪念球",
+            "eName": "Premier Ball",
+            "explain": "有点珍贵的球，特制出来的某种纪念品.",
+            "effect": "捕获率×1"
+        },
+        {
+            "id": 206,
+            "type": "精灵球",
+            "cName": "捕网球",
+            "eName": "Net Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉水属性和虫属性的宝可梦.",
+            "effect": "若目标拥有水属性与虫属性中的一种或两种，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 207,
+            "type": "精灵球",
+            "cName": "潜水球",
+            "eName": "Dive Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉生活在水世界里的宝可梦.",
+            "effect": "如果在深海使用，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 208,
+            "type": "精灵球",
+            "cName": "计时球",
+            "eName": "Timer Ball",
+            "explain": "有点与众不同的球.时间越久，宝可梦就会越容易捕捉.",
+            "effect": "如果时间小于 30 秒，则捕获率×0.5.\n如果时间超过 30 秒，则捕获率×1倍.\n如果时间超过 60 秒，则捕获率×2.\n但在540秒(9分钟)后，捕获率将停止增加."
+        },
+        {
+            "id": 209,
+            "type": "精灵球",
+            "cName": "豪华球",
+            "eName": "Luxury Ball",
+            "explain": "住着十分惬意的球.捉到的野生宝可梦会变得容易和训练家亲密.",
+            "effect": "捕获率×1.\n通过豪华球收服的宝可梦在提升亲密度时效果翻倍."
+        },
+        {
+            "id": 210,
+            "type": "精灵球",
+            "cName": "巢穴球",
+            "eName": "Nest Ball",
+            "explain": "有点与众不同的球.捕捉的野生宝可梦越弱，就会越容易捕捉.",
+            "effect": "如果野生宝可梦的等级在 1 到 19 之间，则捕获率×4.\n如果野生宝可梦的等级在 20 到 29 之间，则捕获率×2.\n如果野生宝可梦的等级在 30 以上，则捕获率×1."
+        },
+        {
+            "id": 211,
+            "type": "精灵球",
+            "cName": "重复球",
+            "eName": "Repeat Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉以前曾捉到过的宝可梦.",
+            "effect": "若目标宝可梦已经在宝可梦图鉴上被登记捕获，捕获率×4，否则捕获率×1"
+        },
+        {
+            "id": 212,
+            "type": "精灵球",
+            "cName": "速度球",
+            "eName": "Fast Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉速度很高的宝可梦.",
+            "effect": "若目标的速度种族值≥100，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 213,
+            "type": "精灵球",
+            "cName": "等级球",
+            "eName": "Level Ball",
+            "explain": "有点与众不同的球.要捕捉的宝可梦比自己宝可梦的等级越低，就会越容易捕捉.",
+            "effect": "如果己方宝可梦等级是对方 2 倍及以上，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 214,
+            "type": "精灵球",
+            "cName": "诱饵球",
+            "eName": "Bait Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉用钓竿钓上来的宝可梦.",
+            "effect": "如果当前的战斗是由垂钓引发，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 215,
+            "type": "精灵球",
+            "cName": "沉重球",
+            "eName": "Weight Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉身体沉重的宝可梦.",
+            "effect": "如果神奇宝贝的等级重量小于 100 kg，则捕获率×1.\n如果神奇宝贝的等级重量超过 100 kg，则捕获率将×2.\n如果重量在 200 kg之间，则捕获率×3.\n如果重量超过 300 kg，则捕获率×4."
+        },
+        {
+            "id": 216,
+            "type": "精灵球",
+            "cName": "甜蜜球",
+            "eName": "Love Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉和自己宝可梦性别不同的宝可梦.",
+            "effect": "若当前出战的宝可梦与目标处于同一进化家族中，且性别相异，捕获率×8，否则捕获率×1."
+        },
+        {
+            "id": 217,
+            "type": "精灵球",
+            "cName": "友友球",
+            "eName": "Friend Ball",
+            "explain": "有点与众不同的球.捉到的野生宝可梦会立刻变得和训练家亲密起来.",
+            "effect": "捕获率×1.\n捕捉到的宝可梦的亲密度变为200."
+        },
+        {
+            "id": 218,
+            "type": "精灵球",
+            "cName": "月亮球",
+            "eName": "Moon Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉使用月之石进化的宝可梦.",
+            "effect": "若目标是 使用月之石进化 或 妖精系 的宝可梦 或是 克雷色利亚 时，捕获率×4，否则捕获率×1."
+        },
+        {
+            "id": 219,
+            "type": "精灵球",
+            "cName": "治愈球",
+            "eName": "Heal Ball",
+            "explain": "有点温柔的球.能回复捉到的宝可梦的HP并治愈异常状态.",
+            "effect": "捕获率×1.\n通过治愈球捕获的宝可梦在被捕获时恢复全部的HP与异常状态."
+        },
+        {
+            "id": 220,
+            "type": "精灵球",
+            "cName": "黑暗球",
+            "eName": "Dusk Ball",
+            "explain": "有点与众不同的球.能很容易地在夜晚或洞窟等阴暗的地方捕捉宝可梦.",
+            "effect": "若当前位置为洞穴，或者当前时间为夜晚，捕获率×3.5，否则捕获率×1."
+        },
+        {
+            "id": 221,
+            "type": "精灵球",
+            "cName": "先机球",
+            "eName": "Fast Ball",
+            "explain": "有点与众不同的球.能很容易地捕捉速度很高的宝可梦.",
+            "effect": "如果时间少于 30 秒，则捕获率×4.\n如果时间超过 30 秒，则捕获率×2.5.\n如果时间超过 60 秒，则捕获率×1.\n但是 200 秒后它会停止减少."
+        },
+        {
+            "id": 222,
+            "type": "精灵球",
+            "cName": "贵重球",
+            "eName": "Glory Ball",
+            "explain": "相当珍贵的球.特制出来的某种纪念品.",
+            "effect": "捕获率×1"
+        },
+        {
+            "id": 223,
+            "type": "精灵球",
+            "cName": "狩猎球",
+            "eName": "Safari Ball",
+            "explain": "仅能在大湿地中使用的特殊的球.上面有迷彩花纹.",
+            "effect": "捕获率×1.5"
+        },
+        {
+            "id": 224,
+            "type": "精灵球",
+            "cName": "究极球",
+            "eName": "Beast Ball",
+            "explain": "为捕捉究极异兽而制作的特殊精灵球.很难捕捉究极异兽之外的宝可梦.",
+            "effect": "若目标是究极异兽(虚吾伊德，费洛美螂，爆肌蚊，电束木，铁火辉夜，纸御剑，恶食大王，砰头小丑，垒磊石，毒贝比，四颚针龙)，捕获率×5，否則捕获率×0.1."
+        },
+        {
+            "id": 225,
+            "type": "精灵球",
+            "cName": "星星球",
+            "eName": "Star Ball",
+            "explain": "一种捕获率十分惊人的精灵球.",
+            "effect": "捕获率×4"
+        },
+        {
+            "id": 226,
+            "type": "精灵球",
+            "cName": "黑球",
+            "eName": "Black Ball",
+            "explain": "一种黑色稀有的精灵球.",
+            "effect": "捕获率×5"
+        },
+        {
+            "id": 227,
+            "type": "精灵球",
+            "cName": "大师球",
+            "eName": "Master Ball",
+            "explain": "必定能捉到野生宝可梦的，性能最好的球.",
+            "effect": "捕获率×999"
+        },
+        {
+            "id": 228,
+            "type": "树果",
+            "cName": "樱子果",
+            "eName": "Cheri Berry",
+            "explain": "可以治愈麻痹.",
+            "effect": ""
+        },
+        {
+            "id": 229,
+            "type": "树果",
+            "cName": "零余果",
+            "eName": "Chesto Berry",
+            "explain": "可以治愈睡眠.",
+            "effect": ""
+        },
+        {
+            "id": 230,
+            "type": "树果",
+            "cName": "桃桃果",
+            "eName": "Pecha Berry",
+            "explain": "可以治愈中毒.",
+            "effect": ""
+        },
+        {
+            "id": 231,
+            "type": "树果",
+            "cName": "莓莓果",
+            "eName": "Rawst Berry",
+            "explain": "可以治愈灼伤.",
+            "effect": ""
+        },
+        {
+            "id": 232,
+            "type": "树果",
+            "cName": "利木果",
+            "eName": "Aspear Berry",
+            "explain": "可以治愈冰冻.",
+            "effect": ""
+        },
+        {
+            "id": 233,
+            "type": "树果",
+            "cName": "苹野果",
+            "eName": "Leppa Berry",
+            "explain": "可以在战斗中恢复宝可梦所有PP.",
+            "effect": ""
+        },
+        {
+            "id": 234,
+            "type": "树果",
+            "cName": "橙橙果",
+            "eName": "Oran Berry",
+            "explain": "可以回复宝可梦10HP.",
+            "effect": ""
+        },
+        {
+            "id": 235,
+            "type": "树果",
+            "cName": "柿仔果",
+            "eName": "Persim Berry",
+            "explain": "可以治愈混乱.",
+            "effect": ""
+        },
+        {
+            "id": 236,
+            "type": "树果",
+            "cName": "木子果",
+            "eName": "Lum Berry",
+            "explain": "可以治愈所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 237,
+            "type": "树果",
+            "cName": "文柚果",
+            "eName": "Sitrus Berry",
+            "explain": "可以回复宝可梦25%HP.",
+            "effect": ""
+        },
+        {
+            "id": 238,
+            "type": "树果",
+            "cName": "勿花果",
+            "eName": "Figy Berry",
+            "explain": "可以回复宝可梦1/3HP，但会造成混乱.",
+            "effect": ""
+        },
+        {
+            "id": 239,
+            "type": "树果",
+            "cName": "异奇果",
+            "eName": "Wiki Berry",
+            "explain": "可以回复宝可梦40%HP，但会造成烧伤.",
+            "effect": ""
+        },
+        {
+            "id": 240,
+            "type": "树果",
+            "cName": "芒芒果",
+            "eName": "Mago Berry",
+            "explain": "可以回复宝可梦1/3HP，但会造成睡眠.",
+            "effect": ""
+        },
+        {
+            "id": 241,
+            "type": "树果",
+            "cName": "乐芭果",
+            "eName": "Aguav Berry",
+            "explain": "可以回复宝可梦40%HP，但会造成中毒.",
+            "effect": ""
+        },
+        {
+            "id": 242,
+            "type": "树果",
+            "cName": "芭亚果",
+            "eName": "Iapapa Berry",
+            "explain": "可以回复宝可梦1/3HP，但会造成冰冻.",
+            "effect": ""
+        },
+        {
+            "id": 243,
+            "type": "树果",
+            "cName": "蔓莓果",
+            "eName": "Razz Berry",
+            "explain": "可以治愈着迷.",
+            "effect": ""
+        },
+        {
+            "id": 244,
+            "type": "树果",
+            "cName": "墨莓果",
+            "eName": "Bluk Berry",
+            "explain": "可以治愈诅咒.",
+            "effect": ""
+        },
+        {
+            "id": 245,
+            "type": "树果",
+            "cName": "蕉香果",
+            "eName": "Nanab Berry",
+            "explain": "可以治愈寄生.",
+            "effect": ""
+        },
+        {
+            "id": 246,
+            "type": "树果",
+            "cName": "西梨果",
+            "eName": "Wepear Berry",
+            "explain": "可以回复宝可梦1/2HP，但会造成寄生.",
+            "effect": ""
+        },
+        {
+            "id": 247,
+            "type": "树果",
+            "cName": "凰梨果",
+            "eName": "Pinap Berry",
+            "explain": "可以回复宝可梦1/2HP，但会造成诅咒.",
+            "effect": ""
+        },
+        {
+            "id": 248,
+            "type": "树果",
+            "cName": "榴石果",
+            "eName": "Pomeg Berry",
+            "explain": "可以回复宝可梦1/3HP，但会造成着迷.",
+            "effect": ""
+        },
+        {
+            "id": 249,
+            "type": "树果",
+            "cName": "藻根果",
+            "eName": "Kelpsy Berry",
+            "explain": "可以使濒死的宝可梦以1HP复活.",
+            "effect": "神奇糖果的制作材料之一."
+        },
+        {
+            "id": 250,
+            "type": "树果",
+            "cName": "比巴果",
+            "eName": "Qualot Berry",
+            "explain": "可以在战斗中提升防御.",
+            "effect": ""
+        },
+        {
+            "id": 251,
+            "type": "树果",
+            "cName": "哈密果",
+            "eName": "Hondew Berry",
+            "explain": "可以在战斗中提升攻击.",
+            "effect": ""
+        },
+        {
+            "id": 252,
+            "type": "树果",
+            "cName": "萄葡果",
+            "eName": "Grepa Berry",
+            "explain": "可以在战斗中提升特攻.",
+            "effect": ""
+        },
+        {
+            "id": 253,
+            "type": "树果",
+            "cName": "茄番果",
+            "eName": "Tamato Berry",
+            "explain": "可以在战斗中提升特防.",
+            "effect": ""
+        },
+        {
+            "id": 254,
+            "type": "树果",
+            "cName": "玉黍果",
+            "eName": "Cornn Berry",
+            "explain": "可以在战斗中提升速度.",
+            "effect": ""
+        },
+        {
+            "id": 255,
+            "type": "树果",
+            "cName": "岳竹果",
+            "eName": "Magost Berry",
+            "explain": "使宝可梦更难捕捉.",
+            "effect": ""
+        },
+        {
+            "id": 256,
+            "type": "树果",
+            "cName": "茸丹果",
+            "eName": "Rabuta Berry",
+            "explain": "使宝可梦更容易捕捉.",
+            "effect": ""
+        },
+        {
+            "id": 257,
+            "type": "树果",
+            "cName": "檬柠果",
+            "eName": "Nomel Berry",
+            "explain": "携带它的宝可梦获得的经验值会增加20%.",
+            "effect": "神奇糖果的制作材料之一."
+        },
+        {
+            "id": 258,
+            "type": "树果",
+            "cName": "刺角果",
+            "eName": "Spelon Berry",
+            "explain": "敌人在使用物理攻击时，会受到反伤.",
+            "effect": ""
+        },
+        {
+            "id": 259,
+            "type": "树果",
+            "cName": "椰木果",
+            "eName": "Pamtre Berry",
+            "explain": "在受到物理攻击时，会复制对方的状态.",
+            "effect": ""
+        },
+        {
+            "id": 260,
+            "type": "树果",
+            "cName": "瓜西果",
+            "eName": "Watmel Berry",
+            "explain": "可以回复宝可梦40%HP，但会造成麻痹.",
+            "effect": ""
+        },
+        {
+            "id": 261,
+            "type": "树果",
+            "cName": "金枕果",
+            "eName": "Durin Berry",
+            "explain": "可以使宝可梦等级降低1级.\n(努力值也会随机降低1点)",
+            "effect": "神奇糖果的制作材料之一."
+        },
+        {
+            "id": 262,
+            "type": "树果",
+            "cName": "靛莓果",
+            "eName": "Belue Berry",
+            "explain": "可以使宝可梦回忆当前等级恰好能学会的招式.",
+            "effect": "神奇糖果的制作材料之一."
+        },
+        {
+            "id": 263,
+            "type": "树果",
+            "cName": "枝荔果",
+            "eName": "Liechi Berry",
+            "explain": "如果携带者受到物理攻击，双方都会造成烧伤.",
+            "effect": ""
+        },
+        {
+            "id": 264,
+            "type": "树果",
+            "cName": "龙睛果",
+            "eName": "Ganlon Berry",
+            "explain": "如果携带者受到物理攻击，双方都会造成中毒.",
+            "effect": ""
+        },
+        {
+            "id": 265,
+            "type": "树果",
+            "cName": "沙鳞果",
+            "eName": "Salac Berry",
+            "explain": "如果携带者受到物理攻击，双方都会造成混乱.",
+            "effect": ""
+        },
+        {
+            "id": 266,
+            "type": "树果",
+            "cName": "龙火果",
+            "eName": "Petaya Berry",
+            "explain": "如果携带者受到物理攻击，双方会交换道具.",
+            "effect": ""
+        },
+        {
+            "id": 267,
+            "type": "树果",
+            "cName": "杏仔果",
+            "eName": "Apicot Berry",
+            "explain": "如果携带者受到物理攻击，双方都会造成着迷.",
+            "effect": ""
+        },
+        {
+            "id": 268,
+            "type": "树果",
+            "cName": "兰萨果",
+            "eName": "Lansat Berry",
+            "explain": "当携带者HP低于1/3时，会增加击中要害机率.",
+            "effect": ""
+        },
+        {
+            "id": 269,
+            "type": "树果",
+            "cName": "星桃果",
+            "eName": "Starf Berry",
+            "explain": "可以使携带者免疫一击必杀的招式.",
+            "effect": "神奇糖果的制作材料之一."
+        },
+        {
+            "id": 270,
+            "type": "树果",
+            "cName": "谜芝果",
+            "eName": "Enigma Berry",
+            "explain": "可以使宝可梦的×4弱点变为×2弱点.",
+            "effect": ""
+        },
+        {
+            "id": 271,
+            "type": "回复道具",
+            "cName": "伤药",
+            "eName": "Potion",
+            "explain": "喷雾式伤药.能让1只宝可梦回复20HP.",
+            "effect": ""
+        },
+        {
+            "id": 272,
+            "type": "回复道具",
+            "cName": "好伤药",
+            "eName": "Super Potion",
+            "explain": "喷雾式伤药.能让1只宝可梦回复50HP.",
+            "effect": ""
+        },
+        {
+            "id": 273,
+            "type": "回复道具",
+            "cName": "厉害伤药",
+            "eName": "Hyper Potion",
+            "explain": "喷雾式伤药.能让1只宝可梦回复120HP.",
+            "effect": ""
+        },
+        {
+            "id": 274,
+            "type": "回复道具",
+            "cName": "全满药",
+            "eName": "Max Potion",
+            "explain": "喷雾式伤药.能让1只宝可梦回复所有HP.",
+            "effect": ""
+        },
+        {
+            "id": 275,
+            "type": "回复道具",
+            "cName": "美味之水",
+            "eName": "Fresh Water",
+            "explain": "富含矿物质的水.能让1只宝可梦回复50HP.",
+            "effect": ""
+        },
+        {
+            "id": 276,
+            "type": "回复道具",
+            "cName": "果汁牛奶",
+            "eName": "Berry Juice",
+            "explain": "非常香甜的牛奶.能让1只宝可梦回复40HP.",
+            "effect": ""
+        },
+        {
+            "id": 277,
+            "type": "回复道具",
+            "cName": "劲爽汽水",
+            "eName": "Soda Pop",
+            "explain": "翻腾着气泡的汽水.能让1只宝可梦回复60HP.",
+            "effect": ""
+        },
+        {
+            "id": 278,
+            "type": "回复道具",
+            "cName": "果汁牛奶",
+            "eName": "Lemonade",
+            "explain": "非常香甜的牛奶.能让1只宝可梦回复80HP.",
+            "effect": ""
+        },
+        {
+            "id": 279,
+            "type": "回复道具",
+            "cName": "哞哞鲜奶",
+            "eName": "Moomoo Milk",
+            "explain": "营养百分百的牛奶.能让1只宝可梦回复100HP.",
+            "effect": ""
+        },
+        {
+            "id": 280,
+            "type": "回复道具",
+            "cName": "茶",
+            "eName": "Tea",
+            "explain": "芬芳宜人的香茶.能让1只宝可梦回复1/5HP.",
+            "effect": ""
+        },
+        {
+            "id": 281,
+            "type": "回复道具",
+            "cName": "全复药",
+            "eName": "Full Restore",
+            "explain": "能回复1只宝可梦的所有HP并治愈所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 282,
+            "type": "回复道具",
+            "cName": "万灵药",
+            "eName": "Full Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 283,
+            "type": "回复道具",
+            "cName": "活力碎片",
+            "eName": "Revive",
+            "explain": "能让1只陷入濒死的宝可梦重获生机，并回复一半HP.",
+            "effect": ""
+        },
+        {
+            "id": 284,
+            "type": "回复道具",
+            "cName": "活力块",
+            "eName": "Max Revive",
+            "explain": "能让1只陷入濒死的宝可梦重获生机，并回复所有HP.",
+            "effect": ""
+        },
+        {
+            "id": 285,
+            "type": "回复道具",
+            "cName": "解毒药",
+            "eName": "Antidote",
+            "explain": "喷雾式药水.能治愈1只宝可梦的中毒状态.",
+            "effect": ""
+        },
+        {
+            "id": 286,
+            "type": "回复道具",
+            "cName": "灼伤药",
+            "eName": "Burn Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的灼伤状态.",
+            "effect": ""
+        },
+        {
+            "id": 287,
+            "type": "回复道具",
+            "cName": "解冻药",
+            "eName": "Ice Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的冰冻状态.",
+            "effect": ""
+        },
+        {
+            "id": 288,
+            "type": "回复道具",
+            "cName": "解眠药",
+            "eName": "Awakening",
+            "explain": "喷雾式药水.能治愈1只宝可梦的睡眠状态.",
+            "effect": ""
+        },
+        {
+            "id": 289,
+            "type": "回复道具",
+            "cName": "解麻药",
+            "eName": "Paralyze Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的麻痹状态.",
+            "effect": ""
+        },
+        {
+            "id": 290,
+            "type": "回复道具",
+            "cName": "抗生素",
+            "eName": "Antibiotic",
+            "explain": "喷雾式药水.能治愈1只宝可梦的寄生状态.",
+            "effect": ""
+        },
+        {
+            "id": 291,
+            "type": "回复道具",
+            "cName": "解迷药",
+            "eName": "Love Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的着迷状态.",
+            "effect": ""
+        },
+        {
+            "id": 292,
+            "type": "回复道具",
+            "cName": "解咒药",
+            "eName": "Curse Heal",
+            "explain": "喷雾式药水.能治愈1只宝可梦的诅咒状态.",
+            "effect": ""
+        },
+        {
+            "id": 293,
+            "type": "回复道具",
+            "cName": "森之羊羹",
+            "eName": "Old Gateau",
+            "explain": "百代不为人知的特产.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 294,
+            "type": "回复道具",
+            "cName": "愤怒馒头",
+            "eName": "Rage Candy Bar",
+            "explain": "卡吉镇特产的馒头.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 295,
+            "type": "回复道具",
+            "cName": "釜炎仙贝",
+            "eName": "Lava Cookie",
+            "explain": "釜炎特产的仙贝.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 296,
+            "type": "回复道具",
+            "cName": "飞云冰淇淋",
+            "eName": "Casteliacone",
+            "explain": "飞云市特产的冰淇淋.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 297,
+            "type": "回复道具",
+            "cName": "密阿雷格雷派饼",
+            "eName": "Lumiose Galette",
+            "explain": "在密阿雷市很受欢迎的点心.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 298,
+            "type": "回复道具",
+            "cName": "娑罗沙布蕾",
+            "eName": "Shalour Sable",
+            "explain": "娑罗市特产的沙布蕾.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 299,
+            "type": "回复道具",
+            "cName": "大马拉萨达",
+            "eName": "Big Malasada",
+            "explain": "阿罗拉特产的油炸面包.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 300,
+            "type": "回复道具",
+            "cName": "万能粉",
+            "eName": "Heal Powder",
+            "explain": "非常苦的药粉.能治愈1只宝可梦的所有异常状态.",
+            "effect": ""
+        },
+        {
+            "id": 301,
+            "type": "回复道具",
+            "cName": "元气粉",
+            "eName": "Energy Powder",
+            "explain": "非常苦的药粉.能让1只宝可梦回复50HP.",
+            "effect": ""
+        },
+        {
+            "id": 302,
+            "type": "回复道具",
+            "cName": "元气根",
+            "eName": "Energy Root",
+            "explain": "非常苦的根.能让1只宝可梦回复200HP.",
+            "effect": ""
+        },
+        {
+            "id": 303,
+            "type": "回复道具",
+            "cName": "复活草",
+            "eName": "Revival Herb",
+            "explain": "非常苦的药草.能让1只濒死的宝可梦回复所有HP.",
+            "effect": ""
+        },
+        {
+            "id": 304,
+            "type": "回复道具",
+            "cName": "圣灰",
+            "eName": "Sacred Ash",
+            "explain": "能让陷入濒死的全部宝可梦回复所有HP.",
+            "effect": ""
+        },
+        {
+            "id": 305,
+            "type": "强化道具",
+            "cName": "力量强化",
+            "eName": "X Attack",
+            "explain": "大幅提高战斗中宝可梦攻击的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 306,
+            "type": "强化道具",
+            "cName": "防御强化",
+            "eName": "X Defense",
+            "explain": "大幅提高战斗中宝可梦防御的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 307,
+            "type": "强化道具",
+            "cName": "速度强化",
+            "eName": "X Speed",
+            "explain": "大幅提高战斗中宝可梦速度的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 308,
+            "type": "强化道具",
+            "cName": "命中强化",
+            "eName": "X Accuracy",
+            "explain": "大幅提高战斗中宝可梦命中的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 309,
+            "type": "强化道具",
+            "cName": "特攻强化",
+            "eName": "X Special",
+            "explain": "大幅提高战斗中宝可梦特攻的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 310,
+            "type": "强化道具",
+            "cName": "特防强化",
+            "eName": "X Special Defend",
+            "explain": "大幅提高战斗中宝可梦特防的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 311,
+            "type": "强化道具",
+            "cName": "要害攻击",
+            "eName": "Dire Hit",
+            "explain": "大幅提高战斗中宝可梦击中要害几率的道具.离场后，效果便会消失.",
+            "effect": ""
+        },
+        {
+            "id": 312,
+            "type": "强化道具",
+            "cName": "能力防守",
+            "eName": "Guard Spec.",
+            "explain": "在战斗中，不让我方能力降低的道具.",
+            "effect": ""
+        },
+        {
+            "id": 313,
+            "type": "强化道具",
+            "cName": "PP多项全补剂",
+            "eName": "Max Elixir",
+            "explain": "在战斗回复宝可梦所有PP的道具.",
+            "effect": ""
+        },
+        {
+            "id": 314,
+            "type": "强化道具",
+            "cName": "HP增强剂",
+            "eName": "HP Up",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的HP努力值.",
+            "effect": ""
+        },
+        {
+            "id": 315,
+            "type": "强化道具",
+            "cName": "特攻增强剂",
+            "eName": "Calcium",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的特攻努力值.",
+            "effect": ""
+        },
+        {
+            "id": 316,
+            "type": "强化道具",
+            "cName": "防御增强剂",
+            "eName": "Iron",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的防御努力值.",
+            "effect": ""
+        },
+        {
+            "id": 317,
+            "type": "强化道具",
+            "cName": "速度增强剂",
+            "eName": "Carbos",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的速度努力值.",
+            "effect": ""
+        },
+        {
+            "id": 318,
+            "type": "强化道具",
+            "cName": "攻击增强剂",
+            "eName": "Protein",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的攻击努力值.",
+            "effect": ""
+        },
+        {
+            "id": 319,
+            "type": "强化道具",
+            "cName": "特防增强剂",
+            "eName": "Zinc",
+            "explain": "宝可梦的营养饮料.能提高1只宝可梦的特防努力值.",
+            "effect": ""
+        },
+        {
+            "id": 320,
+            "type": "强化道具",
+            "cName": "神奇糖果",
+            "eName": "Rare Candy",
+            "explain": "充满能量的糖果.",
+            "effect": "对精灵蛋使用，精灵蛋会立刻孵化.\n对宝可梦使用，宝可梦的等级会提升1级.\n(但努力值会随机降低1点)"
+        },
+        {
+            "id": 321,
+            "type": "强化道具",
+            "cName": "特性胶囊",
+            "eName": "Ability Capsule",
+            "explain": "可以让宝可梦在2种普通特性之间切换，\n也可以让宝可梦从隐藏特性变为普通特性.",
+            "effect": ""
+        },
+        {
+            "id": 322,
+            "type": "强化道具",
+            "cName": "密封胶囊",
+            "eName": "Lock Capsule",
+            "explain": "可以让宝可梦在2种隐藏特性之间切换，\n也可以让宝可梦从普通特性变为隐藏特性.",
+            "effect": ""
+        },
+        {
+            "id": 323,
+            "type": "强化道具",
+            "cName": "体力之羽",
+            "eName": "Health Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点HP个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 324,
+            "type": "强化道具",
+            "cName": "肌力之羽",
+            "eName": "Muscle Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点攻击个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 325,
+            "type": "强化道具",
+            "cName": "抵抗之羽",
+            "eName": "Resist Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点防御个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 326,
+            "type": "强化道具",
+            "cName": "智力之羽",
+            "eName": "Genius Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点特攻个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 327,
+            "type": "强化道具",
+            "cName": "精神之羽",
+            "eName": "Clever Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点特防个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 328,
+            "type": "强化道具",
+            "cName": "瞬发之羽",
+            "eName": "Swift Wing",
+            "explain": "宝可梦携带该道具升级时，会提升1点速度个体值.使用后消失.",
+            "effect": ""
+        },
+        {
+            "id": 329,
+            "type": "强化道具",
+            "cName": "美丽之羽",
+            "eName": "Pretty Wing",
+            "explain": "仅仅只是漂亮，没有任何效果，极其普通的羽毛.",
+            "effect": "可以在Mercury Island找鸟类学者兑换提升个体值的羽毛.\n(体力之羽、肌力之羽、抵抗之羽、智力之羽、精神之羽、瞬发之羽)"
+        },
+        {
+            "id": 330,
+            "type": "强化道具",
+            "cName": "银色王冠",
+            "eName": "Bottle Cap",
+            "explain": "银色的美丽王冠.有些人收到它会很高兴.",
+            "effect": "宝可梦携带该道具升级后，可以使随机1项个体值提升至最大值.使用后消失."
+        },
+        {
+            "id": 331,
+            "type": "强化道具",
+            "cName": "金色王冠",
+            "eName": "Gold Bottle Cap",
+            "explain": "金色的美丽王冠.比银色王冠珍贵.有些人收到它会很高兴.",
+            "effect": "100级的宝可梦携带该道具后进行战斗，有概率消耗该道具并使所有个体值提升至最大值.\n(对手越强大，概率越高)"
+        },
+        {
+            "id": 332,
+            "type": "强化道具",
+            "cName": "力量负重",
+            "eName": "Power Weight",
+            "explain": "虽然携带后速度会降低，但宝可梦的HP努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 333,
+            "type": "强化道具",
+            "cName": "力量护腕",
+            "eName": "Power Bracer",
+            "explain": "虽然携带后速度会降低，但宝可梦的攻击努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 334,
+            "type": "强化道具",
+            "cName": "力量腰带",
+            "eName": "Power Belt",
+            "explain": "虽然携带后速度会降低，但宝可梦的防御努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 335,
+            "type": "强化道具",
+            "cName": "力量镜",
+            "eName": "Power Lens",
+            "explain": "虽然携带后速度会降低，但宝可梦的特攻努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 336,
+            "type": "强化道具",
+            "cName": "力量束带",
+            "eName": "Power Band",
+            "explain": "虽然携带后速度会降低，但宝可梦的特防努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 337,
+            "type": "强化道具",
+            "cName": "力量护踝",
+            "eName": "Power Anklet",
+            "explain": "虽然携带后速度会降低，但宝可梦的速度努力值会比平时成长得更高.",
+            "effect": ""
+        },
+        {
+            "id": 338,
+            "type": "强化道具",
+            "cName": "导电护腕",
+            "eName": "Conductive Bracer",
+            "explain": "携带后，可以使电系招式攻击到地面系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 339,
+            "type": "强化道具",
+            "cName": "正义护腕",
+            "eName": "Justice Bracer",
+            "explain": "携带后，可以使超能系招式攻击到恶系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 340,
+            "type": "强化道具",
+            "cName": "灵魂护腕",
+            "eName": "Spirit Bracer",
+            "explain": "携带后，可以使一般系和格斗系招式攻击到幽灵系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 341,
+            "type": "强化道具",
+            "cName": "大地护腕",
+            "eName": "Earthly Bracer",
+            "explain": "携带后，可以使幽灵系招式攻击到一般系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 342,
+            "type": "强化道具",
+            "cName": "天界护腕",
+            "eName": "Celestial Bracer",
+            "explain": "携带后，可以使地面系招式攻击到飞行系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 343,
+            "type": "强化道具",
+            "cName": "腐蚀护腕",
+            "eName": "Corrosive Bracer",
+            "explain": "携带后，可以使毒系招式攻击到钢系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 344,
+            "type": "强化道具",
+            "cName": "魔法护腕",
+            "eName": "Magic Bracer",
+            "explain": "携带后，可以使龙系招式攻击到妖精系宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 345,
+            "type": "强化道具",
+            "cName": "一般宝石",
+            "eName": "Normal Gem",
+            "explain": "一般属性的宝石.\n携带后，一般属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 346,
+            "type": "强化道具",
+            "cName": "火之宝石",
+            "eName": "Fire Gem",
+            "explain": "火属性的宝石.\n携带后，火属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 347,
+            "type": "强化道具",
+            "cName": "水之宝石",
+            "eName": "Water Gem",
+            "explain": "水属性的宝石.\n携带后，水属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 348,
+            "type": "强化道具",
+            "cName": "草之宝石",
+            "eName": "Grass Gem",
+            "explain": "草属性的宝石.\n携带后，草属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 349,
+            "type": "强化道具",
+            "cName": "电之宝石",
+            "eName": "Electric Gem",
+            "explain": "电属性的宝石.\n携带后，电属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 350,
+            "type": "强化道具",
+            "cName": "岩石宝石",
+            "eName": "Rock Gem",
+            "explain": "岩石属性的宝石.\n携带后，岩石属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 351,
+            "type": "强化道具",
+            "cName": "格斗宝石",
+            "eName": "Fighting Gem",
+            "explain": "格斗属性的宝石.\n携带后，格斗属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 352,
+            "type": "强化道具",
+            "cName": "地面宝石",
+            "eName": "Ground Gem",
+            "explain": "地面属性的宝石.\n携带后，地面属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 353,
+            "type": "强化道具",
+            "cName": "超能力宝石",
+            "eName": "Psychic Gem",
+            "explain": "超能力属性的宝石.\n携带后，超能力属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 354,
+            "type": "强化道具",
+            "cName": "毒之宝石",
+            "eName": "Poison Gem",
+            "explain": "毒属性的宝石.\n携带后，毒属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 355,
+            "type": "强化道具",
+            "cName": "虫之宝石",
+            "eName": "Bug Gem",
+            "explain": "虫属性的宝石.\n携带后，虫属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 356,
+            "type": "强化道具",
+            "cName": "冰之宝石",
+            "eName": "Ice Gem",
+            "explain": "冰属性的宝石.\n携带后，冰属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 357,
+            "type": "强化道具",
+            "cName": "恶之宝石",
+            "eName": "Dark Gem",
+            "explain": "恶属性的宝石.\n携带后，恶属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 358,
+            "type": "强化道具",
+            "cName": "钢之宝石",
+            "eName": "Steel Gem",
+            "explain": "钢属性的宝石.\n携带后，钢属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 359,
+            "type": "强化道具",
+            "cName": "飞行宝石",
+            "eName": "Flying Gem",
+            "explain": "飞行属性的宝石.\n携带后，飞行属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 360,
+            "type": "强化道具",
+            "cName": "幽灵宝石",
+            "eName": "Ghost Gem",
+            "explain": "幽灵属性的宝石.\n携带后，幽灵属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 361,
+            "type": "强化道具",
+            "cName": "龙之宝石",
+            "eName": "Dragon Gem",
+            "explain": "龙属性的宝石.\n携带后，龙属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 362,
+            "type": "强化道具",
+            "cName": "妖精宝石",
+            "eName": "Fairy Gem",
+            "explain": "妖精属性的宝石.\n携带后，妖精属性的招式威力仅会增强1次.",
+            "effect": ""
+        },
+        {
+            "id": 363,
+            "type": "强化道具",
+            "cName": "一般石板",
+            "eName": "Common Plate",
+            "explain": "一般属性的石板.\n携带后，一般属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 364,
+            "type": "强化道具",
+            "cName": "火球石板",
+            "eName": "Flame Plate",
+            "explain": "火属性的石板.\n携带后，火属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 365,
+            "type": "强化道具",
+            "cName": "水滴石板",
+            "eName": "Splash Plate",
+            "explain": "水属性的石板.\n携带后，水属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 366,
+            "type": "强化道具",
+            "cName": "碧绿石板",
+            "eName": "Meadow Plate",
+            "explain": "草属性的石板.\n携带后，草属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 367,
+            "type": "强化道具",
+            "cName": "雷电石板",
+            "eName": "Zap Plate",
+            "explain": "电属性的石板.\n携带后，电属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 368,
+            "type": "强化道具",
+            "cName": "岩石石板",
+            "eName": "Stone Plate",
+            "explain": "岩石属性的石板.\n携带后，岩石属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 369,
+            "type": "强化道具",
+            "cName": "拳头石板",
+            "eName": "Fist Plate",
+            "explain": "格斗属性的石板.\n携带后，格斗属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 370,
+            "type": "强化道具",
+            "cName": "大地石板",
+            "eName": "Earth Plate",
+            "explain": "地面属性的石板.\n携带后，地面属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 371,
+            "type": "强化道具",
+            "cName": "神奇石板",
+            "eName": "Mind Plate",
+            "explain": "超能力属性的石板.\n携带后，超能力属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 372,
+            "type": "强化道具",
+            "cName": "剧毒石板",
+            "eName": "Toxic Plate",
+            "explain": "毒属性的石板.\n携带后，毒属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 373,
+            "type": "强化道具",
+            "cName": "玉虫石板",
+            "eName": "Insect Plate",
+            "explain": "虫属性的石板.\n携带后，虫属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 374,
+            "type": "强化道具",
+            "cName": "冰柱石板",
+            "eName": "Icicle Plate",
+            "explain": "冰属性的石板.\n携带后，冰属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 375,
+            "type": "强化道具",
+            "cName": "恶颜石板",
+            "eName": "Dread Plate",
+            "explain": "恶属性的石板.\n携带后，恶属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 376,
+            "type": "强化道具",
+            "cName": "钢铁石板",
+            "eName": "Iron Plate",
+            "explain": "钢属性的石板.\n携带后，钢属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 377,
+            "type": "强化道具",
+            "cName": "蓝天石板",
+            "eName": "Sky Plate",
+            "explain": "飞行属性的石板.\n携带后，飞行属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 378,
+            "type": "强化道具",
+            "cName": "妖怪石板",
+            "eName": "Spooky Plate",
+            "explain": "幽灵属性的石板.\n携带后，幽灵属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 379,
+            "type": "强化道具",
+            "cName": "龙之石板",
+            "eName": "Draco Plate",
+            "explain": "龙属性的石板.\n携带后，龙属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 380,
+            "type": "强化道具",
+            "cName": "妖精石板",
+            "eName": "Pixie Plate",
+            "explain": "妖精属性的石板.\n携带后，妖精属性的招式威力就会增强20%.",
+            "effect": ""
+        },
+        {
+            "id": 381,
+            "type": "强化道具",
+            "cName": "禁忌石板",
+            "eName": "Forbidden Plate",
+            "explain": "未知的石板.携带后，宝可梦的特性会消失.",
+            "effect": "阿尔宙斯 和 究梦 携带后，属性会变为 ???属性."
+        },
+        {
+            "id": 382,
+            "type": "强化道具",
+            "cName": "火焰卡带",
+            "eName": "Burn Drive",
+            "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为火属性.",
+            "effect": ""
+        },
+        {
+            "id": 383,
+            "type": "强化道具",
+            "cName": "水流卡带",
+            "eName": "Douse Drive",
+            "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为水属性.",
+            "effect": ""
+        },
+        {
+            "id": 384,
+            "type": "强化道具",
+            "cName": "闪电卡带",
+            "eName": "Shock Drive",
+            "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为电属性.",
+            "effect": ""
+        },
+        {
+            "id": 385,
+            "type": "强化道具",
+            "cName": "冰冻卡带",
+            "eName": "Chill Drive",
+            "explain": "这是让盖诺赛克特携带的卡带.\n携带后，高科技光炮这招式就会变为冰属性.",
+            "effect": ""
+        },
+        {
+            "id": 386,
+            "type": "实用道具",
+            "cName": "除虫喷雾",
+            "eName": "Repel",
+            "explain": "使用后，在1分钟内，弱小的野生宝可梦将完全不会出现.",
+            "effect": ""
+        },
+        {
+            "id": 387,
+            "type": "实用道具",
+            "cName": "白银喷雾",
+            "eName": "Super Repel",
+            "explain": "使用后，在2分钟内，弱小的野生宝可梦将完全不会出现.",
+            "effect": ""
+        },
+        {
+            "id": 388,
+            "type": "实用道具",
+            "cName": "黄金喷雾",
+            "eName": "Max Repel",
+            "explain": "使用后，在3分钟内，弱小的野生宝可梦将完全不会出现.",
+            "effect": ""
+        },
+        {
+            "id": 389,
+            "type": "实用道具",
+            "cName": "离洞绳",
+            "eName": "Escape Rope",
+            "explain": "结实的长绳.可以从洞窟或迷宫中脱身.",
+            "effect": ""
+        },
+        {
+            "id": 390,
+            "type": "实用道具",
+            "cName": "甜甜蜜",
+            "eName": "Honey",
+            "explain": "可以使宝可梦的捕获率×2.",
+            "effect": ""
+        },
+        {
+            "id": 391,
+            "type": "实用道具",
+            "cName": "贝壳之铃",
+            "eName": "Shell Bell",
+            "explain": "携带该道具的宝可梦在攻击对方成功造成伤害时，携带者的HP会恢复其所造成伤害的10%.",
+            "effect": ""
+        },
+        {
+            "id": 392,
+            "type": "实用道具",
+            "cName": "浅滩海盐",
+            "eName": "Shoal Salt",
+            "explain": "在浅滩洞穴这地方找到的海盐.",
+            "effect": "把1个浅滩贝壳与1个浅滩海盐给19号道路的老爷爷交换1个贝壳之铃."
+        },
+        {
+            "id": 393,
+            "type": "实用道具",
+            "cName": "黄色玻璃哨",
+            "eName": "Yellow Flute",
+            "explain": "以黄色玻璃制成的哨子.\n可以在战斗中使用，治愈混乱状态.",
+            "effect": ""
+        },
+        {
+            "id": 394,
+            "type": "实用道具",
+            "cName": "蓝色玻璃哨",
+            "eName": "Blue Flute",
+            "explain": "以蓝色玻璃制成的哨子.\n可以战斗中使用，治愈睡眠状态.",
+            "effect": ""
+        },
+        {
+            "id": 395,
+            "type": "实用道具",
+            "cName": "红色玻璃哨",
+            "eName": "Red Flute",
+            "explain": "以红色玻璃制成的哨子.\n可以战斗中使用，治愈着迷状态.",
+            "effect": ""
+        },
+        {
+            "id": 396,
+            "type": "实用道具",
+            "cName": "绿色玻璃哨",
+            "eName": "Green Flute",
+            "explain": "以绿色玻璃制成的哨子.\n可以战斗中使用，治愈寄生状态.",
+            "effect": ""
+        },
+        {
+            "id": 397,
+            "type": "实用道具",
+            "cName": "紫色玻璃哨",
+            "eName": "Violet Flute",
+            "explain": "以红色玻璃制成的哨子.\n可以战斗中使用，治愈诅咒状态.",
+            "effect": ""
+        },
+        {
+            "id": 398,
+            "type": "实用道具",
+            "cName": "白色玻璃哨",
+            "eName": "White Flute",
+            "explain": "以白色玻璃制成的哨子.\n在使用的地方更容易遇到野生宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 399,
+            "type": "实用道具",
+            "cName": "黑色玻璃哨",
+            "eName": "Black Flute",
+            "explain": "以黑色玻璃制成的哨子.\n在使用的地方更难遇到野生宝可梦.",
+            "effect": ""
+        },
+        {
+            "id": 400,
+            "type": "实用道具",
+            "cName": "折价券",
+            "eName": "Discount Coupon",
+            "explain": "在商店购买物品时，可以节省50%的费用.",
+            "effect": "身上没有折价券时，周日在同一个商店消费超过100,00€可以获得.\n(获得折价券后，第二天才能使用)"
+        },
+        {
+            "id": 401,
+            "type": "进化道具",
+            "cName": "日之石",
+            "eName": "Sun Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像太阳一样赤红.",
+            "effect": "对臭臭花使用，使其进化为美丽花。\n对蛋蛋使用，使其进化为椰蛋树(阿罗拉)。\n对向日种子使用，使其进化为向日花怪。\n对伊布使用，使其进化为太阳伊布。\n对木棉球使用，使其进化为风妖精。\n对百合根娃娃使用，使其进化为裙儿小姐。\n对伞电蜥使用，使其进化为光电伞蜥。"
+        },
+        {
+            "id": 402,
+            "type": "进化道具",
+            "cName": "月之石",
+            "eName": "Moon Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像夜空一样乌黑.",
+            "effect": "对皮卡丘使用，使其进化为雷丘(阿罗拉)。\n对尼多娜使用，使其进化为尼多后。\n对尼多力诺使用，使其进化为尼多王。\n对皮皮使用，使其进化为皮可西。\n对胖丁使用，使其进化为胖可丁。\n对伊布使用，使其进化为月亮伊布。\n对向尾喵使用，使其进化为优雅猫。\n对食梦梦使用，使其进化为梦梦蚀。"
+        },
+        {
+            "id": 403,
+            "type": "进化道具",
+            "cName": "火之石",
+            "eName": "Fire Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.看上去是橙黄色的.",
+            "effect": "对六尾使用，使其进化为九尾。\n对卡蒂狗使用，使其进化为风速狗。\n对伊布使用，使其进化为火伊布。\n对爆香猴使用，使其进化为爆香猿。\n对辣椒娃使用，使其进化为狠辣椒。"
+        },
+        {
+            "id": 404,
+            "type": "进化道具",
+            "cName": "雷之石",
+            "eName": "Thunder Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.有着闪电般的花纹.",
+            "effect": "对皮卡丘使用，使其进化为雷丘。\n对伊布使用，使其进化为雷伊布。\n对麻麻鳗使用，使其进化为麻麻鳗鱼王。\n对光蚪仔使用，使其进化为电肚蛙。"
+        },
+        {
+            "id": 405,
+            "type": "进化道具",
+            "cName": "水之石",
+            "eName": "Water Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.看上去是澄蓝色的.",
+            "effect": "对蚊香君使用，使其进化为蚊香泳士。\n对大舌贝使用，使其进化为刺甲贝。\n对海星星使用，使其进化为宝石海星。\n对伊布使用，使其进化为水伊布。\n对莲帽小童使用，使其进化为乐天河童。\n对冷水猴使用，使其进化为冷水猿。"
+        },
+        {
+            "id": 406,
+            "type": "进化道具",
+            "cName": "叶之石",
+            "eName": "Leaf Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.有着叶子般的花纹.",
+            "effect": "对臭臭花使用，使其进化为霸王花。\n对口呆花使用，使其进化为大食花。\n对霹雳电球(洗翠)使用，使其进化为顽皮雷弹(洗翠)。\n对蛋蛋使用，使其进化为椰蛋树。\n对伊布使用，使其进化为叶伊布。\n对长鼻叶使用，使其进化为狡猾天狗。\n对花椰猴使用，使其进化为花椰猿。"
+        },
+        {
+            "id": 407,
+            "type": "进化道具",
+            "cName": "光之石",
+            "eName": "Shiny Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像光芒一样耀眼.",
+            "effect": "对伊布使用，使其进化为一般伊布。\n对波克基古使用，使其进化为波克基斯。\n对毒蔷薇使用，使其进化为罗丝雷朵。\n对泡沫栗鼠使用，使其进化为奇诺栗鼠。\n对花叶蒂使用，使其进化为花洁夫人。"
+        },
+        {
+            "id": 408,
+            "type": "进化道具",
+            "cName": "暗之石",
+            "eName": "Dusk Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像黑夜一般漆黑.",
+            "effect": "对皮卡丘使用，使其进化为皮卡蓝。\n对伊布使用，使其进化为幽灵伊布。\n对黑暗鸦使用，使其进化为乌鸦头头。\n对梦妖使用，使其进化为梦妖魔。\n对灯火幽灵使用，使其进化为水晶灯火灵。\n对双剑鞘使用，使其进化为坚盾剑怪。"
+        },
+        {
+            "id": 409,
+            "type": "进化道具",
+            "cName": "觉醒之石",
+            "eName": "Dawn Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像眼眸一般光彩动人.",
+            "effect": "对伊布使用，使其进化为龙伊布。\n对奇鲁莉安♂使用，使其进化为艾路雷朵。\n对雪童子♀使用，使其进化为雪妖女。"
+        },
+        {
+            "id": 410,
+            "type": "进化道具",
+            "cName": "冰之石",
+            "eName": "Ice Rock",
+            "explain": "能让某些特定宝可梦进化的神奇石头.有着雪花般的花纹.",
+            "effect": "对穿山鼠(阿罗拉)使用，使其进化为穿山王(阿罗拉)。\n对六尾(阿罗拉)使用，使其进化为九尾(阿罗拉)。\n对伊布使用，使其进化为冰伊布。\n对火红不倒翁(伽勒尔)使用，使其进化为达摩狒狒(伽勒尔)。\n对走鲸使用，使其进化为浩大鲸。"
+        },
+        {
+            "id": 411,
+            "type": "进化道具",
+            "cName": "浑圆之石",
+            "eName": "Oval Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.像珠子一般圆润.",
+            "effect": "对小福蛋使用，使其进化为吉利蛋。"
+        },
+        {
+            "id": 412,
+            "type": "进化道具",
+            "cName": "矿物之石",
+            "eName": "Mineral Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.带有岩石图案.",
+            "effect": "对伊布使用，使其进化为岩石伊布。"
+        },
+        {
+            "id": 413,
+            "type": "进化道具",
+            "cName": "妖精之石",
+            "eName": "Nymph Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.带有翅膀图案.",
+            "effect": "对伊布使用，使其进化为仙子伊布。"
+        },
+        {
+            "id": 414,
+            "type": "进化道具",
+            "cName": "沙之石",
+            "eName": "Desert Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Terra Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为大地伊布。"
+        },
+        {
+            "id": 415,
+            "type": "进化道具",
+            "cName": "虫之石",
+            "eName": "Bug Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Mercury Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为虫伊布。"
+        },
+        {
+            "id": 416,
+            "type": "进化道具",
+            "cName": "天空之石",
+            "eName": "Sky Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Uranus Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为飞行伊布。"
+        },
+        {
+            "id": 417,
+            "type": "进化道具",
+            "cName": "毒之石",
+            "eName": "Venus Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Venus Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为毒伊布。"
+        },
+        {
+            "id": 418,
+            "type": "进化道具",
+            "cName": "格斗之石",
+            "eName": "Mars Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Mars Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为格斗伊布。"
+        },
+        {
+            "id": 419,
+            "type": "进化道具",
+            "cName": "金属之石",
+            "eName": "Metal Stone",
+            "explain": "能让某些特定宝可梦进化的神奇石头.Neptune Island上的典型石头.",
+            "effect": "对伊布使用，使其进化为钢铁伊布。"
+        },
+        {
+            "id": 420,
+            "type": "进化道具",
+            "cName": "不变之石",
+            "eName": "Everstone",
+            "explain": "携带后，宝可梦在此期间不会进化的神奇石头.",
+            "effect": ""
+        },
+        {
+            "id": 421,
+            "type": "进化道具",
+            "cName": "王者之证",
+            "eName": "King's Rock",
+            "explain": "能让某些特定宝可梦进化的神奇石头.形状像一个王冠.",
+            "effect": "对蚊香君使用，使其进化为蚊香蛙皇。\n对呆呆兽使用，使其进化为呆呆王。"
+        },
+        {
+            "id": 422,
+            "type": "进化道具",
+            "cName": "电力增幅器",
+            "eName": "Electirizer",
+            "explain": "积蓄着庞大电气能量的箱子.某种宝可梦很喜欢它.",
+            "effect": "电击兽携带该道具50级进化为电击魔兽。"
+        },
+        {
+            "id": 423,
+            "type": "进化道具",
+            "cName": "熔岩增幅器",
+            "eName": "Magmarizer",
+            "explain": "积蓄着庞大熔岩能量的箱子.某种宝可梦很喜欢它.",
+            "effect": "鸭嘴火兽携带该道具50级进化为鸭嘴炎兽。"
+        },
+        {
+            "id": 424,
+            "type": "进化道具",
+            "cName": "护具",
+            "eName": "Protector",
+            "explain": "某种护具.非常坚硬而且沉重.某种宝可梦很喜欢它.",
+            "effect": "钻角犀兽携带该道具55级进化为超甲狂犀。"
+        },
+        {
+            "id": 425,
+            "type": "进化道具",
+            "cName": "升级数据",
+            "eName": "Up-Grade",
+            "explain": "内部储存了各种信息的透明机器.西尔佛公司制造.",
+            "effect": "多边兽携带该道具20级进化为多边兽2型。"
+        },
+        {
+            "id": 426,
+            "type": "进化道具",
+            "cName": "可疑补丁",
+            "eName": "Dubious Disc",
+            "explain": "内部储存了奇怪信息的透明机器.制造者不明.",
+            "effect": "多边兽2型携带该道具30级进化为多边兽乙型。"
+        },
+        {
+            "id": 427,
+            "type": "进化道具",
+            "cName": "深海之牙",
+            "eName": "Deepseatooth",
+            "explain": "让珍珠贝携带后，特攻就会提高的牙齿.散发着闪亮的银光.",
+            "effect": "珍珠贝携带该道具26级进化为猎斑鱼。"
+        },
+        {
+            "id": 428,
+            "type": "进化道具",
+            "cName": "深海鳞片",
+            "eName": "Deepseascale",
+            "explain": "让珍珠贝携带后，特防就会提高的鳞片.散发着淡淡的粉红色光芒.",
+            "effect": "珍珠贝携带该道具26级进化为樱花鱼。"
+        },
+        {
+            "id": 429,
+            "type": "进化道具",
+            "cName": "龙之鳞片",
+            "eName": "Dragon Scale",
+            "explain": "又硬又坚固的鳞片.龙属性宝可梦有时会携带它.",
+            "effect": "海刺龙携带该道具45级进化为刺龙王。"
+        },
+        {
+            "id": 430,
+            "type": "进化道具",
+            "cName": "灵界之布",
+            "eName": "Reaper Cloth",
+            "explain": "蕴含着惊人强大灵力的布.某种宝可梦很喜欢它.",
+            "effect": "彷徨夜灵携带该道具55级进化为黑夜魔灵。"
+        },
+        {
+            "id": 431,
+            "type": "进化道具",
+            "cName": "锐利之爪",
+            "eName": "Razor Claw",
+            "explain": "尖锐的爪子.携带后，招式会变得容易击中要害.",
+            "effect": "狃拉携带该道具36级(夜晚)进化为玛狃拉。\n狃拉(洗翠)携带该道具36级(白天)进化为大狃拉。"
+        },
+        {
+            "id": 432,
+            "type": "进化道具",
+            "cName": "锐利之牙",
+            "eName": "Razor Fang",
+            "explain": "尖锐的牙齿.携带后，在给予伤害时，有时会让对手畏缩.",
+            "effect": "天蝎携带该道具30级进化为天蝎王。"
+        },
+        {
+            "id": 433,
+            "type": "进化道具",
+            "cName": "美丽鳞片",
+            "eName": "Prism Scale",
+            "explain": "能让某些特定宝可梦进化的神奇鳞片.散发着虹色光辉.",
+            "effect": "丑丑鱼携带该道具30级进化为美纳斯。"
+        },
+        {
+            "id": 434,
+            "type": "进化道具",
+            "cName": "魔法石",
+            "eName": "Magic Rock",
+            "explain": "能让某些特定宝可梦进化的神奇石头.",
+            "effect": "地幔岩携带该道具42级进化为庞岩怪。"
+        },
+        {
+            "id": 435,
+            "type": "进化道具",
+            "cName": "杠铃",
+            "eName": "Weights",
+            "explain": "能让某些特定宝可梦进化的神奇道具.",
+            "effect": "搬运小匠携带该道具42级进化为修建老匠。"
+        },
+        {
+            "id": 436,
+            "type": "进化道具",
+            "cName": "忍者头带",
+            "eName": "Ninja Band",
+            "explain": "能让某些特定宝可梦进化的神奇道具.",
+            "effect": "小嘴蜗携带该道具32级进化为敏捷虫。"
+        },
+        {
+            "id": 437,
+            "type": "进化道具",
+            "cName": "长矛",
+            "eName": "Spear",
+            "explain": "能让某些特定宝可梦进化的神奇道具.",
+            "effect": "盖盖虫携带该道具32级进化为骑士蜗牛。"
+        },
+        {
+            "id": 438,
+            "type": "进化道具",
+            "cName": "香袋",
+            "eName": "Sachet",
+            "explain": "装着散发微浓香气的香料的袋子.某种宝可梦很喜欢它.",
+            "effect": "粉香香携带该道具30级进化为芳香精。"
+        },
+        {
+            "id": 439,
+            "type": "进化道具",
+            "cName": "泡沫奶油",
+            "eName": "Whipped Dream",
+            "explain": "松松软软起着泡的，稍微有点甜的奶油.某种宝可梦很喜欢它.",
+            "effect": "绵绵泡芙携带该道具30级进化为胖甜妮。"
+        },
+        {
+            "id": 440,
+            "type": "进化道具",
+            "cName": "催眠王冠",
+            "eName": "Hypnotic Crown",
+            "explain": "能让某些特定宝可梦进化的神奇道具.",
+            "effect": "好啦鱿携带该道具30级进化为乌贼王。"
+        },
+        {
+            "id": 441,
+            "type": "进化道具",
+            "cName": "金黄色花蜜",
+            "eName": "Yellow Nectar",
+            "explain": "在美乐美乐花园里获得的花蜜.可以改变特定宝可梦的样子.",
+            "effect": "对花舞鸟使用，使其变为啪滋形态."
+        },
+        {
+            "id": 442,
+            "type": "进化道具",
+            "cName": "朱红色花蜜",
+            "eName": "Red Nectar",
+            "explain": "在乌拉乌拉花园里获得的花蜜.可以改变特定宝可梦的样子.",
+            "effect": "对花舞鸟使用，使其变为热辣形态."
+        },
+        {
+            "id": 443,
+            "type": "进化道具",
+            "cName": "桃粉色花蜜",
+            "eName": "Pink Nectar",
+            "explain": "在皇家大道的花园里获得的花蜜.可以改变特定宝可梦的样子.",
+            "effect": "对花舞鸟使用，使其变为呼拉形态."
+        },
+        {
+            "id": 444,
+            "type": "进化道具",
+            "cName": "兰紫色花蜜",
+            "eName": "Purple Nectar",
+            "explain": "在波尼花园里获得的花蜜.可以改变特定宝可梦的样子.",
+            "effect": "对花舞鸟使用，使其变为轻盈形态."
+        },
+        {
+            "id": 445,
+            "type": "进化道具",
+            "cName": "破旧斗篷",
+            "eName": "Old Cape",
+            "explain": "提升超梦的速度.",
+            "effect": "超梦携带该道具变为超梦(斗篷)."
+        },
+        {
+            "id": 446,
+            "type": "进化道具",
+            "cName": "特殊装甲",
+            "eName": "Special Armor",
+            "explain": "提升超梦的防御和特防.",
+            "effect": "超梦携带该道具变为超梦(装甲)."
+        },
+        {
+            "id": 447,
+            "type": "进化道具",
+            "cName": "光明石",
+            "eName": "Light Stone",
+            "explain": "莱希拉姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+            "effect": "对酋雷姆使用，使其变为焰白形态."
+        },
+        {
+            "id": 448,
+            "type": "进化道具",
+            "cName": "黑暗石",
+            "eName": "Dark Stone",
+            "explain": "捷克罗姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+            "effect": "对酋雷姆使用，使其变为暗黑形态."
+        },
+        {
+            "id": 449,
+            "type": "进化道具",
+            "cName": "神石",
+            "eName": "God Stone",
+            "explain": "酋雷姆的肉体毁灭后变成的样子.据说它在等待着英雄的到来.",
+            "effect": "对酋雷姆使用，使其变为普通形态."
+        },
+        {
+            "id": 450,
+            "type": "进化道具",
+            "cName": "朱红色宝珠",
+            "eName": "Red Prism",
+            "explain": "散发着红色光辉的宝珠.据说和丰缘地区的传说渊源颇深.",
+            "effect": "固拉多携带该道具后会变为原始回归形态."
+        },
+        {
+            "id": 451,
+            "type": "进化道具",
+            "cName": "靛蓝色宝珠",
+            "eName": "Blue Prism",
+            "explain": "散发着蓝色光辉的宝珠.据说和丰缘地区的传说渊源颇深.",
+            "effect": "盖欧卡携带该道具后会变为原始回归形态."
+        },
+        {
+            "id": 452,
+            "type": "进化道具",
+            "cName": "黑暗棱镜",
+            "eName": "Dark Prism",
+            "explain": "唤醒洛奇亚隐藏力量的神奇石头.",
+            "effect": "对洛奇亚使用，使其变为黑暗形态."
+        },
+        {
+            "id": 453,
+            "type": "进化道具",
+            "cName": "原始棱镜",
+            "eName": "Primary Prism",
+            "explain": "唤醒帝牙卢卡隐藏力量的神奇石头.",
+            "effect": "对帝牙卢卡使用，使其变为原始形态."
+        },
+        {
+            "id": 454,
+            "type": "进化道具",
+            "cName": "酸酸苹果",
+            "eName": "Tart Apple",
+            "explain": "这种神奇的苹果可以使特定的宝可梦进化。吃起来酸酸的。",
+            "effect": "对啃果虫使用，使其进化为苹裹龙。"
+        },
+        {
+            "id": 455,
+            "type": "进化道具",
+            "cName": "甜甜苹果",
+            "eName": "Sweet Apple",
+            "explain": "这种神奇的苹果可以使特定的宝可梦进化。吃起来非常甜美。",
+            "effect": "对啃果虫使用，使其进化为丰蜜龙。"
+        },
+        {
+            "id": 456,
+            "type": "进化道具",
+            "cName": "缺损的茶壶",
+            "eName": "Chipped Pot",
+            "explain": "这个神奇的茶壶可以使特定的宝可梦进化。虽然有缺陷，但泡出来的茶依旧清香。",
+            "effect": "对来悲茶使用，使其进化为怖思壶。"
+        },
+        {
+            "id": 457,
+            "type": "进化道具",
+            "cName": "粗枝大葱",
+            "eName": "Large Leek",
+            "explain": "在露营营地制作料理时会使用的一种食材。不知是不是宝可梦大葱鸭最爱的那种植物的茎。",
+            "effect": "大葱鸭(伽勒尔)携带该道具在对战中击中要害3次或以上升级进化为葱游兵。"
+        },
+        {
+            "id": 458,
+            "type": "进化道具",
+            "cName": "伽勒豆蔻手环",
+            "eName": "Galarica Cuff",
+            "explain": "用伽勒豆蔻枝编织的手环。给伽勒尔地区的呆呆兽戴上，它就会很开心。",
+            "effect": "对呆呆兽(伽勒尔)使用，使其进化为呆壳兽(伽勒尔)。"
+        },
+        {
+            "id": 459,
+            "type": "进化道具",
+            "cName": "伽勒豆蔻花圈",
+            "eName": "Galarica Wreath",
+            "explain": "用伽勒豆蔻枝编织的花冠。给伽勒尔地区的呆呆兽戴上，它就会很开心。",
+            "effect": "对呆呆兽(伽勒尔)使用，使其进化为呆呆王(伽勒尔)。"
+        },
+        {
+            "id": 460,
+            "type": "进化道具",
+            "cName": "草莓糖饰",
+            "eName": "Strawberry Sweet",
+            "explain": "草莓形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 461,
+            "type": "进化道具",
+            "cName": "爱心糖饰",
+            "eName": "Love Sweet",
+            "explain": "爱心形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 462,
+            "type": "进化道具",
+            "cName": "花朵糖饰",
+            "eName": "Flower Sweet",
+            "explain": "花朵形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 463,
+            "type": "进化道具",
+            "cName": "星星糖饰",
+            "eName": "Star Sweet",
+            "explain": "星星形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 464,
+            "type": "进化道具",
+            "cName": "幸运草糖饰",
+            "eName": "Clover Sweet",
+            "explain": "四叶草形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 465,
+            "type": "进化道具",
+            "cName": "野莓糖饰",
+            "eName": "Berry Sweet",
+            "explain": "浆果形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 466,
+            "type": "进化道具",
+            "cName": "蝴蝶结糖饰",
+            "eName": "Ribbon Sweet",
+            "explain": "蝴蝶结形状的工艺糖果。让小仙奶携带的话，会高兴地转圈圈。",
+            "effect": "小仙奶携带该道具原地旋转后进化为霜奶仙。不同时间和旋转的次数会进化为不同口味的霜奶仙。"
+        },
+        {
+            "id": 467,
+            "type": "进化道具",
+            "cName": "泥炭块",
+            "eName": "Peat Block",
+            "explain": "质地像是泥土的煤炭块。干燥后也能当成燃料使用。某种宝可梦很喜欢它。",
+            "effect": "圈圈熊携带该道具42级(夜晚)进化为月月熊。"
+        },
+        {
+            "id": 468,
+            "type": "进化道具",
+            "cName": "黑奇石",
+            "eName": "Black Augurite",
+            "explain": "破碎后会变得十分锋利，性质类似玻璃的黑石。某种宝可梦很喜欢它。",
+            "effect": "飞天螳螂携带该道具40级进化为劈斧螳螂。"
+        },
+        {
+            "id": 469,
+            "type": "对战道具",
+            "cName": "丝绸围巾",
+            "eName": "Silk Scarf",
+            "explain": "手感不错的围巾.\n携带后，一般属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 470,
+            "type": "对战道具",
+            "cName": "木炭",
+            "eName": "Charcoal",
+            "explain": "焚烧用的燃料.\n携带后，火属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 471,
+            "type": "对战道具",
+            "cName": "神秘水滴",
+            "eName": "Mystic Water",
+            "explain": "水滴形状的宝石.\n携带后，水属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 472,
+            "type": "对战道具",
+            "cName": "奇迹种子",
+            "eName": "Miracle Seed",
+            "explain": "孕育生命的种子.\n携带后，草属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 473,
+            "type": "对战道具",
+            "cName": "磁铁",
+            "eName": "Magnet",
+            "explain": "强力的磁铁.\n携带后，电属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 474,
+            "type": "对战道具",
+            "cName": "硬石头",
+            "eName": "Hard Stone",
+            "explain": "绝对不会裂开的石头.\n携带后，岩石属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 475,
+            "type": "对战道具",
+            "cName": "黑带",
+            "eName": "Black Belt",
+            "explain": "能振作精神的带子.\n携带后，格斗属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 476,
+            "type": "对战道具",
+            "cName": "柔软沙子",
+            "eName": "Soft Sand",
+            "explain": "手感细腻的沙子.\n携带后，地面属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 477,
+            "type": "对战道具",
+            "cName": "弯曲的汤匙",
+            "eName": "Twisted Spoon",
+            "explain": "注入了念力的汤匙.\n携带后，超能力属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 478,
+            "type": "对战道具",
+            "cName": "毒针",
+            "eName": "Poison Barb",
+            "explain": "有毒的小针.\n携带后，毒属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 479,
+            "type": "对战道具",
+            "cName": "银粉",
+            "eName": "Silver Powder",
+            "explain": "散发着银色光辉的粉末.\n携带后，虫属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 480,
+            "type": "对战道具",
+            "cName": "不融冰",
+            "eName": "Nevermeltice",
+            "explain": "能隔绝热量的冰.\n携带后，冰属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 481,
+            "type": "对战道具",
+            "cName": "黑色眼镜",
+            "eName": "Black Glasses",
+            "explain": "看上去很奇怪的眼镜.\n携带后，恶属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 482,
+            "type": "对战道具",
+            "cName": "金属膜",
+            "eName": "Metal Coat",
+            "explain": "特殊的金属膜.\n携带后，钢属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 483,
+            "type": "对战道具",
+            "cName": "锐利鸟嘴",
+            "eName": "Sharp Beak",
+            "explain": "又长又尖的鸟嘴.\n携带后，飞行属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 484,
+            "type": "对战道具",
+            "cName": "诅咒之符",
+            "eName": "Spell Tag",
+            "explain": "古怪可怕的咒符.\n携带后，幽灵属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 485,
+            "type": "对战道具",
+            "cName": "龙之牙",
+            "eName": "Dragon Fang",
+            "explain": "坚硬锐利的牙齿.\n携带后，龙属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 486,
+            "type": "对战道具",
+            "cName": "魔杖",
+            "eName": "Magic Wand",
+            "explain": "神奇的魔法杖.\n携带后，妖精属性的招式威力就会提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 487,
+            "type": "对战道具",
+            "cName": "充电电池",
+            "eName": "Cell Battery",
+            "explain": "一次性使用的充电电池.\n携带它的宝可梦如果受到电属性招式的攻击，攻击就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 488,
+            "type": "对战道具",
+            "cName": "雪球",
+            "eName": "Snowball",
+            "explain": "一次性使用的雪球.\n携带它的宝可梦如果受到冰属性招式攻击，攻击就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 489,
+            "type": "对战道具",
+            "cName": "球根",
+            "eName": "Absorb Bulb",
+            "explain": "一次性使用的球根.\n携带它的宝可梦如果受到水属性招式的攻击，特攻就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 490,
+            "type": "对战道具",
+            "cName": "光苔",
+            "eName": "Luminous Moss",
+            "explain": "一次性使用的光苔.\n携带它的宝可梦如果受到水属性招式攻击，特防就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 491,
+            "type": "对战道具",
+            "cName": "大地膜",
+            "eName": "Terrain Extender",
+            "explain": "当携带它的宝可梦利用招式或特性展开场地时，场地的持续时间会比平时更长.",
+            "effect": ""
+        },
+        {
+            "id": 492,
+            "type": "对战道具",
+            "cName": "紧缠钩爪",
+            "eName": "Lumiose Galette",
+            "explain": "携带后，绑紧以及紧束等会持续造成伤害的招式的持续时间会增加.",
+            "effect": ""
+        },
+        {
+            "id": 493,
+            "type": "对战道具",
+            "cName": "薄雾种子",
+            "eName": "Misty Seed",
+            "explain": "让宝可梦携带后，在薄雾场地上使用，特防就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 494,
+            "type": "对战道具",
+            "cName": "电气种子",
+            "eName": "Electric Seed",
+            "explain": "让宝可梦携带后，在电气场地上使用，防御就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 495,
+            "type": "对战道具",
+            "cName": "青草种子",
+            "eName": "Miracle Seed",
+            "explain": "让宝可梦携带后，在青草场地上使用，防御就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 496,
+            "type": "对战道具",
+            "cName": "精神种子",
+            "eName": "Psychic Seed",
+            "explain": "让宝可梦携带后，在精神场地上使用，特防就会提高.",
+            "effect": ""
+        },
+        {
+            "id": 497,
+            "type": "对战道具",
+            "cName": "粗骨头",
+            "eName": "Thick Club",
+            "explain": "某种坚硬的骨头.\n让卡拉卡拉或嘎啦嘎啦携带后，攻击就会翻倍.",
+            "effect": ""
+        },
+        {
+            "id": 498,
+            "type": "对战道具",
+            "cName": "心之水滴",
+            "eName": "Soul Dew",
+            "explain": "让拉帝欧斯或拉帝亚斯携带后，超能力和龙属性的招式威力就会提高20%的神奇珠子.",
+            "effect": ""
+        },
+        {
+            "id": 499,
+            "type": "对战道具",
+            "cName": "气球",
+            "eName": "Air Balloon",
+            "explain": "让宝可梦携带后，宝可梦会浮在空中，免疫地面属性招式.受到攻击就会破裂.",
+            "effect": ""
+        },
+        {
+            "id": 500,
+            "type": "对战道具",
+            "cName": "大葱",
+            "eName": "Stick",
+            "explain": "非常长且坚硬的茎.\n让大葱鸭或捕猎鸭携带后，招式会变得容易击中要害.",
+            "effect": ""
+        },
+        {
+            "id": 501,
+            "type": "对战道具",
+            "cName": "速度粉",
+            "eName": "Quick Powder",
+            "explain": "让百变怪或百变云携带后，速度就会翻倍的神奇粉末.\n变身后失效.",
+            "effect": ""
+        },
+        {
+            "id": 502,
+            "type": "对战道具",
+            "cName": "光粉",
+            "eName": "Brightpowder",
+            "explain": "闪闪发光的粉末.\n携带后，对手的命中率会降低，追踪的招式失去追踪效果.",
+            "effect": ""
+        },
+        {
+            "id": 503,
+            "type": "对战道具",
+            "cName": "金属粉",
+            "eName": "Silverpowder",
+            "explain": "让百变怪或百变云携带后，防御和特防就会提高的神奇粉末.\n变身后失效.",
+            "effect": ""
+        },
+        {
+            "id": 504,
+            "type": "对战道具",
+            "cName": "白色香草",
+            "eName": "White Herb",
+            "explain": "当携带该道具的宝可梦能力降低时，仅能回到之前的状态1次.",
+            "effect": ""
+        },
+        {
+            "id": 505,
+            "type": "对战道具",
+            "cName": "强力香草",
+            "eName": "Power Herb",
+            "explain": "携带该道具的宝可梦仅有1次机会可以立刻使出需要蓄力的招式.",
+            "effect": ""
+        },
+        {
+            "id": 506,
+            "type": "对战道具",
+            "cName": "心灵香草",
+            "eName": "Mental Herb",
+            "explain": "携带该道具的宝可梦能够解除1次着迷、再来一次、挑衅、无理取闹、定身法和回复封锁状态.",
+            "effect": ""
+        },
+        {
+            "id": 507,
+            "type": "对战道具",
+            "cName": "突击背心",
+            "eName": "Assault Vest",
+            "explain": "会变得富有攻击性的背心.\n携带后特防会提高50%，但无法使出变化招式.",
+            "effect": ""
+        },
+        {
+            "id": 508,
+            "type": "对战道具",
+            "cName": "进化奇石",
+            "eName": "Eviolite",
+            "explain": "进化的神奇石块.\n携带后，还能进化的宝可梦的防御和特防就会提高50%.",
+            "effect": ""
+        },
+        {
+            "id": 509,
+            "type": "对战道具",
+            "cName": "吃剩的东西",
+            "eName": "Leftovers",
+            "explain": "携带后，宝可梦的HP会在战斗期间缓缓回复.",
+            "effect": ""
+        },
+        {
+            "id": 510,
+            "type": "对战道具",
+            "cName": "黑色污泥",
+            "eName": "Black Sludge",
+            "explain": "毒属性的宝可梦携带后，HP会缓缓回复.\n其他属性的宝可梦携带后，HP则会减少.",
+            "effect": ""
+        },
+        {
+            "id": 511,
+            "type": "对战道具",
+            "cName": "浅滩贝壳",
+            "eName": "Shoal Shell",
+            "explain": "在浅滩洞穴这地方找到的贝壳.",
+            "effect": "把1个浅滩贝壳与1个浅滩海盐给19号道路的老爷爷交换1个贝壳之铃。"
+        },
+        {
+            "id": 512,
+            "type": "对战道具",
+            "cName": "美丽空壳",
+            "eName": "Shed Shell",
+            "explain": "结实坚硬的空壳.\n携带它的宝可梦必定可以和后备的宝可梦进行替换.",
+            "effect": ""
+        },
+        {
+            "id": 513,
+            "type": "对战道具",
+            "cName": "部位护具",
+            "eName": "Protective Pads",
+            "explain": "不会受到触碰攻击对手时本应受到的效果.",
+            "effect": ""
+        },
+        {
+            "id": 514,
+            "type": "对战道具",
+            "cName": "吉利拳",
+            "eName": "Lucky Punch",
+            "explain": "能带来幸运的拳套.\n让吉利蛋携带后，招式会变得容易击中要害.",
+            "effect": ""
+        },
+        {
+            "id": 515,
+            "type": "对战道具",
+            "cName": "火焰宝珠",
+            "eName": "Flame Orb",
+            "explain": "触碰后会放出热量的神奇宝珠.\n携带后，在战斗时会变成灼伤状态.",
+            "effect": ""
+        },
+        {
+            "id": 516,
+            "type": "对战道具",
+            "cName": "剧毒宝珠",
+            "eName": "Toxic Orb",
+            "explain": "触碰后会放出毒的神奇宝珠.\n携带后，在战斗时会变成剧毒状态.",
+            "effect": ""
+        },
+        {
+            "id": 517,
+            "type": "对战道具",
+            "cName": "附着针",
+            "eName": "Sticky Barb",
+            "explain": "如果携带者受到物理攻击，双方都会造成中毒.",
+            "effect": ""
+        },
+        {
+            "id": 518,
+            "type": "对战道具",
+            "cName": "紧绑束带",
+            "eName": "Binding Band",
+            "explain": "能增强绑紧招式的束带.\n携带后，绑紧招式的威力会变强.",
+            "effect": ""
+        },
+        {
+            "id": 519,
+            "type": "对战道具",
+            "cName": "气势披带",
+            "eName": "Focus Sash",
+            "explain": "携带后，在HP全满时，即便受到可能会导致濒死的招式，也能仅以1HP撑过去1次.",
+            "effect": ""
+        },
+        {
+            "id": 520,
+            "type": "对战道具",
+            "cName": "标靶",
+            "eName": "Ring Target",
+            "explain": "携带后，原本因宝可梦的属性相克关系而无效的招式现在会变得能够击中自己.",
+            "effect": ""
+        },
+        {
+            "id": 521,
+            "type": "对战道具",
+            "cName": "黑色铁球",
+            "eName": "Iron Ball",
+            "explain": "携带后，速度会降低50%.\n飞行属性以及飘浮宝可梦会被地面招式击中.",
+            "effect": ""
+        },
+        {
+            "id": 522,
+            "type": "对战道具",
+            "cName": "逃脱按键",
+            "eName": "Eject Button",
+            "explain": "携带它的宝可梦如果受到招式攻击，就能逃脱战斗，并和同行的其他宝可梦进行替换.",
+            "effect": ""
+        },
+        {
+            "id": 523,
+            "type": "对战道具",
+            "cName": "凸凸头盔",
+            "eName": "Rocky Helmet",
+            "explain": "让宝可梦携带后，在受到打击招式攻击时，能给予对手伤害.",
+            "effect": ""
+        },
+        {
+            "id": 524,
+            "type": "对战道具",
+            "cName": "讲究头带",
+            "eName": "Choice Band",
+            "explain": "有点讲究的头带.\n虽然携带后攻击会提高50%，但只能使出相同的招式.",
+            "effect": ""
+        },
+        {
+            "id": 525,
+            "type": "对战道具",
+            "cName": "达人带",
+            "eName": "Expert Belt",
+            "explain": "用惯了的黑色带子\n.携带后，效果绝佳时的招式威力提高20%.",
+            "effect": ""
+        },
+        {
+            "id": 526,
+            "type": "对战道具",
+            "cName": "气势头带",
+            "eName": "Focus Band",
+            "explain": "携带后，即便受到可能会导致濒死的招式，有时也能仅以1HP撑过去.",
+            "effect": ""
+        },
+        {
+            "id": 527,
+            "type": "对战道具",
+            "cName": "博识眼镜",
+            "eName": "Wise Glasses",
+            "explain": "装着很厚镜片的眼镜.\n携带后，特殊招式的威力提高10%.",
+            "effect": ""
+        },
+        {
+            "id": 528,
+            "type": "对战道具",
+            "cName": "讲究眼镜",
+            "eName": "Choice Specs",
+            "explain": "有点讲究的眼镜.\n虽然携带后特攻会提高50%，但只能使出相同的招式.",
+            "effect": ""
+        },
+        {
+            "id": 529,
+            "type": "对战道具",
+            "cName": "先制之爪",
+            "eName": "Quick Claw",
+            "explain": "又轻又尖锐的爪子.\n携带后，PP回复速度提高10%.",
+            "effect": ""
+        },
+        {
+            "id": 530,
+            "type": "对战道具",
+            "cName": "破坏基因",
+            "eName": "Berserk Gene",
+            "explain": "出场后立即消耗，携带该道具的宝可梦陷入长时间混乱状态并提升2级攻击。",
+            "effect": ""
+        },
+        {
+            "id": 531,
+            "type": "对战道具",
+            "cName": "红线",
+            "eName": "Destiny Knot",
+            "explain": "长长的鲜红色细线.\n携带后，在自己陷入着迷状态时能让对手也陷入着迷状态.",
+            "effect": ""
+        },
+        {
+            "id": 532,
+            "type": "对战道具",
+            "cName": "黑线",
+            "eName": "Black Knot",
+            "explain": "长长的黑色细线.\n携带后，在自己陷入诅咒状态时能让对手也陷入诅咒状态.",
+            "effect": ""
+        },
+        {
+            "id": 533,
+            "type": "对战道具",
+            "cName": "讲究围巾",
+            "eName": "Choice Scarf",
+            "explain": "有点讲究的围巾.\n虽然携带后速度会提高50%，但只能使出相同的招式.",
+            "effect": ""
+        },
+        {
+            "id": 534,
+            "type": "对战道具",
+            "cName": "焦点镜",
+            "eName": "Scope Lens",
+            "explain": "能看见弱点的镜片.\n携带它的宝可梦的招式会变得容易击中要害.",
+            "effect": ""
+        },
+        {
+            "id": 535,
+            "type": "对战道具",
+            "cName": "大根茎",
+            "eName": "Big Root",
+            "explain": "携带者使用的吸取HP的招式生效时，HP恢复量增加30%，造成的伤害不变.",
+            "effect": ""
+        },
+        {
+            "id": 536,
+            "type": "对战道具",
+            "cName": "光之黏土",
+            "eName": "Light Clay",
+            "explain": "当携带它的宝可梦使出光墙或反射壁时，持续时间从10秒增加到15秒.",
+            "effect": ""
+        },
+        {
+            "id": 537,
+            "type": "对战道具",
+            "cName": "炽热岩石",
+            "eName": "Heat Rock",
+            "explain": "携带它的宝可梦使出大晴天的话，晴天的持续时间从10秒增加到15秒.",
+            "effect": ""
+        },
+        {
+            "id": 538,
+            "type": "对战道具",
+            "cName": "冰冷岩石",
+            "eName": "Icy Rock",
+            "explain": "携带它的宝可梦使出冰雹的话，冰雹的持续时间从10秒增加到15秒.",
+            "effect": ""
+        },
+        {
+            "id": 539,
+            "type": "对战道具",
+            "cName": "潮湿岩石",
+            "eName": "Damp Rock",
+            "explain": "携带它的宝可梦使出求雨的话，雨天的持续时间从10秒增加到15秒.",
+            "effect": ""
+        },
+        {
+            "id": 540,
+            "type": "对战道具",
+            "cName": "沙沙岩石",
+            "eName": "Smooth Rock",
+            "explain": "携带它的宝可梦使出沙暴的话，沙暴的持续时间从10秒增加到15秒.",
+            "effect": ""
+        },
+        {
+            "id": 541,
+            "type": "对战道具",
+            "cName": "对焦镜",
+            "eName": "Zoom Lens",
+            "explain": "携带后，可以避免命中率被降低.",
+            "effect": ""
+        },
+        {
+            "id": 542,
+            "type": "对战道具",
+            "cName": "生命宝珠",
+            "eName": "Life Orb",
+            "explain": "携带后，虽然每次攻击时会减少10%，但招式的威力会提高30%.",
+            "effect": ""
+        },
+        {
+            "id": 543,
+            "type": "对战道具",
+            "cName": "红牌",
+            "eName": "Red Card",
+            "explain": "有着神奇力量的卡片.\n携带后，能让使用了招式的对手退场.",
+            "effect": ""
+        },
+        {
+            "id": 544,
+            "type": "对战道具",
+            "cName": "弱点保险",
+            "eName": "Weakness Policy",
+            "explain": "被针对弱点时，攻击和特攻就会提高2级.",
+            "effect": ""
+        },
+        {
+            "id": 545,
+            "type": "对战道具",
+            "cName": "幸运蛋",
+            "eName": "Lucky Egg",
+            "explain": "满载着幸福的蛋.\n携带它的宝可梦获得的经验值会增加50%.",
+            "effect": ""
+        },
+        {
+            "id": 546,
+            "type": "对战道具",
+            "cName": "电气球",
+            "eName": "Light Ball",
+            "explain": "让皮卡丘携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 547,
+            "type": "对战道具",
+            "cName": "波导球",
+            "eName": "Aura Sphere",
+            "explain": "让利欧路携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 548,
+            "type": "对战道具",
+            "cName": "伊布球",
+            "eName": "Eon Sphere",
+            "explain": "让伊布携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 549,
+            "type": "对战道具",
+            "cName": "草球",
+            "eName": "Grass Sphere",
+            "explain": "让草系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 550,
+            "type": "对战道具",
+            "cName": "火球",
+            "eName": "Flame Sphere",
+            "explain": "让火系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 551,
+            "type": "对战道具",
+            "cName": "水球",
+            "eName": "Water Sphere",
+            "explain": "让水系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+            "effect": ""
+        },
+        {
+            "id": 552,
+            "type": "对战道具",
+            "cName": "后攻之尾",
+            "eName": "Lagging Tail",
+            "explain": "非常沉重的某种尾巴.\n携带后，先制招式失去先制效果.",
+            "effect": ""
+        },
+        {
+            "id": 553,
+            "type": "贵重物品",
+            "cName": "秘密琥珀",
+            "eName": "Old Amber",
+            "explain": "封存着古代宝可梦遗传基因的琥珀，透着点红色.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 554,
+            "type": "贵重物品",
+            "cName": "贝壳化石",
+            "eName": "Helix Fossil",
+            "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是贝壳的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 555,
+            "type": "贵重物品",
+            "cName": "甲壳化石",
+            "eName": "Dome Fossil",
+            "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是甲壳的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 556,
+            "type": "贵重物品",
+            "cName": "根状化石",
+            "eName": "Root Fossil",
+            "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是根的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 557,
+            "type": "贵重物品",
+            "cName": "爪子化石",
+            "eName": "Claw Fossil",
+            "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是爪子的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 558,
+            "type": "贵重物品",
+            "cName": "盾甲化石",
+            "eName": "Armor Fossil",
+            "explain": "很久以前生活在地上的古代宝可梦的化石.好像是领饰的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 559,
+            "type": "贵重物品",
+            "cName": "头盖化石",
+            "eName": "Skull Fossil",
+            "explain": "很久以前生活在地上的古代宝可梦的化石.好像是头部的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 560,
+            "type": "贵重物品",
+            "cName": "羽毛化石",
+            "eName": "Plume Fossil",
+            "explain": "据说是鸟宝可梦的祖先，古代宝可梦的化石.好像是翅膀的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 561,
+            "type": "贵重物品",
+            "cName": "背盖化石",
+            "eName": "Cover Fossil",
+            "explain": "很久以前栖息在海里的古代宝可梦的化石.好像是后背的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 562,
+            "type": "贵重物品",
+            "cName": "鳍之化石",
+            "eName": "Sail Fossil",
+            "explain": "很久以前生活在地上的古代宝可梦的化石.好像是头鳍的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 563,
+            "type": "贵重物品",
+            "cName": "颚之化石",
+            "eName": "Jaw Fossil",
+            "explain": "很久以前生活在地上的古代宝可梦的化石.好像是很大的颚的一部分.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 564,
+            "type": "贵重物品",
+            "cName": "化石鱼",
+            "eName": "Fossilized Fish",
+            "explain": "远古时代的宝可梦化石残片.它曾栖息于大海，本来面目至今仍是未解之谜.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 565,
+            "type": "贵重物品",
+            "cName": "化石龙",
+            "eName": "Fossilized Drake",
+            "explain": "远古时代的宝可梦化石残片.它曾栖息于陆地，本来面目至今仍是未解之谜.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 566,
+            "type": "贵重物品",
+            "cName": "化石鸟",
+            "eName": "Fossilized Bird",
+            "explain": "远古时代的宝可梦化石残片.它曾翱翔于天空，本来面目至今仍是未解之谜.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 567,
+            "type": "贵重物品",
+            "cName": "化石海兽",
+            "eName": "Fossilized Dino",
+            "explain": "远古时代的宝可梦化石残片.它曾栖息于大海，本来面目至今仍是未解之谜.",
+            "effect": "可以在Kena Town使用化石复活机复活化石中的宝可梦."
+        },
+        {
+            "id": 568,
+            "type": "贵重物品",
+            "cName": "小蘑菇",
+            "eName": "Tiny Mushroom",
+            "explain": "珍稀的小蘑菇.在一些爱好者中有着相当高的人气.",
+            "effect": "可以在Rigel City回忆招式者旁边的NPC使用10个小蘑菇兑换1个大蘑菇."
+        },
+        {
+            "id": 569,
+            "type": "贵重物品",
+            "cName": "大蘑菇",
+            "eName": "Big Mushroom",
+            "explain": "珍稀的大蘑菇.在一些爱好者中有着非常高的人气.",
+            "effect": "可以在Rigel City找NPC使用1个大蘑菇回忆招式."
+        },
+        {
+            "id": 570,
+            "type": "贵重物品",
+            "cName": "芳香蘑菇",
+            "eName": "Balm Mushroom",
+            "explain": "能让附近一带芳香四溢的珍稀蘑菇.可以在商店高价出售.",
+            "effect": "可以在Rigel City的沙龙里找厨师使用1个芳香蘑菇兑换10个大蘑菇."
+        },
+        {
+            "id": 571,
+            "type": "贵重物品",
+            "cName": "贵重骨头",
+            "eName": "Rare Bone",
+            "explain": "在宝可梦考古学上非常贵重的骨头.",
+            "effect": "可以在商店以25,00€出售."
+        },
+        {
+            "id": 572,
+            "type": "贵重物品",
+            "cName": "神秘摆设",
+            "eName": "Strange Souvenir",
+            "explain": "在阿罗拉地区，据说是模仿古时候被称为守护神的神奇宝可梦而制作的摆设.",
+            "effect": ""
+        },
+        {
+            "id": 573,
+            "type": "贵重物品",
+            "cName": "星星碎片",
+            "eName": "Star Piece",
+            "explain": "闪着红光且十分美丽的宝石碎片.",
+            "effect": "可以在商店以50,00€出售."
+        },
+        {
+            "id": 574,
+            "type": "贵重物品",
+            "cName": "星星沙子",
+            "eName": "Stardust",
+            "explain": "手感细腻且十分美丽的红色沙子.",
+            "effect": "可以在商店以25,00€出售."
+        },
+        {
+            "id": 575,
+            "type": "贵重物品",
+            "cName": "彗星碎片",
+            "eName": "Comet Shard",
+            "explain": "彗星临近时，掉落到地表上的碎片.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以150,00€出售."
+        },
+        {
+            "id": 576,
+            "type": "贵重物品",
+            "cName": "珍珠",
+            "eName": "Pearl",
+            "explain": "散发着美丽银辉且有点小的珍珠.",
+            "effect": "可以在商店以20,00€出售."
+        },
+        {
+            "id": 577,
+            "type": "贵重物品",
+            "cName": "大珍珠",
+            "eName": "Big Pearl",
+            "explain": "散发着美丽银辉且相当大颗的珍珠.",
+            "effect": "可以在商店以40,00€出售."
+        },
+        {
+            "id": 578,
+            "type": "贵重物品",
+            "cName": "丸子珍珠",
+            "eName": "Pearl String",
+            "explain": "散发着美丽银辉且非常大颗的珍珠.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以250,00€出售."
+        },
+        {
+            "id": 579,
+            "type": "贵重物品",
+            "cName": "金珠",
+            "eName": "Nugget",
+            "explain": "闪着金光，以纯金制成的珠子.",
+            "effect": "可以在商店以50,00€出售."
+        },
+        {
+            "id": 580,
+            "type": "贵重物品",
+            "cName": "巨大金珠",
+            "eName": "Big Nugget",
+            "explain": "以纯金制成，闪着金光的大珠子.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以300,00€出售."
+        },
+        {
+            "id": 581,
+            "type": "贵重物品",
+            "cName": "蓝宝石",
+            "eName": "Sapphire",
+            "explain": "一块可以卖到高价的宝石.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+        },
+        {
+            "id": 582,
+            "type": "贵重物品",
+            "cName": "红宝石",
+            "eName": "Ruby",
+            "explain": "一块可以卖到高价的宝石.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+        },
+        {
+            "id": 583,
+            "type": "贵重物品",
+            "cName": "绿宝石",
+            "eName": "Emerald",
+            "explain": "一块可以卖到高价的宝石.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+        },
+        {
+            "id": 584,
+            "type": "贵重物品",
+            "cName": "古代铜币",
+            "eName": "Relic Copper",
+            "explain": "约3000年前的文明使用的铜币.",
+            "effect": "可以在商店以10,00€出售."
+        },
+        {
+            "id": 585,
+            "type": "贵重物品",
+            "cName": "古代银币",
+            "eName": "Relic Silver",
+            "explain": "约3000年前的文明使用的银币.",
+            "effect": "可以在商店以50,00€出售."
+        },
+        {
+            "id": 586,
+            "type": "贵重物品",
+            "cName": "古代金币",
+            "eName": "Relic Gold",
+            "explain": "约3000年前的文明使用的金币.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+        },
+        {
+            "id": 587,
+            "type": "贵重物品",
+            "cName": "古代之壶",
+            "eName": "Relic Vase",
+            "explain": "约3000年前的文明制造的壶.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+        },
+        {
+            "id": 588,
+            "type": "贵重物品",
+            "cName": "古代手镯",
+            "eName": "Relic Band",
+            "explain": "约3000年前的文明制造的手镯.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+        },
+        {
+            "id": 589,
+            "type": "贵重物品",
+            "cName": "古代石像",
+            "eName": "Relic Statue",
+            "explain": "约3000年前的文明制造的石像.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+        },
+        {
+            "id": 590,
+            "type": "贵重物品",
+            "cName": "古代王冠",
+            "eName": "Relic Crown",
+            "explain": "约3000年前的文明制造的王冠.",
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+        },
+        {
+            "id": 591,
+            "type": "超级石",
+            "cName": "妙蛙花进化石",
+            "eName": "Venusaurite",
+            "explain": "让妙蛙花携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 592,
+            "type": "超级石",
+            "cName": "喷火龙进化石X",
+            "eName": "Charizardite X",
+            "explain": "让喷火龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 593,
+            "type": "超级石",
+            "cName": "喷火龙进化石Y",
+            "eName": "Charizardite Y",
+            "explain": "让喷火龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 594,
+            "type": "超级石",
+            "cName": "水箭龟进化石",
+            "eName": "Blastoisinite",
+            "explain": "让水箭龟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 595,
+            "type": "超级石",
+            "cName": "大针蜂进化石",
+            "eName": "Beedrillite",
+            "explain": "大针蜂携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 596,
+            "type": "超级石",
+            "cName": "大比鸟进化石",
+            "eName": "Pidgeotite",
+            "explain": "让大比鸟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 597,
+            "type": "超级石",
+            "cName": "皮卡蓝进化石",
+            "eName": "Pikablutite",
+            "explain": "让皮卡蓝携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 598,
+            "type": "超级石",
+            "cName": "胡地进化石",
+            "eName": "Alakazite",
+            "explain": "让胡地携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 599,
+            "type": "超级石",
+            "cName": "呆壳兽进化石",
+            "eName": "Slowbronite",
+            "explain": "让呆壳兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 600,
+            "type": "超级石",
+            "cName": "耿鬼进化石",
+            "eName": "Gengarite",
+            "explain": "让耿鬼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 601,
+            "type": "超级石",
+            "cName": "袋兽进化石",
+            "eName": "Kangaskhanite",
+            "explain": "让袋兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 602,
+            "type": "超级石",
+            "cName": "凯罗斯进化石",
+            "eName": "Pinsirite",
+            "explain": "让凯罗斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 603,
+            "type": "超级石",
+            "cName": "暴鲤龙进化石",
+            "eName": "Gyaradosite",
+            "explain": "让暴鲤龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 604,
+            "type": "超级石",
+            "cName": "化石翼龙进化石",
+            "eName": "Aerodactylite",
+            "explain": "让化石翼龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 605,
+            "type": "超级石",
+            "cName": "超梦进化石X",
+            "eName": "Mewtwonite X",
+            "explain": "让超梦携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 606,
+            "type": "超级石",
+            "cName": "超梦进化石Y",
+            "eName": "Mewtwonite Y",
+            "explain": "让超梦携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 607,
+            "type": "超级石",
+            "cName": "电龙进化石",
+            "eName": "Ampharosite",
+            "explain": "让电龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 608,
+            "type": "超级石",
+            "cName": "大钢蛇进化石",
+            "eName": "Steelixite",
+            "explain": "让大钢蛇携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 609,
+            "type": "超级石",
+            "cName": "巨钳螳螂进化石",
+            "eName": "Scizorite",
+            "explain": "让巨钳螳螂携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 610,
+            "type": "超级石",
+            "cName": "赫拉克罗斯进化石",
+            "eName": "Heracronite",
+            "explain": "让赫拉克罗斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 611,
+            "type": "超级石",
+            "cName": "黑鲁加进化石",
+            "eName": "Houndoominite",
+            "explain": "让黑鲁加携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 612,
+            "type": "超级石",
+            "cName": "班基拉斯进化石",
+            "eName": "Tyranitarite",
+            "explain": "让班基拉斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 613,
+            "type": "超级石",
+            "cName": "蜥蜴王进化石",
+            "eName": "Sceptilite",
+            "explain": "让蜥蜴王携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 614,
+            "type": "超级石",
+            "cName": "火焰鸡进化石",
+            "eName": "Blazikenite",
+            "explain": "让火焰鸡携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 615,
+            "type": "超级石",
+            "cName": "巨沼怪进化石",
+            "eName": "Swampertite",
+            "explain": "让巨沼怪携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 616,
+            "type": "超级石",
+            "cName": "沙奈朵进化石",
+            "eName": "Gardevoirite",
+            "explain": "让沙奈朵携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 617,
+            "type": "超级石",
+            "cName": "勾魂眼进化石",
+            "eName": "Sablenite",
+            "explain": "让勾魂眼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 618,
+            "type": "超级石",
+            "cName": "大嘴娃进化石",
+            "eName": "Mawilite",
+            "explain": "让大嘴娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 619,
+            "type": "超级石",
+            "cName": "波士可多拉进化石",
+            "eName": "Aggronite",
+            "explain": "让波士可多拉携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 620,
+            "type": "超级石",
+            "cName": "雷电兽进化石",
+            "eName": "Manectite",
+            "explain": "让雷电兽携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 621,
+            "type": "超级石",
+            "cName": "恰雷姆进化石",
+            "eName": "Medichamite",
+            "explain": "让恰雷姆携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 622,
+            "type": "超级石",
+            "cName": "诅咒娃娃进化石",
+            "eName": "Banettite",
+            "explain": "让诅咒娃娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 623,
+            "type": "超级石",
+            "cName": "巨牙鲨进化石",
+            "eName": "Sharpedonite",
+            "explain": "让巨牙鲨携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 624,
+            "type": "超级石",
+            "cName": "喷火驼进化石",
+            "eName": "Cameruptite",
+            "explain": "喷火驼携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 625,
+            "type": "超级石",
+            "cName": "七夕青鸟进化石",
+            "eName": "Altarianite",
+            "explain": "让七夕青鸟携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 626,
+            "type": "超级石",
+            "cName": "阿勃梭鲁进化石",
+            "eName": "Absolite",
+            "explain": "让阿勃梭鲁携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 627,
+            "type": "超级石",
+            "cName": "冰鬼护进化石",
+            "eName": "Glalitite",
+            "explain": "让冰鬼护携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 628,
+            "type": "超级石",
+            "cName": "巨金怪进化石",
+            "eName": "Metagrossite",
+            "explain": "让巨金怪携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 629,
+            "type": "超级石",
+            "cName": "暴飞龙进化石",
+            "eName": "Salamencite",
+            "explain": "暴飞龙携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 630,
+            "type": "超级石",
+            "cName": "拉帝亚斯进化石",
+            "eName": "Latiasite",
+            "explain": "让拉帝亚斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 631,
+            "type": "超级石",
+            "cName": "拉帝欧斯进化石",
+            "eName": "Latiosite",
+            "explain": "让拉帝欧斯携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 632,
+            "type": "超级石",
+            "cName": "长耳兔进化石",
+            "eName": "Lopunnite",
+            "explain": "长耳兔携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 633,
+            "type": "超级石",
+            "cName": "路卡利欧进化石",
+            "eName": "Lucarionite",
+            "explain": "让路卡利欧携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 634,
+            "type": "超级石",
+            "cName": "烈咬陆鲨进化石",
+            "eName": "Garchompite",
+            "explain": "让烈咬陆鲨携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 635,
+            "type": "超级石",
+            "cName": "暴雪王进化石",
+            "eName": "Abomasite",
+            "explain": "让暴雪王携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 636,
+            "type": "超级石",
+            "cName": "艾路雷朵进化石",
+            "eName": "Galladite",
+            "explain": "让艾路雷朵携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 637,
+            "type": "超级石",
+            "cName": "差不多娃娃进化石",
+            "eName": "Audinite",
+            "explain": "让差不多娃娃携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 638,
+            "type": "超级石",
+            "cName": "蒂安希进化石",
+            "eName": "Diancite",
+            "explain": "让蒂安希携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 639,
+            "type": "超级石",
+            "cName": "雷丘进化石",
+            "eName": "Raichite",
+            "explain": "让雷丘携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": ""
+        },
+        {
+            "id": 640,
+            "type": "超级石",
+            "cName": "伊布进化石",
+            "eName": "Eeveeite",
+            "explain": "让伊布携带后，在战斗时就能进行超级进化的一种神奇超级石.",
+            "effect": "根据第一个招式的属性，进化成对应属性的伊布."
+        },
+        {
+            "id": 641,
+            "type": "Z纯晶",
+            "cName": "一般Z",
+            "eName": "Normalium Z",
+            "explain": "能将一般属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 642,
+            "type": "Z纯晶",
+            "cName": "火Z",
+            "eName": "Firium Z",
+            "explain": "能将火属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 643,
+            "type": "Z纯晶",
+            "cName": "水Z",
+            "eName": "Waterium Z",
+            "explain": "能将水属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 644,
+            "type": "Z纯晶",
+            "cName": "草Z",
+            "eName": "Grassium Z",
+            "explain": "能将草属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 645,
+            "type": "Z纯晶",
+            "cName": "电Z",
+            "eName": "Electrium Z",
+            "explain": "能将电属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 646,
+            "type": "Z纯晶",
+            "cName": "岩石Z",
+            "eName": "Rockium Z",
+            "explain": "能将岩石属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 647,
+            "type": "Z纯晶",
+            "cName": "格斗Z",
+            "eName": "Fightinium Z",
+            "explain": "能将格斗属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 648,
+            "type": "Z纯晶",
+            "cName": "地面Z",
+            "eName": "Groundium Z",
+            "explain": "能将地面属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 649,
+            "type": "Z纯晶",
+            "cName": "超能力Z",
+            "eName": "Psychium Z",
+            "explain": "能将超能力属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 650,
+            "type": "Z纯晶",
+            "cName": "毒Z",
+            "eName": "Poisonium Z",
+            "explain": "能将毒属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 651,
+            "type": "Z纯晶",
+            "cName": "虫Z",
+            "eName": "Buginium Z",
+            "explain": "能将虫属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 652,
+            "type": "Z纯晶",
+            "cName": "冰Z",
+            "eName": "Icium Z",
+            "explain": "能将冰属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 653,
+            "type": "Z纯晶",
+            "cName": "恶Z",
+            "eName": "Darkinium Z",
+            "explain": "能将恶属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 654,
+            "type": "Z纯晶",
+            "cName": "钢Z",
+            "eName": "Steelium Z",
+            "explain": "能将钢属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 655,
+            "type": "Z纯晶",
+            "cName": "飞行Z",
+            "eName": "Flyinium Z",
+            "explain": "能将飞行属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 656,
+            "type": "Z纯晶",
+            "cName": "幽灵Z",
+            "eName": "Ghostium Z",
+            "explain": "能将幽灵属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 657,
+            "type": "Z纯晶",
+            "cName": "龙Z",
+            "eName": "Dragonium Z",
+            "explain": "能将龙属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 658,
+            "type": "Z纯晶",
+            "cName": "妖精Z",
+            "eName": "Fairium Z",
+            "explain": "能将妖精属性招式升级成Z招式的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 659,
+            "type": "Z纯晶",
+            "cName": "皮卡丘Z",
+            "eName": "Pikanium Z",
+            "explain": "能将皮卡丘的“伏特攻击”升级成特殊Z招式“皮卡皮卡必杀击”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 660,
+            "type": "Z纯晶",
+            "cName": "小智皮卡丘Z",
+            "eName": "Pikashunium Z",
+            "explain": "能将皮卡丘的“十万伏特”升级成特殊Z招式“千万伏特”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 661,
+            "type": "Z纯晶",
+            "cName": "阿罗拉雷丘Z",
+            "eName": "Aloraichium Z",
+            "explain": "能将阿罗拉雷丘的“十万伏特”升级成特殊Z招式“驾雷驭电戏冲浪”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 662,
+            "type": "Z纯晶",
+            "cName": "伊布Z",
+            "eName": "Eevium Z",
+            "explain": "能将伊布的“珍藏”升级成特殊Z招式“九彩升华齐聚顶”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 663,
+            "type": "Z纯晶",
+            "cName": "卡比兽Z",
+            "eName": "Snorlium Z",
+            "explain": "能将卡比兽的“终极冲击”升级成特殊Z招式“认真起来大爆击”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 664,
+            "type": "Z纯晶",
+            "cName": "梦幻Z",
+            "eName": "Mewnium Z",
+            "explain": "能将梦幻的“精神强念”升级成特殊Z招式“起源超新星大爆炸”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 665,
+            "type": "Z纯晶",
+            "cName": "狙射树枭Z",
+            "eName": "Decidium Z",
+            "explain": "能将狙射树枭的“缝影”升级成特殊Z招式“遮天蔽日暗影箭”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 666,
+            "type": "Z纯晶",
+            "cName": "炽焰咆哮虎Z",
+            "eName": "Incinium Z",
+            "explain": "能将炽焰咆哮虎的“DD金勾臂”升级成特殊Z招式“极恶飞跃粉碎击”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 667,
+            "type": "Z纯晶",
+            "cName": "西狮海壬Z",
+            "eName": "Primarium Z",
+            "explain": "能将西狮海壬的“泡影的咏叹调”升级成特殊Z招式“海神庄严交响乐”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 668,
+            "type": "Z纯晶",
+            "cName": "卡璞Z",
+            "eName": "Tapunium Z",
+            "explain": "能将卡璞们的“自然之怒”升级成特殊Z招式“巨人卫士・阿罗拉”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 669,
+            "type": "Z纯晶",
+            "cName": "玛夏多Z",
+            "eName": "Marshadium Z",
+            "explain": "能将玛夏多的“暗影偷盗”升级成特殊Z招式“七星夺魂腿”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 670,
+            "type": "Z纯晶",
+            "cName": "杖尾鳞甲龙Z",
+            "eName": "Kommonium Z",
+            "explain": "能将杖尾鳞甲龙的“鳞片噪音”升级成特殊Z招式“炽魂热舞烈音爆”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 671,
+            "type": "Z纯晶",
+            "cName": "鬃岩狼人Z",
+            "eName": "Lycanium Z",
+            "explain": "能将鬃岩狼人的“尖石攻击”升级成特殊Z招式“狼啸石牙飓风暴”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 672,
+            "type": "Z纯晶",
+            "cName": "索尔迦雷欧Z",
+            "eName": "Solganium Z",
+            "explain": "能将索尔迦雷欧和奈克洛兹玛(黄昏之鬃)的“流星闪冲”升级成特殊Z招式“日光回旋下苍穹”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 673,
+            "type": "Z纯晶",
+            "cName": "露奈雅拉Z",
+            "eName": "Lunalium Z",
+            "explain": "能将露奈雅拉和奈克洛兹玛(拂晓之翼)的“暗影之光”升级成特殊Z招式“月华飞溅落灵霄”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 674,
+            "type": "Z纯晶",
+            "cName": "谜拟丘Z",
+            "eName": "Mimikium Z",
+            "explain": "能将谜拟丘的“嬉闹”升级成特殊Z招式“亲密无间大乱揍”的Z力量结晶.",
+            "effect": ""
+        },
+        {
+            "id": 675,
+            "type": "Z纯晶",
+            "cName": "究极奈克洛兹玛Z",
+            "eName": "Ultranecrozium Z",
+            "explain": "能将究极奈克洛兹玛的“光子喷涌”升级成特殊Z招式“焚天灭世炽光爆”的Z力量结晶.",
+            "effect": "奈克洛兹玛(黄昏之鬃)或奈克洛兹玛(拂晓之翼)携带后，可以究极爆发成为究极奈克洛兹玛."
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+[
+    {
+        "id": 432,
+        "type": "树果",
+        "cName": "樱子果",
+        "eName": "Cheri Berry",
+        "esName": "Baya Zreza",
+        "explain": "可以治愈麻痹.",
+        "ceffect": ""
+    },
+    {
+        "id": 433,
+        "type": "树果",
+        "cName": "零余果",
+        "eName": "Chesto Berry",
+        "esName": "Baya Atania",
+        "explain": "可以治愈睡眠.",
+        "ceffect": ""
+    },
+    {
+        "id": 434,
+        "type": "树果",
+        "cName": "桃桃果",
+        "eName": "Pecha Berry",
+        "esName": "Baya Meloc",
+        "explain": "可以治愈中毒.",
+        "ceffect": ""
+    },
+    {
+        "id": 435,
+        "type": "树果",
+        "cName": "莓莓果",
+        "eName": "Rawst Berry",
+        "esName": "Baya Safre",
+        "explain": "可以治愈灼伤.",
+        "ceffect": ""
+    },
+    {
+        "id": 436,
+        "type": "树果",
+        "cName": "利木果",
+        "eName": "Aspear Berry",
+        "esName": "Baya Perasi",
+        "explain": "可以治愈冰冻.",
+        "ceffect": ""
+    },
+    {
+        "id": 437,
+        "type": "树果",
+        "cName": "苹野果",
+        "eName": "Leppa Berry",
+        "esName": "Baya Zanama",
+        "explain": "可以在战斗中恢复宝可梦所有PP.",
+        "ceffect": ""
+    },
+    {
+        "id": 438,
+        "type": "树果",
+        "cName": "橙橙果",
+        "eName": "Oran Berry",
+        "esName": "Baya Aranja",
+        "explain": "可以回复宝可梦10HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 439,
+        "type": "树果",
+        "cName": "柿仔果",
+        "eName": "Persim Berry",
+        "esName": "Baya Caquic",
+        "explain": "可以治愈混乱.",
+        "ceffect": ""
+    },
+    {
+        "id": 440,
+        "type": "树果",
+        "cName": "木子果",
+        "eName": "Lum Berry",
+        "esName": "Baya Ziuela",
+        "explain": "可以治愈所有异常状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 441,
+        "type": "树果",
+        "cName": "文柚果",
+        "eName": "Sitrus Berry",
+        "esName": "Baya Zidra",
+        "explain": "可以回复宝可梦25%HP.",
+        "ceffect": ""
+    },
+    {
+        "id": 442,
+        "type": "树果",
+        "cName": "勿花果",
+        "eName": "Figy Berry",
+        "esName": "Baya Higog",
+        "explain": "可以回复宝可梦1/3HP，但会造成混乱.",
+        "ceffect": ""
+    },
+    {
+        "id": 443,
+        "type": "树果",
+        "cName": "异奇果",
+        "eName": "Wiki Berry",
+        "esName": "Baya Wiki",
+        "explain": "可以回复宝可梦40%HP，但会造成烧伤.",
+        "ceffect": ""
+    },
+    {
+        "id": 444,
+        "type": "树果",
+        "cName": "芒芒果",
+        "eName": "Mago Berry",
+        "esName": "Baya Ango",
+        "explain": "可以回复宝可梦1/3HP，但会造成睡眠.",
+        "ceffect": ""
+    },
+    {
+        "id": 445,
+        "type": "树果",
+        "cName": "乐芭果",
+        "eName": "Aguav Berry",
+        "esName": "Baya Guaya",
+        "explain": "可以回复宝可梦40%HP，但会造成中毒.",
+        "ceffect": ""
+    },
+    {
+        "id": 446,
+        "type": "树果",
+        "cName": "芭亚果",
+        "eName": "Iapapa Berry",
+        "esName": "Baya Pabaya",
+        "explain": "可以回复宝可梦1/3HP，但会造成冰冻.",
+        "ceffect": ""
+    },
+    {
+        "id": 447,
+        "type": "树果",
+        "cName": "蔓莓果",
+        "eName": "Razz Berry",
+        "esName": "Baya Frambu",
+        "explain": "可以治愈着迷.",
+        "ceffect": ""
+    },
+    {
+        "id": 448,
+        "type": "树果",
+        "cName": "墨莓果",
+        "eName": "Bluk Berry",
+        "esName": "Baya Oram",
+        "explain": "可以治愈诅咒.",
+        "ceffect": ""
+    },
+    {
+        "id": 449,
+        "type": "树果",
+        "cName": "蕉香果",
+        "eName": "Nanab Berry",
+        "esName": "Baya Latano",
+        "explain": "可以治愈寄生.",
+        "ceffect": ""
+    },
+    {
+        "id": 450,
+        "type": "树果",
+        "cName": "西梨果",
+        "eName": "Wepear Berry",
+        "esName": "Baya Peragu",
+        "explain": "可以回复宝可梦1/2HP，但会造成寄生.",
+        "ceffect": ""
+    },
+    {
+        "id": 451,
+        "type": "树果",
+        "cName": "凰梨果",
+        "eName": "Pinap Berry",
+        "esName": "Baya Pinia",
+        "explain": "可以回复宝可梦1/2HP，但会造成诅咒.",
+        "ceffect": ""
+    },
+    {
+        "id": 452,
+        "type": "树果",
+        "cName": "榴石果",
+        "eName": "Pomeg Berry",
+        "esName": "Baya Grana",
+        "explain": "可以回复宝可梦1/3HP，但会造成着迷.",
+        "ceffect": ""
+    },
+    {
+        "id": 453,
+        "type": "树果",
+        "cName": "藻根果",
+        "eName": "Kelpsy Berry",
+        "esName": "Baya Algama",
+        "explain": "可以使濒死的宝可梦以1HP复活.",
+        "ceffect": "神奇糖果的制作材料之一."
+    },
+    {
+        "id": 454,
+        "type": "树果",
+        "cName": "比巴果",
+        "eName": "Qualot Berry",
+        "esName": "Baya Ispero",
+        "explain": "可以在战斗中提升防御.",
+        "ceffect": ""
+    },
+    {
+        "id": 455,
+        "type": "树果",
+        "cName": "哈密果",
+        "eName": "Hondew Berry",
+        "esName": "Baya Meluce",
+        "explain": "可以在战斗中提升攻击.",
+        "ceffect": ""
+    },
+    {
+        "id": 456,
+        "type": "树果",
+        "cName": "萄葡果",
+        "eName": "Grepa Berry",
+        "esName": "Baya Uvav",
+        "explain": "可以在战斗中提升特攻.",
+        "ceffect": ""
+    },
+    {
+        "id": 457,
+        "type": "树果",
+        "cName": "茄番果",
+        "eName": "Tamato Berry",
+        "esName": "Baya Tamate",
+        "explain": "可以在战斗中提升特防.",
+        "ceffect": ""
+    },
+    {
+        "id": 458,
+        "type": "树果",
+        "cName": "玉黍果",
+        "eName": "Cornn Berry",
+        "esName": "Baya Mais",
+        "explain": "可以在战斗中提升速度.",
+        "ceffect": ""
+    },
+    {
+        "id": 459,
+        "type": "树果",
+        "cName": "岳竹果",
+        "eName": "Magost Berry",
+        "esName": "Baya Aostan",
+        "explain": "使宝可梦更难捕捉.",
+        "ceffect": ""
+    },
+    {
+        "id": 460,
+        "type": "树果",
+        "cName": "茸丹果",
+        "eName": "Rabuta Berry",
+        "esName": "Baya Rautan",
+        "explain": "使宝可梦更容易捕捉.",
+        "ceffect": ""
+    },
+    {
+        "id": 461,
+        "type": "树果",
+        "cName": "檬柠果",
+        "eName": "Nomel Berry",
+        "esName": "Baya Monli",
+        "explain": "携带它的宝可梦获得的经验值会增加20%.",
+        "ceffect": "神奇糖果的制作材料之一."
+    },
+    {
+        "id": 462,
+        "type": "树果",
+        "cName": "刺角果",
+        "eName": "Spelon Berry",
+        "esName": "Baya Wikano",
+        "explain": "敌人在使用物理攻击时，会受到反伤.",
+        "ceffect": ""
+    },
+    {
+        "id": 463,
+        "type": "树果",
+        "cName": "椰木果",
+        "eName": "Pamtre Berry",
+        "esName": "Baya Plama",
+        "explain": "在受到物理攻击时，会复制对方的状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 464,
+        "type": "树果",
+        "cName": "瓜西果",
+        "eName": "Watmel Berry",
+        "esName": "Baya Sambia",
+        "explain": "可以回复宝可梦40%HP，但会造成麻痹.",
+        "ceffect": ""
+    },
+    {
+        "id": 465,
+        "type": "树果",
+        "cName": "金枕果",
+        "eName": "Durin Berry",
+        "esName": "Baya Rudion",
+        "explain": "可以使宝可梦等级降低1级.\n(努力值也会随机降低1点)",
+        "ceffect": "神奇糖果的制作材料之一."
+    },
+    {
+        "id": 466,
+        "type": "树果",
+        "cName": "靛莓果",
+        "eName": "Belue Berry",
+        "esName": "Baya Andano",
+        "explain": "可以使宝可梦回忆当前等级恰好能学会的招式.",
+        "ceffect": "神奇糖果的制作材料之一."
+    },
+    {
+        "id": 467,
+        "type": "树果",
+        "cName": "枝荔果",
+        "eName": "Liechi Berry",
+        "esName": "Baya Lichi",
+        "explain": "如果携带者受到物理攻击，双方都会造成烧伤.",
+        "ceffect": ""
+    },
+    {
+        "id": 468,
+        "type": "树果",
+        "cName": "龙睛果",
+        "eName": "Ganlon Berry",
+        "esName": "Baya Gonlan",
+        "explain": "如果携带者受到物理攻击，双方都会造成中毒.",
+        "ceffect": ""
+    },
+    {
+        "id": 469,
+        "type": "树果",
+        "cName": "沙鳞果",
+        "eName": "Salac Berry",
+        "esName": "Baya Aslac",
+        "explain": "如果携带者受到物理攻击，双方都会造成混乱.",
+        "ceffect": ""
+    },
+    {
+        "id": 470,
+        "type": "树果",
+        "cName": "龙火果",
+        "eName": "Petaya Berry",
+        "esName": "Baya Yapati",
+        "explain": "如果携带者受到物理攻击，双方会交换道具.",
+        "ceffect": ""
+    },
+    {
+        "id": 471,
+        "type": "树果",
+        "cName": "杏仔果",
+        "eName": "Apicot Berry",
+        "esName": "Baya Aricoc",
+        "explain": "如果携带者受到物理攻击，双方都会造成着迷.",
+        "ceffect": ""
+    },
+    {
+        "id": 472,
+        "type": "树果",
+        "cName": "兰萨果",
+        "eName": "Lansat Berry",
+        "esName": "Baya Zonlan",
+        "explain": "当携带者HP低于1/3时，会增加击中要害机率.",
+        "ceffect": ""
+    },
+    {
+        "id": 473,
+        "type": "树果",
+        "cName": "星桃果",
+        "eName": "Starf Berry",
+        "esName": "Baya Arabol",
+        "explain": "可以使携带者免疫一击必杀的招式.",
+        "ceffect": "神奇糖果的制作材料之一."
+    },
+    {
+        "id": 474,
+        "type": "树果",
+        "cName": "谜芝果",
+        "eName": "Enigma Berry",
+        "esName": "Baya Enigma",
+        "explain": "可以使宝可梦的×4弱点变为×2弱点.",
+        "ceffect": ""
+    }
+]

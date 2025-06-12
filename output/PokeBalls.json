@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "type": "精灵球",
+        "cName": "精灵球",
+        "eName": "Poké Ball",
+        "esName": "Poké Ball",
+        "explain": "用于投向野生宝可梦并将其捕捉的球.",
+        "ceffect": "捕获率×1"
+    },
+    {
+        "id": 2,
+        "type": "精灵球",
+        "cName": "超级球",
+        "eName": "Great Ball",
+        "esName": "Super Ball",
+        "explain": "比起精灵球来更容易捉到宝可梦的，性能还算不错的球.",
+        "ceffect": "捕获率×1.5"
+    },
+    {
+        "id": 3,
+        "type": "精灵球",
+        "cName": "高级球",
+        "eName": "Ultra Ball",
+        "esName": "Ultra Ball",
+        "explain": "比起超级球来更容易捉到宝可梦的，性能非常不错的球.",
+        "ceffect": "捕获率×2"
+    },
+    {
+        "id": 4,
+        "type": "精灵球",
+        "cName": "纪念球",
+        "eName": "Premier Ball",
+        "esName": "Honor Ball",
+        "explain": "有点珍贵的球，特制出来的某种纪念品.",
+        "ceffect": "捕获率×1"
+    },
+    {
+        "id": 5,
+        "type": "精灵球",
+        "cName": "捕网球",
+        "eName": "Net Ball",
+        "esName": "Malla Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉水属性和虫属性的宝可梦.",
+        "ceffect": "若目标拥有水属性与虫属性中的一种或两种，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 6,
+        "type": "精灵球",
+        "cName": "潜水球",
+        "eName": "Dive Ball",
+        "esName": "Buceo Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉生活在水世界里的宝可梦.",
+        "ceffect": "如果在深海使用，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 7,
+        "type": "精灵球",
+        "cName": "计时球",
+        "eName": "Timer Ball",
+        "esName": "Turno Ball",
+        "explain": "有点与众不同的球.时间越久，宝可梦就会越容易捕捉.",
+        "ceffect": "如果时间小于 30 秒，则捕获率×0.5.\n如果时间超过 30 秒，则捕获率×1倍.\n如果时间超过 60 秒，则捕获率×2.\n但在540秒(9分钟)后，捕获率将停止增加."
+    },
+    {
+        "id": 8,
+        "type": "精灵球",
+        "cName": "豪华球",
+        "eName": "Luxury Ball",
+        "esName": "Lujo Ball",
+        "explain": "住着十分惬意的球.捉到的野生宝可梦会变得容易和训练家亲密.",
+        "ceffect": "捕获率×1.\n通过豪华球收服的宝可梦在提升亲密度时效果翻倍."
+    },
+    {
+        "id": 9,
+        "type": "精灵球",
+        "cName": "巢穴球",
+        "eName": "Nest Ball",
+        "esName": "Nido Ball",
+        "explain": "有点与众不同的球.捕捉的野生宝可梦越弱，就会越容易捕捉.",
+        "ceffect": "如果野生宝可梦的等级在 1 到 19 之间，则捕获率×4.\n如果野生宝可梦的等级在 20 到 29 之间，则捕获率×2.\n如果野生宝可梦的等级在 30 以上，则捕获率×1."
+    },
+    {
+        "id": 10,
+        "type": "精灵球",
+        "cName": "重复球",
+        "eName": "Repeat Ball",
+        "esName": "Acopio Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉以前曾捉到过的宝可梦.",
+        "ceffect": "若目标宝可梦已经在宝可梦图鉴上被登记捕获，捕获率×4，否则捕获率×1"
+    },
+    {
+        "id": 11,
+        "type": "精灵球",
+        "cName": "速度球",
+        "eName": "Fast Ball",
+        "esName": "Rapid Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉速度很高的宝可梦.",
+        "ceffect": "若目标的速度种族值≥100，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 12,
+        "type": "精灵球",
+        "cName": "等级球",
+        "eName": "Level Ball",
+        "esName": "Nivel Ball",
+        "explain": "有点与众不同的球.要捕捉的宝可梦比自己宝可梦的等级越低，就会越容易捕捉.",
+        "ceffect": "如果己方宝可梦等级是对方 2 倍及以上，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 13,
+        "type": "精灵球",
+        "cName": "诱饵球",
+        "eName": "Bait Ball",
+        "esName": "Cebo Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉用钓竿钓上来的宝可梦.",
+        "ceffect": "如果当前的战斗是由垂钓引发，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 14,
+        "type": "精灵球",
+        "cName": "沉重球",
+        "eName": "Weight Ball",
+        "esName": "Peso Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉身体沉重的宝可梦.",
+        "ceffect": "如果神奇宝贝的等级重量小于 100 kg，则捕获率×1.\n如果神奇宝贝的等级重量超过 100 kg，则捕获率将×2.\n如果重量在 200 kg之间，则捕获率×3.\n如果重量超过 300 kg，则捕获率×4."
+    },
+    {
+        "id": 15,
+        "type": "精灵球",
+        "cName": "甜蜜球",
+        "eName": "Love Ball",
+        "esName": "Amor Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉和自己宝可梦性别不同的宝可梦.",
+        "ceffect": "若当前出战的宝可梦与目标处于同一进化家族中，且性别相异，捕获率×8，否则捕获率×1."
+    },
+    {
+        "id": 16,
+        "type": "精灵球",
+        "cName": "友友球",
+        "eName": "Friend Ball",
+        "esName": "Amigo Ball",
+        "explain": "有点与众不同的球.捉到的野生宝可梦会立刻变得和训练家亲密起来.",
+        "ceffect": "捕获率×1.\n捕捉到的宝可梦的亲密度变为200."
+    },
+    {
+        "id": 17,
+        "type": "精灵球",
+        "cName": "月亮球",
+        "eName": "Moon Ball",
+        "esName": "Luna Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉使用月之石进化的宝可梦.",
+        "ceffect": "若目标是 使用月之石进化 或 妖精系 的宝可梦 或是 克雷色利亚 时，捕获率×4，否则捕获率×1."
+    },
+    {
+        "id": 18,
+        "type": "精灵球",
+        "cName": "治愈球",
+        "eName": "Heal Ball",
+        "esName": "Sana Ball",
+        "explain": "有点温柔的球.能回复捉到的宝可梦的HP并治愈异常状态.",
+        "ceffect": "捕获率×1.\n通过治愈球捕获的宝可梦在被捕获时恢复全部的HP与异常状态."
+    },
+    {
+        "id": 19,
+        "type": "精灵球",
+        "cName": "黑暗球",
+        "eName": "Dusk Ball",
+        "esName": "Ocaso Ball",
+        "explain": "有点与众不同的球.能很容易地在夜晚或洞窟等阴暗的地方捕捉宝可梦.",
+        "ceffect": "若当前位置为洞穴，或者当前时间为夜晚，捕获率×3.5，否则捕获率×1."
+    },
+    {
+        "id": 20,
+        "type": "精灵球",
+        "cName": "先机球",
+        "eName": "Fast Ball",
+        "esName": "Veloz Ball",
+        "explain": "有点与众不同的球.能很容易地捕捉速度很高的宝可梦.",
+        "ceffect": "如果时间少于 30 秒，则捕获率×4.\n如果时间超过 30 秒，则捕获率×2.5.\n如果时间超过 60 秒，则捕获率×1.\n但是 200 秒后它会停止减少."
+    },
+    {
+        "id": 21,
+        "type": "精灵球",
+        "cName": "贵重球",
+        "eName": "Glory Ball",
+        "esName": "Gloria Ball",
+        "explain": "相当珍贵的球.特制出来的某种纪念品.",
+        "ceffect": "捕获率×1"
+    },
+    {
+        "id": 22,
+        "type": "精灵球",
+        "cName": "狩猎球",
+        "eName": "Safari Ball",
+        "esName": "Safari Ball",
+        "explain": "仅能在大湿地中使用的特殊的球.上面有迷彩花纹.",
+        "ceffect": "捕获率×1.5"
+    },
+    {
+        "id": 23,
+        "type": "精灵球",
+        "cName": "究极球",
+        "eName": "Beast Ball",
+        "esName": "Ente Ball",
+        "explain": "为捕捉究极异兽而制作的特殊精灵球.很难捕捉究极异兽之外的宝可梦.",
+        "ceffect": "若目标是究极异兽(虚吾伊德，费洛美螂，爆肌蚊，电束木，铁火辉夜，纸御剑，恶食大王，砰头小丑，垒磊石，毒贝比，四颚针龙)，捕获率×5，否則捕获率×0.1."
+    },
+    {
+        "id": 24,
+        "type": "精灵球",
+        "cName": "星星球",
+        "eName": "Star Ball",
+        "esName": "Star Ball",
+        "explain": "一种捕获率十分惊人的精灵球.",
+        "ceffect": "捕获率×4"
+    },
+    {
+        "id": 25,
+        "type": "精灵球",
+        "cName": "黑球",
+        "eName": "Black Ball",
+        "esName": "Black Ball",
+        "explain": "一种黑色稀有的精灵球.",
+        "ceffect": "捕获率×5"
+    },
+    {
+        "id": 26,
+        "type": "精灵球",
+        "cName": "大师球",
+        "eName": "Master Ball",
+        "esName": "Master Ball",
+        "explain": "必定能捉到野生宝可梦的，性能最好的球.",
+        "ceffect": "捕获率×999"
+    }
+]

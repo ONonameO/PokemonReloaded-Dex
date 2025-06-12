@@ -1,0 +1,749 @@
+[
+    {
+        "id": 592,
+        "type": "重要物品",
+        "cName": "经验抑制装置",
+        "eName": "Exp. Inhibitor",
+        "esName": "Inhibidor de Exp.",
+        "explain": "该物品在背包时，全队宝可梦都无法获得经验.",
+        "ceffect": ""
+    },
+    {
+        "id": 593,
+        "type": "重要物品",
+        "cName": "智能手机",
+        "eName": "SmartPhone",
+        "esName": "Teléfono Móvil",
+        "explain": "一部手机，可以按F8给其他人打电话.",
+        "ceffect": ""
+    },
+    {
+        "id": 594,
+        "type": "重要物品",
+        "cName": "地图",
+        "eName": "Map",
+        "esName": "Mapa",
+        "explain": "一份地图，可以按M查看.",
+        "ceffect": ""
+    },
+    {
+        "id": 595,
+        "type": "重要物品",
+        "cName": "GPS",
+        "eName": "GPS",
+        "esName": "GPS",
+        "explain": "可以让你在不同地图之间飞行.",
+        "ceffect": ""
+    },
+    {
+        "id": 596,
+        "type": "重要物品",
+        "cName": "音乐播放器",
+        "eName": "xPod Star",
+        "esName": "xPod Star",
+        "explain": "可以让你聆听星之地区的音乐.",
+        "ceffect": ""
+    },
+    {
+        "id": 597,
+        "type": "重要物品",
+        "cName": "自行车",
+        "eName": "Bicycle",
+        "esName": "Bicicleta",
+        "explain": "能比跑步鞋跑得还快的折叠式自行车.\n可以按V使用.",
+        "ceffect": ""
+    },
+    {
+        "id": 598,
+        "type": "重要物品",
+        "cName": "破旧钓竿",
+        "eName": "Old Rod",
+        "esName": "Caña Vieja",
+        "explain": "又破又旧的钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+        "ceffect": ""
+    },
+    {
+        "id": 599,
+        "type": "重要物品",
+        "cName": "好钓竿",
+        "eName": "Good Rod",
+        "esName": "Caña Buena",
+        "explain": "不错的新钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+        "ceffect": ""
+    },
+    {
+        "id": 600,
+        "type": "重要物品",
+        "cName": "厉害钓竿",
+        "eName": "Super Rod",
+        "esName": "Super Caña",
+        "explain": "最新的厉害钓竿.在有水的地方使用的话，可以钓到宝可梦.\n可以按C使用.",
+        "ceffect": ""
+    },
+    {
+        "id": 601,
+        "type": "重要物品",
+        "cName": "宝可梦之笛",
+        "eName": "Poké Flute",
+        "esName": "Flauta Pkmn",
+        "explain": "能吹出让睡着的宝可梦都会情不自禁醒来的美妙音色的笛子.\n在战斗中可以按F使用.",
+        "ceffect": ""
+    },
+    {
+        "id": 602,
+        "type": "重要物品",
+        "cName": "Mega手环",
+        "eName": "Mega Ring",
+        "esName": "Mega-Aro",
+        "explain": "蕴藏着未知力量的圆环.能让携带着超级石战斗的宝可梦进行超级进化.",
+        "ceffect": ""
+    },
+    {
+        "id": 603,
+        "type": "重要物品",
+        "cName": "Z手环",
+        "eName": "Z-Powwer Ring",
+        "esName": "Pulsera Z",
+        "explain": "通过使用训练家的气力和体力来让宝可梦释放出Z力量的神奇手环.",
+        "ceffect": ""
+    },
+    {
+        "id": 604,
+        "type": "重要物品",
+        "cName": "喷壶",
+        "eName": "SquirtBottle",
+        "esName": "Regadera",
+        "explain": "浇水的道具.能让埋在松软土壤里的树果快快长大.",
+        "ceffect": ""
+    },
+    {
+        "id": 605,
+        "type": "重要物品",
+        "cName": "代币盒",
+        "eName": "Coin Case",
+        "esName": "Monedero",
+        "explain": "可以存放在游戏城获得的代币的盒子.",
+        "ceffect": ""
+    },
+    {
+        "id": 606,
+        "type": "重要物品",
+        "cName": "护符金币",
+        "eName": "Amulet Coin",
+        "esName": "Mon. Amuleto",
+        "explain": "只要携带它的宝可梦在战斗时出场，就能获得2倍金钱.",
+        "ceffect": ""
+    },
+    {
+        "id": 607,
+        "type": "重要物品",
+        "cName": "学习装置",
+        "eName": "Exp. Share",
+        "esName": "Repartir Exp.",
+        "explain": "打开开关后，能让同行的所有宝可梦获得经验值的装置.",
+        "ceffect": "参加战斗的宝可梦获得100%经验值，其余同行的宝可梦获得50%经验值."
+    },
+    {
+        "id": 608,
+        "type": "重要物品",
+        "cName": "笔记本",
+        "eName": "Notebook",
+        "esName": "Cuaderno",
+        "explain": "一本记录任务的笔记本.",
+        "ceffect": ""
+    },
+    {
+        "id": 609,
+        "type": "重要物品",
+        "cName": "闪耀护符",
+        "eName": "Shiny Charm",
+        "esName": "Amuleto Iris",
+        "explain": "拥有它之后，据说会更容易遇见闪光宝可梦的神奇闪光护符.",
+        "ceffect": ""
+    },
+    {
+        "id": 610,
+        "type": "重要物品",
+        "cName": "圆形护符",
+        "eName": "Oval Charm",
+        "esName": "Amuleto oval",
+        "explain": "拥有它之后，在寄放屋里会更容易找到蛋的神奇浑圆护符.",
+        "ceffect": ""
+    },
+    {
+        "id": 611,
+        "type": "重要物品",
+        "cName": "隐藏包裹",
+        "eName": "Hidden Package",
+        "esName": "Paquete Oculto",
+        "explain": "一个将被送到冰系道馆的包裹.",
+        "ceffect": ""
+    },
+    {
+        "id": 612,
+        "type": "重要物品",
+        "cName": "特殊药草",
+        "eName": "Special Herb",
+        "esName": "Hierba Especial",
+        "explain": "一种疗伤的药草，可以治疗挡路的咕妞妞.",
+        "ceffect": ""
+    },
+    {
+        "id": 613,
+        "type": "重要物品",
+        "cName": "刀",
+        "eName": "Knife",
+        "esName": "Cuchillo",
+        "explain": "一把属于龙系道馆馆主的旧刀.",
+        "ceffect": ""
+    },
+    {
+        "id": 614,
+        "type": "重要物品",
+        "cName": "斧",
+        "eName": "Axe",
+        "esName": "Hacha",
+        "explain": "一把属于龙系道馆馆主的旧斧头.",
+        "ceffect": ""
+    },
+    {
+        "id": 615,
+        "type": "重要物品",
+        "cName": "弓",
+        "eName": "Bow",
+        "esName": "Arco",
+        "explain": "一把属于龙系道馆馆主的旧弓.",
+        "ceffect": ""
+    },
+    {
+        "id": 616,
+        "type": "重要物品",
+        "cName": "中央钥匙",
+        "eName": "Central Key",
+        "esName": "Llave Central",
+        "explain": "星之地区Energy Island上发电厂的钥匙.",
+        "ceffect": ""
+    },
+    {
+        "id": 617,
+        "type": "重要物品",
+        "cName": "火箭队钥匙",
+        "eName": "Rocket Key",
+        "esName": "Llave Rocket",
+        "explain": "火箭队基地的钥匙，基地位于Pole City的下水道.",
+        "ceffect": ""
+    },
+    {
+        "id": 618,
+        "type": "重要物品",
+        "cName": "遗迹钥匙",
+        "eName": "Rekiem Key",
+        "esName": "Llave Rekiem",
+        "explain": "Rekiem Palace的钥匙.",
+        "ceffect": "打败该楼层所有Team Rekiem成员后出现在地面上."
+    },
+    {
+        "id": 619,
+        "type": "重要物品",
+        "cName": "未知钥匙",
+        "eName": "Matarile Key",
+        "esName": "Llave Matarile",
+        "explain": "一把未知用途的钥匙.",
+        "ceffect": ""
+    },
+    {
+        "id": 620,
+        "type": "重要物品",
+        "cName": "神秘通行证",
+        "eName": "Mystery Pass",
+        "esName": "Pase Misterio",
+        "explain": "允许你乘船前往Halley Island.",
+        "ceffect": ""
+    },
+    {
+        "id": 621,
+        "type": "重要物品",
+        "cName": "太阳通行证",
+        "eName": "Solar Pass",
+        "esName": "Pase Solar",
+        "explain": "允许你乘船前往太阳群岛(第三张大地图).",
+        "ceffect": ""
+    },
+    {
+        "id": 622,
+        "type": "重要物品",
+        "cName": "黑暗通行证",
+        "eName": "Dark Pass",
+        "esName": "Pase Oscuro",
+        "explain": "允许你乘船前往Pluto Island.",
+        "ceffect": ""
+    },
+    {
+        "id": 623,
+        "type": "重要物品",
+        "cName": "丛林通行证",
+        "eName": "Jungle Pass",
+        "esName": "Pase Jungla",
+        "explain": "允许你乘船前往丛林(第二张大地图).",
+        "ceffect": ""
+    },
+    {
+        "id": 624,
+        "type": "重要物品",
+        "cName": "前线通行证",
+        "eName": "Front Pass",
+        "esName": "Pase Frente",
+        "explain": "允许你乘船前往前线(对战开拓区).",
+        "ceffect": ""
+    },
+    {
+        "id": 625,
+        "type": "重要物品",
+        "cName": "等离子卡",
+        "eName": "Plasma Card",
+        "esName": "Tarjeta Plasma",
+        "explain": "这张卡可让你进入某些限制区域.",
+        "ceffect": ""
+    },
+    {
+        "id": 626,
+        "type": "重要物品",
+        "cName": "衣物箱",
+        "eName": "Travel Trunk",
+        "esName": "Maleta",
+        "explain": "能塞入任意时尚物品，收纳能力极佳的轻箱子.",
+        "ceffect": ""
+    },
+    {
+        "id": 627,
+        "type": "重要物品",
+        "cName": "古代护符",
+        "eName": "Old Charm",
+        "esName": "Talismán",
+        "explain": "这个物品看起来拥有一种神秘的力量.",
+        "ceffect": ""
+    },
+    {
+        "id": 628,
+        "type": "重要物品",
+        "cName": "银色之羽",
+        "eName": "Silver Wing",
+        "esName": "Ala Plateada",
+        "explain": "散发着银色光辉的神奇羽毛.\n与传说宝可梦洛奇亚有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 629,
+        "type": "重要物品",
+        "cName": "虹色之羽",
+        "eName": "Rainbow Wing",
+        "esName": "Ala Arcoiris",
+        "explain": "散发着虹色光辉的神奇羽毛.\n与传说宝可梦风王有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 630,
+        "type": "重要物品",
+        "cName": "GS球",
+        "eName": "GS Ball",
+        "esName": "GS Ball",
+        "explain": "一个由金和银制成的精灵球.\n据说是用来捕捉时拉比.",
+        "ceffect": ""
+    },
+    {
+        "id": 631,
+        "type": "重要物品",
+        "cName": "蓝色宝珠",
+        "eName": "Blue Orb",
+        "esName": "Esfera Azul",
+        "explain": "散发着蓝色光辉的宝珠.\n与传说宝可梦盖欧卡有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 632,
+        "type": "重要物品",
+        "cName": "红色宝珠",
+        "eName": "Red Orb",
+        "esName": "Esfera Roja",
+        "explain": "散发着红色光辉的宝珠.\n与传说宝可梦固拉多有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 633,
+        "type": "重要物品",
+        "cName": "绿色宝珠",
+        "eName": "Jade Orb",
+        "esName": "Esfera Verde",
+        "explain": "散发着绿色光辉的宝珠.\n与传说宝可梦烈空坐有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 634,
+        "type": "重要物品",
+        "cName": "电磁环",
+        "eName": "Elec. Ring",
+        "esName": "Anillo Elec.",
+        "explain": "一个能制造反转世界入口的电磁环.",
+        "ceffect": ""
+    },
+    {
+        "id": 635,
+        "type": "重要物品",
+        "cName": "白玉宝珠",
+        "eName": "Lustrous Orb",
+        "esName": "Lustresfera",
+        "explain": "帕路奇亚使用后形态转换为帕路奇亚(起源).\n帕路奇亚(起源)使用后形态转换为帕路奇亚.",
+        "ceffect": ""
+    },
+    {
+        "id": 636,
+        "type": "重要物品",
+        "cName": "金刚宝珠",
+        "eName": "Adamant Orb",
+        "esName": "Diamansfera",
+        "explain": "帝牙卢卡使用后形态转换为帝牙卢卡(起源).\n帝牙卢卡(起源)使用后形态转换为帝牙卢卡.",
+        "ceffect": ""
+    },
+    {
+        "id": 637,
+        "type": "重要物品",
+        "cName": "白金宝珠",
+        "eName": "Griseous Orb",
+        "esName": "Griseosfera",
+        "explain": "骑拉帝纳(别种)使用后形态转换为骑拉帝纳(起源).\n骑拉帝纳(起源)使用后形态转换为骑拉帝纳(别种).",
+        "ceffect": ""
+    },
+    {
+        "id": 638,
+        "type": "重要物品",
+        "cName": "新月之羽",
+        "eName": "Lunar Wing",
+        "esName": "Pluma Lunar",
+        "explain": "散发着月辉般光芒的羽毛，据说隐藏着可以驱散恶梦的力量.\n与传说宝可梦克雷色利亚有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 639,
+        "type": "重要物品",
+        "cName": "火山镇石",
+        "eName": "Magma Stone",
+        "esName": "Piedra Magma",
+        "explain": "被灼热熔岩熔化的岩石凝固后形成的产物，里面还留有熔岩.\n与传说宝可梦席多蓝恩有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 640,
+        "type": "重要物品",
+        "cName": "葛拉西蒂亚花",
+        "eName": "Gracidea",
+        "esName": "Flor Gracídea",
+        "explain": "在生日或纪念日等日子里，为了表达感激之情，有时会将其扎成花束送出.\n与传说宝可梦谢米有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 641,
+        "type": "重要物品",
+        "cName": "天界之笛",
+        "eName": "Azure Flute",
+        "esName": "Flauta Azur",
+        "explain": "能发出响彻云霄的天籁之音的笛子.不知道是谁在什么时候制造的它.",
+        "ceffect": ""
+    },
+    {
+        "id": 642,
+        "type": "重要物品",
+        "cName": "现形镜",
+        "eName": "Reveal Glass",
+        "esName": "Espejo Veraz",
+        "explain": "能够通过照出真实，让宝可梦变回原来样子的神奇镜子.\n与传说宝可梦龙卷云、雷电云和土地云有关.",
+        "ceffect": "可以让龙卷云、雷电云、土地云和眷恋云在2种形态之间切换."
+    },
+    {
+        "id": 643,
+        "type": "重要物品",
+        "cName": "惩戒之壶",
+        "eName": "Prison Bottle",
+        "esName": "Vasija Castigo",
+        "explain": "据说在很久以前封印着某只宝可梦力量的壶.\n与传说宝可梦胡帕有关.",
+        "ceffect": "可以让胡帕在2种形态之间切换."
+    },
+    {
+        "id": 644,
+        "type": "重要物品",
+        "cName": "太阳之笛",
+        "eName": "Sun Flute",
+        "esName": "Flauta solar",
+        "explain": "为了对太阳的传说的宝可梦表达感激之情，据说会用它来献上美乐.\n与传说宝可梦索尔迦雷欧有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 645,
+        "type": "重要物品",
+        "cName": "月亮之笛",
+        "eName": "Moon Flute",
+        "esName": "Flauta lunar",
+        "explain": "为了对月亮的传说的宝可梦表达感激之情，据说会用它来献上美乐.\n与传说宝可梦露奈雅拉有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 646,
+        "type": "重要物品",
+        "cName": "奈克洛索尔合体器",
+        "eName": "N-Solarizer",
+        "esName": "Necrosol",
+        "explain": "可以让奈克洛兹玛与索尔迦雷欧合体，使之变成奈克洛兹玛(黄昏之鬃).\n也可以让奈克洛兹玛(黄昏之鬃)分离为奈克洛兹玛与索尔迦雷欧.",
+        "ceffect": ""
+    },
+    {
+        "id": 647,
+        "type": "重要物品",
+        "cName": "奈克洛露奈合体器",
+        "eName": "N-Lunarizer",
+        "esName": "Necroluna",
+        "explain": "可以让奈克洛兹玛与露奈雅拉合体，使之变成奈克洛兹玛(拂晓之翼).\n也可以让奈克洛兹玛(拂晓之翼)分离为奈克洛兹玛与露奈雅拉.",
+        "ceffect": ""
+    },
+    {
+        "id": 648,
+        "type": "重要物品",
+        "cName": "基格尔德多面体",
+        "eName": "Zygarde Cube",
+        "esName": "Arca de Zygarde",
+        "explain": "用于收集宝可梦基格尔德的核心和细胞的道具.",
+        "ceffect": ""
+    },
+    {
+        "id": 649,
+        "type": "重要物品",
+        "cName": "绿色电线",
+        "eName": "Green Cable",
+        "esName": "Cable Verde",
+        "explain": "绿色铜电线.",
+        "ceffect": ""
+    },
+    {
+        "id": 650,
+        "type": "重要物品",
+        "cName": "蓝色电线",
+        "eName": "Blue Cable",
+        "esName": "Cable Azul",
+        "explain": "蓝色铜电线.",
+        "ceffect": ""
+    },
+    {
+        "id": 651,
+        "type": "重要物品",
+        "cName": "紫色电线",
+        "eName": "Purple Cable",
+        "esName": "Cable Violeta",
+        "explain": "紫色铜电线.",
+        "ceffect": ""
+    },
+    {
+        "id": 652,
+        "type": "重要物品",
+        "cName": "红色电线",
+        "eName": "Red Cable",
+        "esName": "Cable Rojo",
+        "explain": "红色铜电线.",
+        "ceffect": ""
+    },
+    {
+        "id": 653,
+        "type": "重要物品",
+        "cName": "黄色电线",
+        "eName": "Yellow Cable",
+        "esName": "Cable Amarillo",
+        "explain": "黄色铜电线.",
+        "ceffect": ""
+    },
+    {
+        "id": 654,
+        "type": "重要物品",
+        "cName": "翡翠权杖",
+        "eName": "Ruby Scepter",
+        "esName": "Cetro Esmeralda",
+        "explain": "价值不菲的翡翠权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 655,
+        "type": "重要物品",
+        "cName": "红宝石权杖",
+        "eName": "Sapphire Scepter",
+        "esName": "Cetro Rubí",
+        "explain": "价值不菲的红宝石权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 656,
+        "type": "重要物品",
+        "cName": "蓝宝石权杖",
+        "eName": "Emerald Scepter",
+        "esName": "Cetro Zafiro",
+        "explain": "价值不菲的蓝宝石权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 657,
+        "type": "重要物品",
+        "cName": "青铜权杖",
+        "eName": "Bronze Scepter",
+        "esName": "Cetro Bronce",
+        "explain": "价值不菲的青铜权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 658,
+        "type": "重要物品",
+        "cName": "白银权杖",
+        "eName": "Silver Scepter",
+        "esName": "Cetro Plateado",
+        "explain": "价值不菲的白银权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 659,
+        "type": "重要物品",
+        "cName": "黄金权杖",
+        "eName": "Golden Scepter",
+        "esName": "Cetro Dorado",
+        "explain": "价值不菲的黄金权杖.",
+        "ceffect": ""
+    },
+    {
+        "id": 660,
+        "type": "重要物品",
+        "cName": "星星耳环",
+        "eName": "Star Earring",
+        "esName": "Pendiente Star",
+        "explain": "在Llanos Island找到的特殊物品.",
+        "ceffect": ""
+    },
+    {
+        "id": 661,
+        "type": "重要物品",
+        "cName": "古代容器",
+        "eName": "Ancient Vessel",
+        "esName": "Vasija ancestral",
+        "explain": "在Nebula Island找到的特殊物品.",
+        "ceffect": ""
+    },
+    {
+        "id": 662,
+        "type": "重要物品",
+        "cName": "秘密卷轴",
+        "eName": "Secret Scroll",
+        "esName": "Pergamino secreto",
+        "explain": "在Supernova Island找到的特殊物品.",
+        "ceffect": ""
+    },
+    {
+        "id": 663,
+        "type": "重要物品",
+        "cName": "诅咒之戒",
+        "eName": "Cursed Ring",
+        "esName": "Anillo Maldito",
+        "explain": "在Spirit Island找到的特殊物品.",
+        "ceffect": ""
+    },
+    {
+        "id": 664,
+        "type": "重要物品",
+        "cName": "腐朽的盾",
+        "eName": "Rusted Shield",
+        "esName": "Escudo Oxidado",
+        "explain": "据说很久以前，英雄就是拿着这面盾驱走了灾厄。而现在早已变得锈迹斑斑。",
+        "ceffect": "藏玛然特（百战勇者）携带后，在对战中会以藏玛然特（盾之王）登场。"
+    },
+    {
+        "id": 665,
+        "type": "重要物品",
+        "cName": "腐朽的剑",
+        "eName": "Rusted Sword",
+        "esName": "Espada Oxidada",
+        "explain": "据说很久以前，英雄就是拿着这把剑驱走了灾厄。而现在早已变得锈迹斑斑。",
+        "ceffect": "苍响（百战勇者）携带后，在对战中会以苍响（剑之王）登场。"
+    },
+    {
+        "id": 666,
+        "type": "重要物品",
+        "cName": "极巨腕带",
+        "eName": "Dynamax Band",
+        "esName": "Maximu equera",
+        "explain": "可以对宝可梦进行极巨化和超级巨化，每场对战中只限一次。",
+        "ceffect": ""
+    },
+    {
+        "id": 667,
+        "type": "重要物品",
+        "cName": "极巨结晶",
+        "eName": "Dynamax Crystal",
+        "esName": "Cristal Dinamax",
+        "explain": "宝可梦携带后，可以进行极巨化.",
+        "ceffect": ""
+    },
+    {
+        "id": 668,
+        "type": "重要物品",
+        "cName": "超极巨结晶",
+        "eName": "Gigamax Crystal",
+        "esName": "Cristal Gigaamax",
+        "explain": "宝可梦携带后，可以进行超极巨化.",
+        "ceffect": ""
+    },
+    {
+        "id": 669,
+        "type": "重要物品",
+        "cName": "白色鬃毛",
+        "eName": "White Mane Hair",
+        "esName": "Crin Blanca",
+        "explain": "丰饶之王的爱马雪暴马的鬃毛，既结实又柔韧.\n与传说宝可梦雪暴马有关.",
+        "ceffect": "把白色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+    },
+    {
+        "id": 670,
+        "type": "重要物品",
+        "cName": "黑色鬃毛",
+        "eName": "Black Mane Hair",
+        "esName": "Crin Negra",
+        "explain": "丰饶之王的爱马灵幽马的鬃毛，摸起来非常柔顺.\n与传说宝可梦灵幽马有关.",
+        "ceffect": "把黑色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+    },
+    {
+        "id": 671,
+        "type": "重要物品",
+        "cName": "光辉花瓣",
+        "eName": "Radiant Petal",
+        "esName": "Pétalo fulgor",
+        "explain": "从丰饶之王那里得到的一片花瓣，散发着朦胧的光辉。\n与传说宝可梦蕾冠王有关.",
+        "ceffect": "把白色鬃毛或黑色鬃毛和光辉花瓣一起交给村长后，皮欧尼会来缝制牵绊缰绳。"
+    },
+    {
+        "id": 672,
+        "type": "重要物品",
+        "cName": "牵绊缰绳",
+        "eName": "Reins of Unity",
+        "esName": "Riendas Unión",
+        "explain": "拿到光下即可生辉的布。人们曾经将其进献给丰饶之王以表感谢之意.\n与传说宝可梦无极汰那有关.",
+        "ceffect": "让蕾冠王与雪暴马合体，使之变成蕾冠王（骑白马的样子）。\n让蕾冠王与灵幽马合体，使之变成蕾冠王（骑黑马的样子）。\n让蕾冠王（骑白马的样子）分离为蕾冠王和雪暴马。\n让蕾冠王（骑黑马的样子）分离为蕾冠王和灵幽马。"
+    },
+    {
+        "id": 673,
+        "type": "重要物品",
+        "cName": "许愿星",
+        "eName": "Wishing Star",
+        "esName": "Estrella Deseo",
+        "explain": "这是一块在伽勒尔地区发现的蕴含着神奇力量的石头，听说捡到它的人能实现自己的愿望.\n与传说宝可梦无极汰那有关.",
+        "ceffect": ""
+    },
+    {
+        "id": 674,
+        "type": "重要物品",
+        "cName": "无人机",
+        "eName": "Drone Star",
+        "esName": "Dron Star",
+        "explain": "可以在野外空旷地区飞行，探索该区域.",
+        "ceffect": ""
+    }
+]

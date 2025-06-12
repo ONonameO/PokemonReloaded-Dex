@@ -1,0 +1,758 @@
+[
+    {
+        "id": 225,
+        "type": "对战道具",
+        "cName": "丝绸围巾",
+        "eName": "Silk Scarf",
+        "esName": "Pañuelo Seda",
+        "explain": "手感不错的围巾.\n携带后，一般属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 226,
+        "type": "对战道具",
+        "cName": "木炭",
+        "eName": "Charcoal",
+        "esName": "Carbón",
+        "explain": "焚烧用的燃料.\n携带后，火属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 227,
+        "type": "对战道具",
+        "cName": "神秘水滴",
+        "eName": "Mystic Water",
+        "esName": "Agua Mística",
+        "explain": "水滴形状的宝石.\n携带后，水属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 228,
+        "type": "对战道具",
+        "cName": "奇迹种子",
+        "eName": "Miracle Seed",
+        "esName": "Semilla Milagro",
+        "explain": "孕育生命的种子.\n携带后，草属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 229,
+        "type": "对战道具",
+        "cName": "磁铁",
+        "eName": "Magnet",
+        "esName": "Imán",
+        "explain": "强力的磁铁.\n携带后，电属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 230,
+        "type": "对战道具",
+        "cName": "硬石头",
+        "eName": "Hard Stone",
+        "esName": "Piedra Dura",
+        "explain": "绝对不会裂开的石头.\n携带后，岩石属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 231,
+        "type": "对战道具",
+        "cName": "黑带",
+        "eName": "Black Belt",
+        "esName": "Cinturón Negro",
+        "explain": "能振作精神的带子.\n携带后，格斗属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 232,
+        "type": "对战道具",
+        "cName": "柔软沙子",
+        "eName": "Soft Sand",
+        "esName": "Arena Fina",
+        "explain": "手感细腻的沙子.\n携带后，地面属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 233,
+        "type": "对战道具",
+        "cName": "弯曲的汤匙",
+        "eName": "Twisted Spoon",
+        "esName": "Cuchara Torcida",
+        "explain": "注入了念力的汤匙.\n携带后，超能力属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 234,
+        "type": "对战道具",
+        "cName": "毒针",
+        "eName": "Poison Barb",
+        "esName": "Flecha Ven.",
+        "explain": "有毒的小针.\n携带后，毒属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 235,
+        "type": "对战道具",
+        "cName": "银粉",
+        "eName": "Silver Powder",
+        "esName": "Polvo Plata",
+        "explain": "散发着银色光辉的粉末.\n携带后，虫属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 236,
+        "type": "对战道具",
+        "cName": "不融冰",
+        "eName": "Nevermeltice",
+        "esName": "Antiderretir",
+        "explain": "能隔绝热量的冰.\n携带后，冰属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 237,
+        "type": "对战道具",
+        "cName": "黑色眼镜",
+        "eName": "Black Glasses",
+        "esName": "Gafas de Sol",
+        "explain": "看上去很奇怪的眼镜.\n携带后，恶属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 238,
+        "type": "对战道具",
+        "cName": "金属膜",
+        "eName": "Metal Coat",
+        "esName": "Rev. Metálico",
+        "explain": "特殊的金属膜.\n携带后，钢属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 239,
+        "type": "对战道具",
+        "cName": "锐利鸟嘴",
+        "eName": "Sharp Beak",
+        "esName": "Pico Afilado",
+        "explain": "又长又尖的鸟嘴.\n携带后，飞行属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 240,
+        "type": "对战道具",
+        "cName": "诅咒之符",
+        "eName": "Spell Tag",
+        "esName": "Hechizo",
+        "explain": "古怪可怕的咒符.\n携带后，幽灵属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 241,
+        "type": "对战道具",
+        "cName": "龙之牙",
+        "eName": "Dragon Fang",
+        "esName": "Colmillo Dragón",
+        "explain": "坚硬锐利的牙齿.\n携带后，龙属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 242,
+        "type": "对战道具",
+        "cName": "魔杖",
+        "eName": "Magic Wand",
+        "esName": "Varita Mágica",
+        "explain": "神奇的魔法杖.\n携带后，妖精属性的招式威力就会提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 243,
+        "type": "对战道具",
+        "cName": "充电电池",
+        "eName": "Cell Battery",
+        "esName": "Pila",
+        "explain": "一次性使用的充电电池.\n携带它的宝可梦如果受到电属性招式的攻击，攻击就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 244,
+        "type": "对战道具",
+        "cName": "雪球",
+        "eName": "Snowball",
+        "esName": "Bola de nieve",
+        "explain": "一次性使用的雪球.\n携带它的宝可梦如果受到冰属性招式攻击，攻击就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 245,
+        "type": "对战道具",
+        "cName": "球根",
+        "eName": "Absorb Bulb",
+        "esName": "Tubérculo",
+        "explain": "一次性使用的球根.\n携带它的宝可梦如果受到水属性招式的攻击，特攻就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 246,
+        "type": "对战道具",
+        "cName": "光苔",
+        "eName": "Luminous Moss",
+        "esName": "Musgo brillante",
+        "explain": "一次性使用的光苔.\n携带它的宝可梦如果受到水属性招式攻击，特防就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 247,
+        "type": "对战道具",
+        "cName": "大地膜",
+        "eName": "Terrain Extender",
+        "esName": "Cubresuelos",
+        "explain": "当携带它的宝可梦利用招式或特性展开场地时，场地的持续时间会比平时更长.",
+        "ceffect": ""
+    },
+    {
+        "id": 248,
+        "type": "对战道具",
+        "cName": "紧缠钩爪",
+        "eName": "Lumiose Galette",
+        "esName": "Garra garfio",
+        "explain": "携带后，绑紧以及紧束等会持续造成伤害的招式的持续时间会增加.",
+        "ceffect": ""
+    },
+    {
+        "id": 249,
+        "type": "对战道具",
+        "cName": "薄雾种子",
+        "eName": "Misty Seed",
+        "esName": "Semilla bruma",
+        "explain": "让宝可梦携带后，在薄雾场地上使用，特防就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 250,
+        "type": "对战道具",
+        "cName": "电气种子",
+        "eName": "Electric Seed",
+        "esName": "Semilla electro",
+        "explain": "让宝可梦携带后，在电气场地上使用，防御就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 251,
+        "type": "对战道具",
+        "cName": "青草种子",
+        "eName": "Miracle Seed",
+        "esName": "Semilla hierba",
+        "explain": "让宝可梦携带后，在青草场地上使用，防御就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 252,
+        "type": "对战道具",
+        "cName": "精神种子",
+        "eName": "Psychic Seed",
+        "esName": "Semilla psique",
+        "explain": "让宝可梦携带后，在精神场地上使用，特防就会提高.",
+        "ceffect": ""
+    },
+    {
+        "id": 253,
+        "type": "对战道具",
+        "cName": "粗骨头",
+        "eName": "Thick Club",
+        "esName": "Hueso grueso",
+        "explain": "某种坚硬的骨头.\n让卡拉卡拉或嘎啦嘎啦携带后，攻击就会翻倍.",
+        "ceffect": ""
+    },
+    {
+        "id": 254,
+        "type": "对战道具",
+        "cName": "心之水滴",
+        "eName": "Soul Dew",
+        "esName": "Rocío bondad",
+        "explain": "让拉帝欧斯或拉帝亚斯携带后，超能力和龙属性的招式威力就会提高20%的神奇珠子.",
+        "ceffect": ""
+    },
+    {
+        "id": 255,
+        "type": "对战道具",
+        "cName": "气球",
+        "eName": "Air Balloon",
+        "esName": "Globo helio",
+        "explain": "让宝可梦携带后，宝可梦会浮在空中，免疫地面属性招式.受到攻击就会破裂.",
+        "ceffect": ""
+    },
+    {
+        "id": 256,
+        "type": "对战道具",
+        "cName": "大葱",
+        "eName": "Stick",
+        "esName": "Palo",
+        "explain": "非常长且坚硬的茎.\n让大葱鸭或捕猎鸭携带后，招式会变得容易击中要害.",
+        "ceffect": ""
+    },
+    {
+        "id": 257,
+        "type": "对战道具",
+        "cName": "速度粉",
+        "eName": "Quick Powder",
+        "esName": "Polvo veloz",
+        "explain": "让百变怪或百变云携带后，速度就会翻倍的神奇粉末.\n变身后失效.",
+        "ceffect": ""
+    },
+    {
+        "id": 258,
+        "type": "对战道具",
+        "cName": "光粉",
+        "eName": "Brightpowder",
+        "esName": "Polvo brillo",
+        "explain": "闪闪发光的粉末.\n携带后，对手的命中率会降低，追踪的招式失去追踪效果.",
+        "ceffect": ""
+    },
+    {
+        "id": 259,
+        "type": "对战道具",
+        "cName": "金属粉",
+        "eName": "Silverpowder",
+        "esName": "Polvo metálico",
+        "explain": "让百变怪或百变云携带后，防御和特防就会提高的神奇粉末.\n变身后失效.",
+        "ceffect": ""
+    },
+    {
+        "id": 260,
+        "type": "对战道具",
+        "cName": "白色香草",
+        "eName": "White Herb",
+        "esName": "Hierba blanca",
+        "explain": "当携带该道具的宝可梦能力降低时，仅能回到之前的状态1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 261,
+        "type": "对战道具",
+        "cName": "强力香草",
+        "eName": "Power Herb",
+        "esName": "Hierba única",
+        "explain": "携带该道具的宝可梦仅有1次机会可以立刻使出需要蓄力的招式.",
+        "ceffect": ""
+    },
+    {
+        "id": 262,
+        "type": "对战道具",
+        "cName": "心灵香草",
+        "eName": "Mental Herb",
+        "esName": "Hierba mental",
+        "explain": "携带该道具的宝可梦能够解除1次着迷、再来一次、挑衅、无理取闹、定身法和回复封锁状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 263,
+        "type": "对战道具",
+        "cName": "突击背心",
+        "eName": "Assault Vest",
+        "esName": "Chaleco asalto",
+        "explain": "会变得富有攻击性的背心.\n携带后特防会提高50%，但无法使出变化招式.",
+        "ceffect": ""
+    },
+    {
+        "id": 264,
+        "type": "对战道具",
+        "cName": "进化奇石",
+        "eName": "Eviolite",
+        "esName": "Mineral Evol.",
+        "explain": "进化的神奇石块.\n携带后，还能进化的宝可梦的防御和特防就会提高50%.",
+        "ceffect": ""
+    },
+    {
+        "id": 265,
+        "type": "对战道具",
+        "cName": "吃剩的东西",
+        "eName": "Leftovers",
+        "esName": "Restos",
+        "explain": "携带后，宝可梦的HP会在战斗期间缓缓回复.",
+        "ceffect": ""
+    },
+    {
+        "id": 266,
+        "type": "对战道具",
+        "cName": "黑色污泥",
+        "eName": "Black Sludge",
+        "esName": "Lodo Negro",
+        "explain": "毒属性的宝可梦携带后，HP会缓缓回复.\n其他属性的宝可梦携带后，HP则会减少.",
+        "ceffect": ""
+    },
+    {
+        "id": 267,
+        "type": "对战道具",
+        "cName": "浅滩贝壳",
+        "eName": "Shoal Shell",
+        "esName": "Concha cardumen",
+        "explain": "在浅滩洞穴这地方找到的贝壳.",
+        "ceffect": "把1个浅滩贝壳与1个浅滩海盐给19号道路的老爷爷交换1个贝壳之铃。"
+    },
+    {
+        "id": 268,
+        "type": "对战道具",
+        "cName": "美丽空壳",
+        "eName": "Shed Shell",
+        "esName": "Muda concha",
+        "explain": "结实坚硬的空壳.\n携带它的宝可梦必定可以和后备的宝可梦进行替换.",
+        "ceffect": ""
+    },
+    {
+        "id": 269,
+        "type": "对战道具",
+        "cName": "部位护具",
+        "eName": "Protective Pads",
+        "esName": "Paracontacto",
+        "explain": "不会受到触碰攻击对手时本应受到的效果.",
+        "ceffect": ""
+    },
+    {
+        "id": 270,
+        "type": "对战道具",
+        "cName": "吉利拳",
+        "eName": "Lucky Punch",
+        "esName": "Puño suerte",
+        "explain": "能带来幸运的拳套.\n让吉利蛋携带后，招式会变得容易击中要害.",
+        "ceffect": ""
+    },
+    {
+        "id": 271,
+        "type": "对战道具",
+        "cName": "火焰宝珠",
+        "eName": "Flame Orb",
+        "esName": "Llamasfera",
+        "explain": "触碰后会放出热量的神奇宝珠.\n携带后，在战斗时会变成灼伤状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 272,
+        "type": "对战道具",
+        "cName": "剧毒宝珠",
+        "eName": "Toxic Orb",
+        "esName": "Toxisfera",
+        "explain": "触碰后会放出毒的神奇宝珠.\n携带后，在战斗时会变成剧毒状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 273,
+        "type": "对战道具",
+        "cName": "附着针",
+        "eName": "Sticky Barb",
+        "esName": "Toxiestrella",
+        "explain": "如果携带者受到物理攻击，双方都会造成中毒.",
+        "ceffect": ""
+    },
+    {
+        "id": 274,
+        "type": "对战道具",
+        "cName": "紧绑束带",
+        "eName": "Binding Band",
+        "esName": "Banda Atadura",
+        "explain": "能增强绑紧招式的束带.\n携带后，绑紧招式的威力会变强.",
+        "ceffect": ""
+    },
+    {
+        "id": 275,
+        "type": "对战道具",
+        "cName": "气势披带",
+        "eName": "Focus Sash",
+        "esName": "Banda Focus",
+        "explain": "携带后，在HP全满时，即便受到可能会导致濒死的招式，也能仅以1HP撑过去1次.",
+        "ceffect": ""
+    },
+    {
+        "id": 276,
+        "type": "对战道具",
+        "cName": "标靶",
+        "eName": "Ring Target",
+        "esName": "Blanco",
+        "explain": "携带后，原本因宝可梦的属性相克关系而无效的招式现在会变得能够击中自己.",
+        "ceffect": ""
+    },
+    {
+        "id": 277,
+        "type": "对战道具",
+        "cName": "黑色铁球",
+        "eName": "Iron Ball",
+        "esName": "Bola Ferrea",
+        "explain": "携带后，速度会降低50%.\n飞行属性以及飘浮宝可梦会被地面招式击中.",
+        "ceffect": ""
+    },
+    {
+        "id": 278,
+        "type": "对战道具",
+        "cName": "逃脱按键",
+        "eName": "Eject Button",
+        "esName": "Botón Escape",
+        "explain": "携带它的宝可梦如果受到招式攻击，就能逃脱战斗，并和同行的其他宝可梦进行替换.",
+        "ceffect": ""
+    },
+    {
+        "id": 279,
+        "type": "对战道具",
+        "cName": "凸凸头盔",
+        "eName": "Rocky Helmet",
+        "esName": "Casco Dentado",
+        "explain": "让宝可梦携带后，在受到打击招式攻击时，能给予对手伤害.",
+        "ceffect": ""
+    },
+    {
+        "id": 280,
+        "type": "对战道具",
+        "cName": "讲究头带",
+        "eName": "Choice Band",
+        "esName": "Cinta Elegida",
+        "explain": "有点讲究的头带.\n虽然携带后攻击会提高50%，但只能使出相同的招式.",
+        "ceffect": ""
+    },
+    {
+        "id": 281,
+        "type": "对战道具",
+        "cName": "达人带",
+        "eName": "Expert Belt",
+        "esName": "Cinta Experto",
+        "explain": "用惯了的黑色带子\n.携带后，效果绝佳时的招式威力提高20%.",
+        "ceffect": ""
+    },
+    {
+        "id": 282,
+        "type": "对战道具",
+        "cName": "气势头带",
+        "eName": "Focus Band",
+        "esName": "Cinta Focus",
+        "explain": "携带后，即便受到可能会导致濒死的招式，有时也能仅以1HP撑过去.",
+        "ceffect": ""
+    },
+    {
+        "id": 283,
+        "type": "对战道具",
+        "cName": "博识眼镜",
+        "eName": "Wise Glasses",
+        "esName": "Gafas Especiales",
+        "explain": "装着很厚镜片的眼镜.\n携带后，特殊招式的威力提高10%.",
+        "ceffect": ""
+    },
+    {
+        "id": 284,
+        "type": "对战道具",
+        "cName": "讲究眼镜",
+        "eName": "Choice Specs",
+        "esName": "Gafas Elegidas",
+        "explain": "有点讲究的眼镜.\n虽然携带后特攻会提高50%，但只能使出相同的招式.",
+        "ceffect": ""
+    },
+    {
+        "id": 285,
+        "type": "对战道具",
+        "cName": "先制之爪",
+        "eName": "Quick Claw",
+        "esName": "Garra Rápida",
+        "explain": "又轻又尖锐的爪子.\n携带后，PP回复速度提高10%.",
+        "ceffect": ""
+    },
+    {
+        "id": 286,
+        "type": "对战道具",
+        "cName": "破坏基因",
+        "eName": "Berserk Gene",
+        "esName": "Gen Loco",
+        "explain": "出场后立即消耗，携带该道具的宝可梦陷入长时间混乱状态并提升2级攻击。",
+        "ceffect": ""
+    },
+    {
+        "id": 287,
+        "type": "对战道具",
+        "cName": "红线",
+        "eName": "Destiny Knot",
+        "esName": "Lazo Destino",
+        "explain": "长长的鲜红色细线.\n携带后，在自己陷入着迷状态时能让对手也陷入着迷状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 288,
+        "type": "对战道具",
+        "cName": "黑线",
+        "eName": "Black Knot",
+        "esName": "Lazo Negro",
+        "explain": "长长的黑色细线.\n携带后，在自己陷入诅咒状态时能让对手也陷入诅咒状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 289,
+        "type": "对战道具",
+        "cName": "讲究围巾",
+        "eName": "Choice Scarf",
+        "esName": "Pañuelo Elegido",
+        "explain": "有点讲究的围巾.\n虽然携带后速度会提高50%，但只能使出相同的招式.",
+        "ceffect": ""
+    },
+    {
+        "id": 290,
+        "type": "对战道具",
+        "cName": "焦点镜",
+        "eName": "Scope Lens",
+        "esName": "Periscopio",
+        "explain": "能看见弱点的镜片.\n携带它的宝可梦的招式会变得容易击中要害.",
+        "ceffect": ""
+    },
+    {
+        "id": 291,
+        "type": "对战道具",
+        "cName": "大根茎",
+        "eName": "Big Root",
+        "esName": "Raíz Grande",
+        "explain": "携带者使用的吸取HP的招式生效时，HP恢复量增加30%，造成的伤害不变.",
+        "ceffect": ""
+    },
+    {
+        "id": 292,
+        "type": "对战道具",
+        "cName": "光之黏土",
+        "eName": "Light Clay",
+        "esName": "Refleluz",
+        "explain": "当携带它的宝可梦使出光墙或反射壁时，持续时间从10秒增加到15秒.",
+        "ceffect": ""
+    },
+    {
+        "id": 293,
+        "type": "对战道具",
+        "cName": "炽热岩石",
+        "eName": "Heat Rock",
+        "esName": "Roca Calor",
+        "explain": "携带它的宝可梦使出大晴天的话，晴天的持续时间从10秒增加到15秒.",
+        "ceffect": ""
+    },
+    {
+        "id": 294,
+        "type": "对战道具",
+        "cName": "冰冷岩石",
+        "eName": "Icy Rock",
+        "esName": "Roca Helada",
+        "explain": "携带它的宝可梦使出冰雹的话，冰雹的持续时间从10秒增加到15秒.",
+        "ceffect": ""
+    },
+    {
+        "id": 295,
+        "type": "对战道具",
+        "cName": "潮湿岩石",
+        "eName": "Damp Rock",
+        "esName": "Roca Lluvia",
+        "explain": "携带它的宝可梦使出求雨的话，雨天的持续时间从10秒增加到15秒.",
+        "ceffect": ""
+    },
+    {
+        "id": 296,
+        "type": "对战道具",
+        "cName": "沙沙岩石",
+        "eName": "Smooth Rock",
+        "esName": "Roca Suave",
+        "explain": "携带它的宝可梦使出沙暴的话，沙暴的持续时间从10秒增加到15秒.",
+        "ceffect": ""
+    },
+    {
+        "id": 297,
+        "type": "对战道具",
+        "cName": "对焦镜",
+        "eName": "Zoom Lens",
+        "esName": "Telescopio",
+        "explain": "携带后，可以避免命中率被降低.",
+        "ceffect": ""
+    },
+    {
+        "id": 298,
+        "type": "对战道具",
+        "cName": "生命宝珠",
+        "eName": "Life Orb",
+        "esName": "Vidasfera",
+        "explain": "携带后，虽然每次攻击时会减少10%，但招式的威力会提高30%.",
+        "ceffect": ""
+    },
+    {
+        "id": 299,
+        "type": "对战道具",
+        "cName": "红牌",
+        "eName": "Red Card",
+        "esName": "Tarjeta roja",
+        "explain": "有着神奇力量的卡片.\n携带后，能让使用了招式的对手退场.",
+        "ceffect": ""
+    },
+    {
+        "id": 300,
+        "type": "对战道具",
+        "cName": "弱点保险",
+        "eName": "Weakness Policy",
+        "esName": "Seguro debilidad",
+        "explain": "被针对弱点时，攻击和特攻就会提高2级.",
+        "ceffect": ""
+    },
+    {
+        "id": 301,
+        "type": "对战道具",
+        "cName": "幸运蛋",
+        "eName": "Lucky Egg",
+        "esName": "Huevo Suerte",
+        "explain": "满载着幸福的蛋.\n携带它的宝可梦获得的经验值会增加50%.",
+        "ceffect": ""
+    },
+    {
+        "id": 302,
+        "type": "对战道具",
+        "cName": "电气球",
+        "eName": "Light Ball",
+        "esName": "Bola Luminosa",
+        "explain": "让皮卡丘携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 303,
+        "type": "对战道具",
+        "cName": "波导球",
+        "eName": "Aura Sphere",
+        "esName": "Bola Aural",
+        "explain": "让利欧路携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 304,
+        "type": "对战道具",
+        "cName": "伊布球",
+        "eName": "Eon Sphere",
+        "esName": "Bola Eon",
+        "explain": "让伊布携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 305,
+        "type": "对战道具",
+        "cName": "草球",
+        "eName": "Grass Sphere",
+        "esName": "Bola Hierba",
+        "explain": "让草系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 306,
+        "type": "对战道具",
+        "cName": "火球",
+        "eName": "Flame Sphere",
+        "esName": "Bola Ardiente",
+        "explain": "让火系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 307,
+        "type": "对战道具",
+        "cName": "水球",
+        "eName": "Water Sphere",
+        "esName": "Bola Acuática",
+        "explain": "让水系御三家携带后，攻击和特攻的威力就会翻倍的神奇之球.",
+        "ceffect": ""
+    },
+    {
+        "id": 308,
+        "type": "对战道具",
+        "cName": "后攻之尾",
+        "eName": "Lagging Tail",
+        "esName": "Cola Plúmbea",
+        "explain": "非常沉重的某种尾巴.\n携带后，先制招式失去先制效果.",
+        "ceffect": ""
+    }
+]

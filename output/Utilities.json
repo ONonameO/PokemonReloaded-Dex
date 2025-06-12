@@ -1,0 +1,137 @@
+[
+    {
+        "id": 142,
+        "type": "实用道具",
+        "cName": "除虫喷雾",
+        "eName": "Repel",
+        "esName": "Repelente",
+        "explain": "使用后，在1分钟内，弱小的野生宝可梦将完全不会出现.",
+        "ceffect": ""
+    },
+    {
+        "id": 143,
+        "type": "实用道具",
+        "cName": "白银喷雾",
+        "eName": "Super Repel",
+        "esName": "SuperRepel",
+        "explain": "使用后，在2分钟内，弱小的野生宝可梦将完全不会出现.",
+        "ceffect": ""
+    },
+    {
+        "id": 144,
+        "type": "实用道具",
+        "cName": "黄金喷雾",
+        "eName": "Max Repel",
+        "esName": "MaxRepel",
+        "explain": "使用后，在3分钟内，弱小的野生宝可梦将完全不会出现.",
+        "ceffect": ""
+    },
+    {
+        "id": 145,
+        "type": "实用道具",
+        "cName": "离洞绳",
+        "eName": "Escape Rope",
+        "esName": "Cuerda Huida",
+        "explain": "结实的长绳.可以从洞窟或迷宫中脱身.",
+        "ceffect": ""
+    },
+    {
+        "id": 146,
+        "type": "实用道具",
+        "cName": "甜甜蜜",
+        "eName": "Honey",
+        "esName": "Miel",
+        "explain": "可以使宝可梦的捕获率×2.",
+        "ceffect": ""
+    },
+    {
+        "id": 147,
+        "type": "实用道具",
+        "cName": "贝壳之铃",
+        "eName": "Shell Bell",
+        "esName": "Campana Concha",
+        "explain": "携带该道具的宝可梦在攻击对方成功造成伤害时，携带者的HP会恢复其所造成伤害的10%.",
+        "ceffect": ""
+    },
+    {
+        "id": 148,
+        "type": "实用道具",
+        "cName": "浅滩海盐",
+        "eName": "Shoal Salt",
+        "esName": "Sal cardumen",
+        "explain": "在浅滩洞穴这地方找到的海盐.",
+        "ceffect": "把1个浅滩贝壳与1个浅滩海盐给19号道路的老爷爷交换1个贝壳之铃."
+    },
+    {
+        "id": 149,
+        "type": "实用道具",
+        "cName": "黄色玻璃哨",
+        "eName": "Yellow Flute",
+        "esName": "Flauta amarilla",
+        "explain": "以黄色玻璃制成的哨子.\n可以在战斗中使用，治愈混乱状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 150,
+        "type": "实用道具",
+        "cName": "蓝色玻璃哨",
+        "eName": "Blue Flute",
+        "esName": "Flauta azul",
+        "explain": "以蓝色玻璃制成的哨子.\n可以战斗中使用，治愈睡眠状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 151,
+        "type": "实用道具",
+        "cName": "红色玻璃哨",
+        "eName": "Red Flute",
+        "esName": "Flauta roja",
+        "explain": "以红色玻璃制成的哨子.\n可以战斗中使用，治愈着迷状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 152,
+        "type": "实用道具",
+        "cName": "绿色玻璃哨",
+        "eName": "Green Flute",
+        "esName": "Flauta verde",
+        "explain": "以绿色玻璃制成的哨子.\n可以战斗中使用，治愈寄生状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 153,
+        "type": "实用道具",
+        "cName": "紫色玻璃哨",
+        "eName": "Violet Flute",
+        "esName": "Flauta violeta",
+        "explain": "以红色玻璃制成的哨子.\n可以战斗中使用，治愈诅咒状态.",
+        "ceffect": ""
+    },
+    {
+        "id": 154,
+        "type": "实用道具",
+        "cName": "白色玻璃哨",
+        "eName": "White Flute",
+        "esName": "Flauta blanca",
+        "explain": "以白色玻璃制成的哨子.\n在使用的地方更容易遇到野生宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 155,
+        "type": "实用道具",
+        "cName": "黑色玻璃哨",
+        "eName": "Black Flute",
+        "esName": "Flauta negra",
+        "explain": "以黑色玻璃制成的哨子.\n在使用的地方更难遇到野生宝可梦.",
+        "ceffect": ""
+    },
+    {
+        "id": 156,
+        "type": "实用道具",
+        "cName": "折价券",
+        "eName": "Discount Coupon",
+        "esName": "Vale descuento",
+        "explain": "在商店购买物品时，可以节省50%的费用.",
+        "ceffect": "身上没有折价券时，周日在同一个商店消费超过100,00€可以获得.\n(获得折价券后，第二天才能使用)"
+    }
+]
