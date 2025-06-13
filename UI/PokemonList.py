@@ -9,16 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-import sys
-import os
-
-def resource_path(relative_path):
-    """获取资源文件的绝对路径，适用于打包后的程序"""
-    if hasattr(sys, '_MEIPASS'):
-        base_path = sys._MEIPASS
-    else:
-        base_path = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(base_path, relative_path)
+from .getPath import resource_path
 
 class Ui_Win_PokemonList(object):
     def setupUi(self, Win_PokemonList):
@@ -27,7 +18,7 @@ class Ui_Win_PokemonList(object):
         Win_PokemonList.resize(1740, 1000)
         Win_PokemonList.setMinimumSize(QtCore.QSize(1740, 1000))
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap(resource_path("../icon/pokemon.png")), QtGui.QIcon.Normal, QtGui.QIcon.On)
+        icon.addPixmap(QtGui.QPixmap(resource_path("../res/icon/pokemon.png")), QtGui.QIcon.Normal, QtGui.QIcon.On)
         Win_PokemonList.setWindowIcon(icon)
         Win_PokemonList.setStyleSheet("QWidget#Win_PokemonList { background-color: white; }")
         self.horizontalLayout_3 = QtWidgets.QHBoxLayout(Win_PokemonList)
@@ -154,7 +145,7 @@ class Ui_Win_PokemonList(object):
 "border: none;")
         self.pushButton.setText("")
         icon1 = QtGui.QIcon()
-        icon1.addPixmap(QtGui.QPixmap(resource_path("../icon/search.png")), QtGui.QIcon.Disabled, QtGui.QIcon.On)
+        icon1.addPixmap(QtGui.QPixmap(resource_path("../res/icon/search.png")), QtGui.QIcon.Disabled, QtGui.QIcon.On)
         self.pushButton.setIcon(icon1)
         self.pushButton.setIconSize(QtCore.QSize(40, 40))
         self.pushButton.setCheckable(False)
