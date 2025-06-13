@@ -31,7 +31,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normalon>../icon/item.png</normalon>
+    <normalon>../res/icon/item.png</normalon>
    </iconset>
   </property>
   <property name="styleSheet">
@@ -163,7 +163,7 @@ QTableView::item:focus {outline: none;}</string>
     </widget>
    </item>
    <item>
-    <layout class="QVBoxLayout" name="verticalLayout_2" stretch="0,0,0,0,1">
+    <layout class="QVBoxLayout" name="verticalLayout_2" stretch="0,0,0,1">
      <property name="spacing">
       <number>10</number>
      </property>
@@ -228,7 +228,7 @@ border: none;</string>
          </property>
          <property name="icon">
           <iconset>
-           <disabledon>../icon/search.png</disabledon>
+           <disabledon>../res/icon/search.png</disabledon>
           </iconset>
          </property>
          <property name="iconSize">
@@ -388,7 +388,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/树果.png</activeon>
+            <activeon>../res/item_type/树果.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -445,7 +445,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/回复道具.png</activeon>
+            <activeon>../res/item_type/回复道具.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -507,7 +507,7 @@ border: none;</string>
             </property>
             <property name="icon">
              <iconset>
-              <activeon>../icon/true.png</activeon>
+              <activeon>../res/icon/true.png</activeon>
              </iconset>
             </property>
             <property name="iconSize">
@@ -555,7 +555,7 @@ border: none;</string>
             </property>
             <property name="icon">
              <iconset>
-              <activeon>../icon/false.png</activeon>
+              <activeon>../res/icon/false.png</activeon>
              </iconset>
             </property>
             <property name="iconSize">
@@ -608,7 +608,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/战斗道具.png</activeon>
+            <activeon>../res/item_type/战斗道具.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -665,7 +665,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/强化道具.png</activeon>
+            <activeon>../res/item_type/强化道具.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -722,7 +722,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/HM.png</activeon>
+            <activeon>../res/item_type/招式学习器.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -779,7 +779,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/超级石.png</activeon>
+            <activeon>../res/item_type/超级石.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -836,7 +836,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/Z纯晶.png</activeon>
+            <activeon>../res/item_type/Z纯晶.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -893,7 +893,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/实用道具.png</activeon>
+            <activeon>../res/item_type/实用道具.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -950,7 +950,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/精灵球.png</activeon>
+            <activeon>../res/item_type/精灵球.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -1007,7 +1007,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/贵重物品.png</activeon>
+            <activeon>../res/item_type/贵重物品.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -1064,7 +1064,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/进化道具.png</activeon>
+            <activeon>../res/item_type/进化道具.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -1121,7 +1121,7 @@ border: none;</string>
           </property>
           <property name="icon">
            <iconset>
-            <activeon>../item_type/重要物品.png</activeon>
+            <activeon>../res/item_type/重要物品.png</activeon>
            </iconset>
           </property>
           <property name="iconSize">
@@ -1150,7 +1150,7 @@ border: none;</string>
         <enum>QLayout::SetDefaultConstraint</enum>
        </property>
        <item>
-        <widget class="QGraphicsView" name="PokemonPic">
+        <widget class="QGraphicsView" name="ItemPic">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
            <horstretch>0</horstretch>
@@ -1242,26 +1242,26 @@ border: none;</string>
          </property>
          <layout class="QVBoxLayout" name="verticalLayout">
           <property name="spacing">
-           <number>10</number>
+           <number>0</number>
           </property>
           <property name="leftMargin">
            <number>40</number>
           </property>
           <property name="topMargin">
-           <number>20</number>
+           <number>40</number>
           </property>
           <property name="rightMargin">
            <number>40</number>
           </property>
           <property name="bottomMargin">
-           <number>20</number>
+           <number>40</number>
           </property>
           <item>
            <widget class="QLabel" name="cName">
             <property name="font">
              <font>
               <family>Microsoft YaHei UI</family>
-              <pointsize>10</pointsize>
+              <pointsize>14</pointsize>
               <weight>75</weight>
               <bold>true</bold>
              </font>
@@ -1282,7 +1282,7 @@ border: none;</string>
             <property name="font">
              <font>
               <family>Microsoft YaHei UI</family>
-              <pointsize>9</pointsize>
+              <pointsize>12</pointsize>
               <weight>75</weight>
               <italic>false</italic>
               <bold>true</bold>
@@ -1300,6 +1300,40 @@ border: none;</string>
             </property>
            </widget>
           </item>
+          <item>
+           <spacer name="verticalSpacer_2">
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Fixed</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>20</width>
+              <height>30</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QLabel" name="itemType">
+            <property name="font">
+             <font>
+              <family>Microsoft YaHei UI</family>
+              <pointsize>11</pointsize>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>道具分类：</string>
+            </property>
+            <property name="textInteractionFlags">
+             <set>Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
+            </property>
+           </widget>
+          </item>
          </layout>
         </widget>
        </item>
@@ -1308,33 +1342,33 @@ border: none;</string>
      <item>
       <widget class="QGroupBox" name="right4">
        <property name="sizePolicy">
-        <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-         <horstretch>0</horstretch>
+        <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+         <horstretch>27</horstretch>
          <verstretch>0</verstretch>
         </sizepolicy>
        </property>
        <property name="minimumSize">
         <size>
          <width>642</width>
-         <height>300</height>
+         <height>0</height>
         </size>
        </property>
        <property name="maximumSize">
         <size>
          <width>642</width>
-         <height>300</height>
+         <height>16777215</height>
         </size>
        </property>
        <property name="sizeIncrement">
         <size>
          <width>642</width>
-         <height>300</height>
+         <height>0</height>
         </size>
        </property>
        <property name="baseSize">
         <size>
          <width>642</width>
-         <height>300</height>
+         <height>0</height>
         </size>
        </property>
        <property name="font">
@@ -1347,11 +1381,23 @@ border: none;</string>
        <property name="title">
         <string>描述</string>
        </property>
-       <layout class="QGridLayout" name="gridLayout_2">
+       <layout class="QGridLayout" name="gridLayout_2" rowstretch="0">
         <property name="sizeConstraint">
          <enum>QLayout::SetDefaultConstraint</enum>
         </property>
-        <item row="1" column="0">
+        <property name="leftMargin">
+         <number>20</number>
+        </property>
+        <property name="topMargin">
+         <number>10</number>
+        </property>
+        <property name="rightMargin">
+         <number>20</number>
+        </property>
+        <property name="bottomMargin">
+         <number>15</number>
+        </property>
+        <item row="0" column="0">
          <widget class="QPlainTextEdit" name="Description">
           <property name="enabled">
            <bool>true</bool>
@@ -1365,7 +1411,7 @@ border: none;</string>
           <property name="font">
            <font>
             <family>Microsoft YaHei</family>
-            <pointsize>9</pointsize>
+            <pointsize>11</pointsize>
             <weight>50</weight>
             <bold>false</bold>
            </font>
@@ -1395,22 +1441,6 @@ border: none;</string>
         </item>
        </layout>
       </widget>
-     </item>
-     <item>
-      <spacer name="verticalSpacer">
-       <property name="orientation">
-        <enum>Qt::Vertical</enum>
-       </property>
-       <property name="sizeType">
-        <enum>QSizePolicy::Expanding</enum>
-       </property>
-       <property name="sizeHint" stdset="0">
-        <size>
-         <width>20</width>
-         <height>0</height>
-        </size>
-       </property>
-      </spacer>
      </item>
     </layout>
    </item>

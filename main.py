@@ -6,6 +6,7 @@ from UI import MainWindow
 from AbilityWidget import AbilityWidget
 from MoveWidget import MoveWidget
 from PokemonWidget import PokemonWidget
+from ItemWidget import ItemWidget
 
 
 class MyMainWindow(QMainWindow, MainWindow.Ui_MainWindow):
@@ -14,6 +15,7 @@ class MyMainWindow(QMainWindow, MainWindow.Ui_MainWindow):
         self.move_list_window = None
         self.pokemon_list_window = None  # 初始化为 None，用于存储 PokemonList 窗口实例
         self.ability_list_window = None
+        self.item_list_window = None
         self.setupUi(self)
 
         # 为 action 添加触发事件
@@ -52,6 +54,7 @@ class MyMainWindow(QMainWindow, MainWindow.Ui_MainWindow):
         self.Button_Pokemon.clicked.connect(self.open_pokemon_list)
         self.Button_Move.clicked.connect(self.open_move_list)
         self.Button_Ability.clicked.connect(self.open_ability_list)
+        self.Button_Item.clicked.connect(self.open_item_list)
 
     def open_pokemon_list(self):
         """打开宝可梦列表界面"""
@@ -82,6 +85,16 @@ class MyMainWindow(QMainWindow, MainWindow.Ui_MainWindow):
             self.ability_list_window = None
             self.ability_list_window = AbilityWidget()
             self.ability_list_window.show()   
+            
+    def open_item_list(self):
+        """打开特性列表界面"""
+        if self.item_list_window and self.item_list_window.item_list:
+            self.item_list_window.raise_()  # 将窗口置顶
+            self.item_list_window.activateWindow()  # 激活窗口，使其获得焦点
+        else:
+            self.item_list_window = None
+            self.item_list_window = ItemWidget()
+            self.item_list_window.show() 
 
     def closeEvent(self, event):
         """重写关闭事件"""
@@ -91,6 +104,8 @@ class MyMainWindow(QMainWindow, MainWindow.Ui_MainWindow):
             self.move_list_window.close()
         if self.ability_list_window:
             self.ability_list_window.close()
+        if self.item_list_window:
+            self.item_list_window.close()
         event.accept()  # 确保 MainWindow 也可以正常关闭
 
 
