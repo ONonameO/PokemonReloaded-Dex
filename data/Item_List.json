@@ -4716,7 +4716,7 @@
             "cName": "彗星碎片",
             "eName": "Comet Shard",
             "explain": "彗星临近时，掉落到地表上的碎片.",
-            "effect": "可以在Procyon Town宝可梦中心找收藏家以150,00€出售."
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以600,00€出售."
         },
         {
             "id": 576,
@@ -4804,7 +4804,7 @@
             "cName": "古代金币",
             "eName": "Relic Gold",
             "explain": "约3000年前的文明使用的金币.",
-            "effect": "可以在Procyon Town宝可梦中心找收藏家以200,00€出售."
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以100,00€出售."
         },
         {
             "id": 587,
@@ -4812,7 +4812,7 @@
             "cName": "古代之壶",
             "eName": "Relic Vase",
             "explain": "约3000年前的文明制造的壶.",
-            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以500,00€出售."
         },
         {
             "id": 588,
@@ -4828,7 +4828,7 @@
             "cName": "古代石像",
             "eName": "Relic Statue",
             "explain": "约3000年前的文明制造的石像.",
-            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以2000,00€出售."
         },
         {
             "id": 590,
@@ -4836,7 +4836,7 @@
             "cName": "古代王冠",
             "eName": "Relic Crown",
             "explain": "约3000年前的文明制造的王冠.",
-            "effect": "可以在Procyon Town宝可梦中心找收藏家以1000,00€出售."
+            "effect": "可以在Procyon Town宝可梦中心找收藏家以3000,00€出售."
         },
         {
             "id": 591,
