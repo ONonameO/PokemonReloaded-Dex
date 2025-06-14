@@ -35,6 +35,24 @@ def get_color_with_type(type):
     }
     return colors.get(type, "color: black;")
 
+def get_color_with_itemType(type):
+    colors = {
+        "重要物品": "color: rgb(251,205,40);",
+        "招式学习器": "color: rgb(58,193,213);",
+        "精灵球": "color: rgb(253,67,81);",
+        "树果": "color: rgb(185,93,249);",
+        "回复道具": "color: rgb(240,150,181);",
+        "强化道具": "color: rgb(93,183,181);",
+        "实用道具": "color: rgb(197,159,78);",
+        "进化道具": "color: rgb(63,161,41);",
+        "战斗道具": "color: rgb(255,128,0);",
+        "贵重物品": "color: rgb(238,76,238);",
+        "超级石": "color: rgb(75,120,205);",
+        "Z纯晶": "color: rgb(127,127,127);"
+    }
+    return colors.get(type, "color: black;")
+
+
 class IconTableWidgetItem(QTableWidgetItem):
     """自定义的 QTableWidgetItem，用于按属性名称排序"""
     def __init__(self, icon, icon_name):

@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QWidget, QTableWidgetItem, QGraphicsScene
 from PyQt5.QtGui import QIcon, QPixmap, QFont, QColor
 from PyQt5.QtCore import Qt, QSize, QTimer
 from UI import ItemList
-from CustomizeFunction import IntTableWidgetItem, IconTableWidgetItem, resource_path, get_color_with_type
+from CustomizeFunction import IntTableWidgetItem, IconTableWidgetItem, resource_path, get_color_with_itemType
 
 
 
@@ -88,21 +88,25 @@ class ItemWidget(QWidget, ItemList.Ui_Win_ItemList):
         for row, item in enumerate(self.item_list):
             self.tableItem.setRowHeight(row, 60)  # 所有行高为 60
 
-            itemID = item["id"]
             name = item["cName"]
             type = item["type"]
             
-            id_item = IntTableWidgetItem(itemID)
+            id_item = IntTableWidgetItem(item["id"])
             id_item.setTextAlignment(Qt.AlignCenter | Qt.AlignVCenter)  # 水平居中，垂直居中
             self.tableItem.setItem(row, 0, id_item)  # 编号
 
             # 设置图标
-            icon_size = QSize(55, 55)  # 设置图标大小为 55x55 像素
+            icon_size = QSize(45, 45)  # 设置图标大小为 55x55 像素
             self.tableItem.setIconSize(icon_size)  # 设置表格的图标大小
-            # icon_path = resource_path(f"res/item_icon/{name}.png")  # 图标文件路径
-            icon_path = resource_path(f"res/item_icon/move.png")  # 图标文件路径
+            # 图标文件路径
+            if item["type"] == "招式学习器":
+                moveType = item['moveType']
+                icon_path = resource_path(f"res/item_icon/{moveType}.png")
+            else:
+                icon_path = resource_path(f"res/item_icon/{name}.png") 
+            # icon_path = resource_path(f"res/item_icon/move.png")  # 图标文件路径
             pixmap = QPixmap(icon_path)
-            pixmap = pixmap.scaled(QSize(55, 55), Qt.KeepAspectRatio, Qt.SmoothTransformation)  # 统一图标大小
+            pixmap = pixmap.scaled(QSize(45, 45), Qt.KeepAspectRatio, Qt.SmoothTransformation)  # 统一图标大小
             icon = QIcon(pixmap)
             icon_item = IconTableWidgetItem(icon, name)
             self.tableItem.setItem(row, 1, icon_item)  # 道具图标列
@@ -168,13 +172,17 @@ class ItemWidget(QWidget, ItemList.Ui_Win_ItemList):
         description = item["explain"] + "\n\n" + item["effect"]
 
         # 更新图片
-        # icon_path = resource_path(f"res/item_icon/{name}.png")
-        icon_path = resource_path(f"res/item_icon/move.png")
-        pixmap = QPixmap(icon_path)
-        size = min(self.ItemPic.width(), self.ItemPic.height())
-        pixmap = pixmap.scaled(QSize(size - 20, size - 20), Qt.KeepAspectRatio, Qt.SmoothTransformation)
-        self.ItemPic.setScene(QGraphicsScene())
-        self.ItemPic.scene().addPixmap(pixmap)
+        # if item["moveType"]:
+        #     moveType = item['moveType']
+        #     icon_path = resource_path(f"res/item_icon/{moveType}.png")
+        # else:
+        #     icon_path = resource_path(f"res/item_icon/{name}.png")
+        # # icon_path = resource_path(f"res/item_icon/move.png")
+        # pixmap = QPixmap(icon_path)
+        # size = min(self.ItemPic.width(), self.ItemPic.height())
+        # pixmap = pixmap.scaled(QSize(size - 80, size - 80), Qt.KeepAspectRatio, Qt.SmoothTransformation)
+        # self.ItemPic.setScene(QGraphicsScene())
+        # self.ItemPic.scene().addPixmap(pixmap)
 
         # 更新信息、描述
         self.cName.setText(name)
@@ -182,30 +190,9 @@ class ItemWidget(QWidget, ItemList.Ui_Win_ItemList):
         self.itemType.setText("道具类型：" + item["type"])
         self.Description.setPlainText(description)
 
-
         # 根据属性设置名字颜色
-        # color = get_color_with_type(item["Type"][0])
-        # self.cName.setStyleSheet(color)
-        # self.eName.setStyleSheet(color)
-
-        # 设置字体大小变化
-        # info_height = self.groupBox_2.height()
-        # font_size = int(info_height / 29)
-        # if font_size < 8:
-        #     font_size = 8
-        # font = QFont()
-        # font.setFamily("Microsoft YaHei UI")
-        # font.setPointSize(font_size)
-        # self.Height.setFont(font)
-        # self.Weight.setFont(font)
-        # self.Region.setFont(font)
-        # self.sex.setFont(font)
-        # font.setPointSize(font_size + 1)
-        # self.Description.setFont(font)
-        # font.setBold(True)
-        # self.eName.setFont(font)
-        # font.setPointSize(font_size + 2)
-        # self.cName.setFont(font)
+        color = get_color_with_itemType(item["type"])
+        self.itemType.setStyleSheet(color)
 
     def update_item_info(self):
         """更新选中的道具信息"""

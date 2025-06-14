@@ -17,11 +17,11 @@ for pokeball in pokeballs_data:
     if cName in item_dict:
         # 如果匹配成功，更新explain和ceffect字段
         pokeball['explain'] = item_dict[cName]['explain']
-        pokeball['ceffect'] = item_dict[cName]['ceffect']
+        pokeball['effect'] = item_dict[cName]['ceffect']
     else:
         # 如果未匹配，设置为空字符串
         pokeball['explain'] = ""
-        pokeball['ceffect'] = ""
+        pokeball['effect'] = ""
         unmatched_cnames.append(cName)  # 记录未匹配的cName
 
 # 输出未匹配的cName

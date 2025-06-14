@@ -9,7 +9,7 @@ with open('data/Move_List.json', 'r', encoding='utf-8') as move_file:
     move_data = json.load(move_file)
 
 # 创建一个字典，以skill为键，cName和eName为值
-move_dict = {move['id']: {'cName': move['cName'], 'eName': move['eName'], 'explain': move['explain'], 'power': move['power'], 'pp': move['pp']} for move in move_data['skill']}
+move_dict = {move['id']: {'cName': move['cName'], 'eName': move['eName'], 'type':move['type'], 'explain': move['explain'], 'power': move['power'], 'pp': move['pp']} for move in move_data['skill']}
 
 # 初始化结果列表
 result = []
@@ -24,11 +24,12 @@ for item in tm_data:
         move_info = move_dict[skill]
         result.append({
             "id": int(skill),
-            "type": "技能机器",
+            "type": "招式学习器",
             "cName": f"{condition} {move_info['cName']}",
             "eName": f"{condition} {move_info['eName']}",
+            "moveType": move_info['type'],
             "explain": move_info['explain'],
-            "ceffect": f"威力：{move_info['power']}\nＰＰ：{move_info['pp']}"
+            "effect": f"威力：{move_info['power']}\nＰＰ：{move_info['pp']}"
         })
 
 # 将结果输出为JSON格式
