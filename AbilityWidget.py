@@ -114,6 +114,11 @@ class AbilityWidget(QWidget, AbilityList.Ui_Win_AbilityList):
         """根据输入框内容筛选表格"""
         search_text = self.searchAbility.text().lower()
         for row, ability in enumerate(self.ability_list):
+            # 获取当前行的 ID
+            abilityID = self.tableAbility.item(row, 0).text()
+            # 通过 ID 查找对应的招式数据
+            ability = next((p for p in self.ability_list if p["id"] == int(abilityID)), None)
+            
             # 搜索名字、英文名、属性、分类
             if (search_text in ability["cName"].lower() or
                     search_text in ability["eName"].lower()):

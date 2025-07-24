@@ -153,6 +153,10 @@ class ItemWidget(QWidget, ItemList.Ui_Win_ItemList):
         search_text = self.searchItem.text().lower()
         for row, item in enumerate(self.item_list):
             description = item["explain"] + "\n" + item["effect"]
+            # 获取当前行的 ID
+            itemID = self.tableItem.item(row, 0).text()
+            # 通过 ID 查找对应的 道具
+            item = next((p for p in self.item_list if p["id"] == int(itemID)), None)
             
             # 搜索名字、英文名、描述
             if (search_text in item["cName"].lower() or

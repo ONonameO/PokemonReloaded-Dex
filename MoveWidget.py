@@ -129,9 +129,9 @@ class MoveWidget(QWidget, MoveList.Ui_Win_MoveList):
         """根据输入框内容筛选表格"""
         search_text = self.searchMove.text().lower()
         for row, move in enumerate(self.move_list):
-            # 获取当前行的 Pic
+            # 获取当前行的 ID
             moveID = self.tableMove.item(row, 0).text()
-            # 通过 Pic 查找对应的宝可梦数据
+            # 通过 ID 查找对应的招式数据
             move = next((p for p in self.move_list if p["id"] == moveID), None)
 
             move_type = move["type"]
