@@ -57,17 +57,17 @@ class MoveWidget(QWidget, MoveList.Ui_Win_MoveList):
 
     def load_data(self):
         """读取Pokemon数据"""
-        pokemon_path = resource_path("data/Pokemon_List.json")
+        pokemon_path = resource_path("data/Pokemon.json")
         with open(pokemon_path, "r", encoding = "utf-8") as file:
             data = json.load(file)
         self.pokemon_list = data["pokemon"]
 
         """加载技能数据"""
-        pokemon_moves_path = resource_path("data/Pokemon_Moves.json")
+        pokemon_moves_path = resource_path("data/PokemonMoves.json")
         with open(pokemon_moves_path, "r", encoding = "utf-8") as file:
             self.pokemon_moves = json.load(file)["pokemon"]
 
-        move_list_path = resource_path("data/Move_List.json")
+        move_list_path = resource_path("data/Move.json")
         with open(move_list_path, "r", encoding = "utf-8") as file:
             data = json.load(file)
         self.move_list = data["skill"]

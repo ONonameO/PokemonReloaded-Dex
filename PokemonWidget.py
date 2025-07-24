@@ -76,7 +76,7 @@ class PokemonWidget(QWidget, PokemonList.Ui_Win_PokemonList):
 
     def load_data(self):
         """读取Pokemon数据"""
-        pokemon_path = resource_path("data/Pokemon_List.json")
+        pokemon_path = resource_path("data/Pokemon.json")
         with open(pokemon_path, "r", encoding = "utf-8") as file:
             data = json.load(file)
         self.pokemon_list = data["pokemon"]
@@ -88,17 +88,17 @@ class PokemonWidget(QWidget, PokemonList.Ui_Win_PokemonList):
         self.ability_dict = {ability["id"]: ability for ability in self.ability_data}
 
         """加载进化链数据"""
-        evol_chain_path = resource_path("data/Evol_Chain.json")
+        evol_chain_path = resource_path("data/EvolChain.json")
         with open(evol_chain_path, "r", encoding = "utf-8") as file:
             data = json.load(file)  # 加载整个 JSON 文件
             self.evol_chain_data = {chain["id"]: chain["chain"] for chain in data["evolutionChain"]}
 
         """加载技能数据"""
-        pokemon_moves_path = resource_path("data/Pokemon_Moves.json")
+        pokemon_moves_path = resource_path("data/PokemonMoves.json")
         with open(pokemon_moves_path, "r", encoding = "utf-8") as file:
             self.pokemon_moves = json.load(file)["pokemon"]
 
-        move_list_path = resource_path("data/Move_List.json")
+        move_list_path = resource_path("data/Move.json")
         with open(move_list_path, "r", encoding = "utf-8") as file:
             self.move_list = {move["id"]: move for move in json.load(file)["skill"]}
 

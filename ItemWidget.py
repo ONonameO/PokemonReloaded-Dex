@@ -76,7 +76,7 @@ class ItemWidget(QWidget, ItemList.Ui_Win_ItemList):
 
     def load_data(self):
         """读取道具数据"""
-        item_path = resource_path("data/Item_List.json")
+        item_path = resource_path("data/Item.json")
         with open(item_path, "r", encoding = "utf-8") as file:
             data = json.load(file)
         self.item_list = data["item"]

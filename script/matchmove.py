@@ -5,7 +5,7 @@ with open('TM.json', 'r', encoding='utf-8') as tm_file:
     tm_data = json.load(tm_file)
 
 # 读取move.json文件
-with open('data/Move_List.json', 'r', encoding='utf-8') as move_file:
+with open('data/Move.json', 'r', encoding='utf-8') as move_file:
     move_data = json.load(move_file)
 
 # 创建一个字典，以skill为键，cName和eName为值

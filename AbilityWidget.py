@@ -56,7 +56,7 @@ class AbilityWidget(QWidget, AbilityList.Ui_Win_AbilityList):
 
     def load_data(self):
         """读取Pokemon数据"""
-        pokemon_path = resource_path("data/Pokemon_List.json")
+        pokemon_path = resource_path("data/Pokemon.json")
         with open(pokemon_path, "r", encoding = "utf-8") as file:
             data = json.load(file)
         self.pokemon_list = data["pokemon"]

@@ -1,7 +1,7 @@
 import json
 
 # 读取 JSON 文件
-with open('data/Item_List.json', 'r', encoding='utf-8') as f:
+with open('data/Item.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 data = data["item"]
@@ -21,5 +21,5 @@ output_data = {
 }
 
 # 将处理后的数据保存回文件
-with open('data/Item_List.json', 'w', encoding='utf-8') as f:
+with open('data/Item.json', 'w', encoding='utf-8') as f:
     json.dump(output_data, f, ensure_ascii=False, indent=4)
