@@ -1,0 +1,5 @@
+beautifulsoup4==4.14.3
+Pillow==12.2.0
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+Requests==2.34.1
